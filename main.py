@@ -2,18 +2,21 @@
 
 主题逻辑:
 - 背景色: 窗口背景、输入框背景（统一）
-- 按钮背景色: 按钮本身的背景色（可调整，默认和窗口背景一致）
+- 按钮背景色: 按钮本身的背景色（可调整）
 - 按键色: 按钮文字颜色（可调整）
 - 文字色: 标签/输出框文字颜色
 - 按钮边框: flat 模式，无浮雕，无系统边框
 - 存储位置: 默认 ./subtitle/（本文件夹内）
 - 浏览器标签: 设置里可选切回第几个标签页
 - 设置即时生效
+- 配置文件: 本文件夹内 subtitle_tool_config.json
 """
 import sys
 import os
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# 程序所在目录
+APP_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, APP_DIR)
 
 import tkinter as tk
 from tkinter import ttk, scrolledtext, filedialog, messagebox, colorchooser
@@ -26,16 +29,17 @@ import json
 from core.subtitle import download_subtitle, save_subtitle
 
 
-CONFIG_PATH = os.path.expanduser("~/.subtitle_tool_config.json")
+# 配置文件放在程序目录下
+CONFIG_PATH = os.path.join(APP_DIR, "subtitle_tool_config.json")
 
 # 默认配置
 DEFAULT_CONFIG = {
-    "bg_color": "#1a1a1a",      # 窗口/输入框背景
-    "btn_bg_color": "#1a1a1a",  # 按钮背景色（新增）
-    "key_color": "#e0e0e0",     # 按钮文字颜色
-    "fg_color": "#b0b0b0",      # 标签/输出框文字颜色
+    "bg_color": "#1a1a1a",
+    "btn_bg_color": "#1a1a1a",
+    "key_color": "#e0e0e0",
+    "fg_color": "#b0b0b0",
     "auto_paste_enter": False,
-    "browser_tab": 1,            # 切回第几个标签页（新增）
+    "browser_tab": 1,
     "folder": "./subtitle",
 }
 
@@ -47,6 +51,8 @@ def load_config():
                 cfg = json.load(f)
             for k, v in DEFAULT_CONFIG.items():
                 cfg.setdefault(k, v)
+            # 强制默认保存目录为当前程序目录下的 subtitle
+            cfg["folder"] = DEFAULT_CONFIG["folder"]
             return cfg
         except Exception:
             pass
@@ -147,7 +153,7 @@ class SubtitleAssistant:
             relief="flat",
             bd=1,
         )
-        self.folder.insert(0, self.config.get("folder", DEFAULT_CONFIG["folder"]))
+        self.folder.insert(0, DEFAULT_CONFIG["folder"])
         self.folder.pack(side="left")
 
         self.choose_btn = self._make_button(setting, "选择", self.choose_folder)
@@ -181,7 +187,6 @@ class SubtitleAssistant:
     # 统一创建按钮（flat 无浮雕）
     # ==========================
     def _make_button(self, parent, text, command, font=("Arial", 11), width=None, height=None):
-        """创建 flat 风格按钮，无系统边框浮雕"""
         kwargs = {
             "text": text,
             "font": font,
@@ -443,9 +448,15 @@ class SubtitleAssistant:
     def choose_folder(self):
         path = filedialog.askdirectory()
         if path:
+            # 如果选择的是程序目录下的子目录，显示相对路径
+            if path.startswith(APP_DIR):
+                rel = os.path.relpath(path, APP_DIR)
+                display = "./" + rel.replace(os.sep, "/")
+            else:
+                display = path
             self.folder.delete(0, tk.END)
-            self.folder.insert(0, path)
-            self.config["folder"] = path
+            self.folder.insert(0, display)
+            self.config["folder"] = display
             save_config(self.config)
 
     # ==========================
@@ -491,7 +502,7 @@ class SubtitleAssistant:
         folder = self.folder.get()
 
         if folder.startswith("./") or folder.startswith(".\\"):
-            folder = os.path.join(os.path.dirname(os.path.abspath(__file__)), folder[2:])
+            folder = os.path.join(APP_DIR, folder[2:])
 
         try:
             result = download_subtitle(
@@ -513,65 +524,128 @@ class SubtitleAssistant:
             self.log(f"\n❌ 错误: {str(e)}\n")
 
     # ==========================
-    # 切回浏览器（支持指定标签页）
+    # 切回浏览器
     # ==========================
     def back_to_browser(self):
         browser = self.browser.get()
-        mapping = {
-            "edge": "Microsoft Edge",
-            "chrome": "Google Chrome",
-            "safari": "Safari",
-            "firefox": "Firefox",
-        }
-        app = mapping.get(browser)
-        if not app:
-            return
-
         tab_index = self.config.get("browser_tab", 1)
         auto_paste = self.config.get("auto_paste_enter", False)
 
+        scripts = {
+            "edge": self._chrome_edge_script("Microsoft Edge", tab_index, auto_paste),
+            "chrome": self._chrome_edge_script("Google Chrome", tab_index, auto_paste),
+            "safari": self._safari_script(tab_index, auto_paste),
+            "firefox": self._firefox_script(tab_index, auto_paste),
+        }
+
+        script = scripts.get(browser)
+        if not script:
+            self.log(f"\n⚠️ 不支持切换该浏览器: {browser}\n")
+            return
+
+        try:
+            result = subprocess.run(
+                ["osascript", "-e", script],
+                capture_output=True,
+                text=True,
+                timeout=10,
+            )
+
+            if result.returncode != 0 and result.stderr:
+                self.log(f"\n⚠️ 浏览器切换脚本错误: {result.stderr.strip()}\n")
+                return
+
+            app_name = {
+                "edge": "Microsoft Edge",
+                "chrome": "Google Chrome",
+                "safari": "Safari",
+                "firefox": "Firefox",
+            }.get(browser, browser)
+
+            if auto_paste:
+                self.log(f"🔄 已切回 {app_name} 并自动粘贴回车\n")
+            else:
+                self.log(f"🔄 已切回 {app_name} 第 {tab_index} 个标签页\n")
+
+        except Exception as e:
+            self.log(f"\n浏览器切换失败: {str(e)}\n")
+
+    def _chrome_edge_script(self, app_name, tab_index, auto_paste):
+        base = f"""
+tell application "{app_name}"
+    activate
+    delay 0.3
+    tell window 1
+        set active tab index to {tab_index}
+    end tell
+end tell
+"""
         if auto_paste:
-            script = f"""
-tell application "{app}"
+            base += """
+tell application "System Events"
+    delay 0.8
+    keystroke "v" using command down
+    delay 0.5
+    key code 36
+    delay 0.3
+end tell
+"""
+        return base
+
+    def _safari_script(self, tab_index, auto_paste):
+        base = f"""
+tell application "Safari"
+    activate
+    delay 0.3
+    tell window 1
+        set current tab to tab {tab_index}
+    end tell
+end tell
+"""
+        if auto_paste:
+            base += """
+tell application "System Events"
+    delay 0.5
+    keystroke "v" using command down
+    delay 0.5
+    key code 36
+    delay 0.3
+end tell
+"""
+        return base
+
+    def _firefox_script(self, tab_index, auto_paste):
+        key_codes = [18, 19, 20, 21, 23, 22, 26, 28, 25, 29]
+        if tab_index <= 10:
+            key_code = key_codes[tab_index - 1]
+        else:
+            key_code = 18
+
+        base = f"""
+tell application "Firefox"
     activate
     delay 0.5
 end tell
 
 tell application "System Events"
-    tell process "{app}"
+    tell process "Firefox"
         set frontmost to true
         delay 0.3
-        keystroke "v" using command down
-        delay 0.2
-        key code 36
+        key code {key_code} using command down
     end tell
 end tell
 """
-        else:
-            script = f"""
-tell application "{app}"
-    activate
+        if auto_paste:
+            base += """
+tell application "System Events"
     delay 0.5
-    if (count of windows) > 0 then
-        set index of window 1 to 1
-        try
-            set active tab index of window 1 to {tab_index}
-        end try
-    end if
+    keystroke "v" using command down
+    delay 0.5
+    key code 36
+    delay 0.3
 end tell
 """
-
-        try:
-            subprocess.run(
-                ["osascript", "-e", script],
-                capture_output=True,
-            )
-            if auto_paste:
-                self.log(f"🔄 已切回 {app} 并自动粘贴回车\n")
-            else:
-                self.log(f"🔄 已切回 {app} 第 {tab_index} 个标签页\n")
-        except Exception as e:
-            self.log(f"\n浏览器切换失败: {str(e)}\n")
+        return base
 
 
 if __name__ == "__main__":
