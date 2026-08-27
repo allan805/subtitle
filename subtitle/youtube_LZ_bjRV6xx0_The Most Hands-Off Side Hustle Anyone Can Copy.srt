@@ -1,0 +1,8855 @@
+1
+00:00:00,160 --> 00:00:04,000
+that makes a little over 50 grand a
+
+2
+00:00:01,839 --> 00:00:04,879
+year. I spent about an hour a month on
+
+3
+00:00:04,000 --> 00:00:05,599
+it maybe.
+
+4
+00:00:04,879 --> 00:00:08,080
+>> Jeez.
+
+5
+00:00:05,599 --> 00:00:09,599
+>> Zero concept or understanding of coding.
+
+6
+00:00:08,080 --> 00:00:11,519
+I got exposed to expiring domain
+
+7
+00:00:09,599 --> 00:00:13,919
+auctions. I was like, "Oh my gosh, hang
+
+8
+00:00:11,519 --> 00:00:15,439
+on. Callers.com." I mean, look at that
+
+9
+00:00:13,919 --> 00:00:16,480
+domain. You could build some call
+
+10
+00:00:15,439 --> 00:00:17,919
+tracking application.
+
+11
+00:00:16,480 --> 00:00:20,160
+>> Golfour.com.
+
+12
+00:00:17,920 --> 00:00:22,000
+>> Yes, these domains are interesting. Like
+
+13
+00:00:20,160 --> 00:00:24,240
+this is like the key to the entire
+
+14
+00:00:22,000 --> 00:00:26,559
+website. I didn't like my livelihood
+
+15
+00:00:24,239 --> 00:00:28,320
+dictated by someone else. I'd work 9 to5
+
+16
+00:00:26,559 --> 00:00:29,919
+then I'd come home and work on these
+
+17
+00:00:28,320 --> 00:00:31,518
+projects in the evening. What are the
+
+18
+00:00:29,920 --> 00:00:34,679
+tools in your tool belt that you can't
+
+19
+00:00:31,518 --> 00:00:34,679
+live without?
+
+20
+00:00:35,039 --> 00:00:40,000
+My friend Peter lives the life. He lives
+
+21
+00:00:37,759 --> 00:00:42,079
+the dream. He's got a portfolio of niche
+
+22
+00:00:40,000 --> 00:00:43,679
+websites that just pay him hundreds of
+
+23
+00:00:42,079 --> 00:00:44,960
+thousands of dollars every year. It took
+
+24
+00:00:43,679 --> 00:00:47,200
+some time on the front end to build
+
+25
+00:00:44,960 --> 00:00:49,120
+these up, but today he only spends a few
+
+26
+00:00:47,200 --> 00:00:50,640
+hours a week managing these projects.
+
+27
+00:00:49,119 --> 00:00:52,238
+So, I had to know, Peter, as someone
+
+28
+00:00:50,640 --> 00:00:54,558
+who's been reading your blog for 15
+
+29
+00:00:52,238 --> 00:00:56,399
+years, following your progress, how do
+
+30
+00:00:54,558 --> 00:00:58,959
+you do it? What tools do you use? How
+
+31
+00:00:56,399 --> 00:01:01,198
+can people copy you? He did with onions
+
+32
+00:00:58,960 --> 00:01:02,719
+what I did with Bies and Texas snacks.
+
+33
+00:01:01,198 --> 00:01:04,158
+He just does things, permissionless
+
+34
+00:01:02,719 --> 00:01:05,920
+things. He partners with people he's
+
+35
+00:01:04,159 --> 00:01:07,280
+never met. He's cheap like me. He
+
+36
+00:01:05,920 --> 00:01:09,439
+doesn't spend a ton of money, but he's
+
+37
+00:01:07,280 --> 00:01:11,118
+patient and he's tactical and he shares
+
+38
+00:01:09,438 --> 00:01:12,559
+his secrets with us today. So, please
+
+39
+00:01:11,118 --> 00:01:14,239
+enjoy this conversation with my friend
+
+40
+00:01:12,560 --> 00:01:15,760
+Peter. I would love to hear this story.
+
+41
+00:01:14,239 --> 00:01:17,759
+How did this domain name come across
+
+42
+00:01:15,760 --> 00:01:19,680
+your desk and what made you find it
+
+43
+00:01:17,759 --> 00:01:21,680
+interesting and end up buying it? At
+
+44
+00:01:19,680 --> 00:01:25,118
+this point in my career, I I'd been laid
+
+45
+00:01:21,680 --> 00:01:28,000
+off several several times and that began
+
+46
+00:01:25,118 --> 00:01:30,239
+to grate on my nerves. I I didn't like
+
+47
+00:01:28,000 --> 00:01:32,640
+my livelihood dictated by someone else
+
+48
+00:01:30,239 --> 00:01:34,798
+and if somebody made some and I've lived
+
+49
+00:01:32,640 --> 00:01:36,560
+through this through several startups.
+
+50
+00:01:34,799 --> 00:01:38,720
+You know, executives make a horrible
+
+51
+00:01:36,560 --> 00:01:41,200
+decision and it kneecaps the company and
+
+52
+00:01:38,719 --> 00:01:43,200
+I'm held responsible. And I had a few
+
+53
+00:01:41,200 --> 00:01:45,280
+instances where I was at a startup and I
+
+54
+00:01:43,200 --> 00:01:46,799
+drove like I was in the marketing and I
+
+55
+00:01:45,280 --> 00:01:48,399
+built a product for the team and it
+
+56
+00:01:46,799 --> 00:01:50,880
+drove an extra couple million dollars
+
+57
+00:01:48,399 --> 00:01:53,439
+for the team and they promoted me and
+
+58
+00:01:50,879 --> 00:01:54,879
+they hired I got an assistant. I trained
+
+59
+00:01:53,438 --> 00:01:56,719
+the assistant up and then six months
+
+60
+00:01:54,879 --> 00:01:59,599
+later they lay me off and keep my
+
+61
+00:01:56,719 --> 00:02:01,920
+assistant for a lower salary.
+
+62
+00:01:59,599 --> 00:02:03,118
+>> That one really stuck with me and that's
+
+63
+00:02:01,920 --> 00:02:04,320
+when I was like, I got to figure out
+
+64
+00:02:03,118 --> 00:02:05,840
+this stuff. I don't have a computer
+
+65
+00:02:04,319 --> 00:02:08,478
+science background. I have a history
+
+66
+00:02:05,840 --> 00:02:09,679
+degree from Miss. So I was like, I got
+
+67
+00:02:08,479 --> 00:02:12,239
+to figure this stuff out. I have a
+
+68
+00:02:09,679 --> 00:02:14,640
+background in SEO, a little bit in SEO,
+
+69
+00:02:12,239 --> 00:02:17,039
+zero concept or understanding of coding,
+
+70
+00:02:14,639 --> 00:02:19,439
+but I knew I needed to concentrate on
+
+71
+00:02:17,039 --> 00:02:23,199
+it. So I started trying to teach myself
+
+72
+00:02:19,439 --> 00:02:25,520
+to code. Coding led me to start building
+
+73
+00:02:23,199 --> 00:02:27,598
+sites. Building sites exposed me to like
+
+74
+00:02:25,520 --> 00:02:29,599
+AdSense and I could monetize the sites a
+
+75
+00:02:27,598 --> 00:02:31,439
+little bit from AdSense and that started
+
+76
+00:02:29,598 --> 00:02:33,199
+giving me a little bit of money. I mean,
+
+77
+00:02:31,439 --> 00:02:35,199
+not a ton of me, 50 bucks a month and
+
+78
+00:02:33,199 --> 00:02:37,839
+then it got to 300 bucks a month and I
+
+79
+00:02:35,199 --> 00:02:41,598
+was like, "Wow, this is crazy. A more on
+
+80
+00:02:37,840 --> 00:02:43,840
+me can generate revenue online." Um, but
+
+81
+00:02:41,598 --> 00:02:46,479
+there were small like peacemail projects
+
+82
+00:02:43,840 --> 00:02:48,159
+and the more I kept building at some
+
+83
+00:02:46,479 --> 00:02:50,479
+point and I always have to think back on
+
+84
+00:02:48,159 --> 00:02:51,919
+how I got exposed to expired domains. I
+
+85
+00:02:50,479 --> 00:02:54,719
+was building sites and I realized it
+
+86
+00:02:51,919 --> 00:02:57,518
+might be faster to acquire a site.
+
+87
+00:02:54,719 --> 00:02:59,840
+What's stopping me from going into
+
+88
+00:02:57,519 --> 00:03:01,680
+Google, typing in some highra search
+
+89
+00:02:59,840 --> 00:03:03,598
+term, reaching out to the owner to see
+
+90
+00:03:01,680 --> 00:03:05,439
+if they want to sell the site to me. In
+
+91
+00:03:03,598 --> 00:03:06,878
+my head, like there's nothing stopping
+
+92
+00:03:05,439 --> 00:03:09,519
+me from doing that. So, I started
+
+93
+00:03:06,878 --> 00:03:11,439
+attempting to do that. I'd reach out and
+
+94
+00:03:09,519 --> 00:03:14,879
+for some strange reason tourism seemed
+
+95
+00:03:11,439 --> 00:03:17,120
+fun. So I'd search tourism terms. Aruba.
+
+96
+00:03:14,878 --> 00:03:18,878
+Hooched up for the term Aruba.
+
+97
+00:03:17,120 --> 00:03:20,560
+>> Buying sites. Do you mean buying domain
+
+98
+00:03:18,878 --> 00:03:22,959
+names that are just sitting dormant?
+
+99
+00:03:20,560 --> 00:03:25,120
+>> No. No. Full operating websites that
+
+100
+00:03:22,959 --> 00:03:27,120
+look like kind of mom and pop design.
+
+101
+00:03:25,120 --> 00:03:29,039
+Maybe they were built in Dreamweaver and
+
+102
+00:03:27,120 --> 00:03:32,400
+they hadn't been updated in five or 10
+
+103
+00:03:29,039 --> 00:03:34,639
+years and but they were ranked number
+
+104
+00:03:32,400 --> 00:03:37,680
+two or three or maybe number one in
+
+105
+00:03:34,639 --> 00:03:40,559
+Google for the term Cancun or some
+
+106
+00:03:37,680 --> 00:03:43,120
+travel-based website. And I could see
+
+107
+00:03:40,560 --> 00:03:45,439
+within, you know, on AdSense, Google
+
+108
+00:03:43,120 --> 00:03:47,680
+typically gives you around 70% of that
+
+109
+00:03:45,439 --> 00:03:49,439
+click value. So I was like, well,
+
+110
+00:03:47,680 --> 00:03:51,840
+tourism terms are quite expensive.
+
+111
+00:03:49,439 --> 00:03:55,280
+They're a dollar, $2, $3 a click. So, if
+
+112
+00:03:51,840 --> 00:03:57,840
+I built out a tourism based website and
+
+113
+00:03:55,280 --> 00:03:59,519
+somebody clicks on a dollar ad unit,
+
+114
+00:03:57,840 --> 00:04:01,680
+I'll get 70 cents per click. That's
+
+115
+00:03:59,519 --> 00:04:04,799
+that's pretty darn good. And heck, I can
+
+116
+00:04:01,680 --> 00:04:06,959
+go down to Aruba or go to Cancun or or
+
+117
+00:04:04,799 --> 00:04:08,080
+go out west on a vacation. So, I started
+
+118
+00:04:06,959 --> 00:04:09,759
+building these small kind of
+
+119
+00:04:08,080 --> 00:04:11,200
+travel-based websites. It felt like
+
+120
+00:04:09,759 --> 00:04:12,719
+didn't feel like work. It was just like
+
+121
+00:04:11,199 --> 00:04:14,798
+vacation. I'm building vacation
+
+122
+00:04:12,719 --> 00:04:16,079
+websites. And there's some arbitrage in
+
+123
+00:04:14,799 --> 00:04:17,840
+here because the owners of these
+
+124
+00:04:16,079 --> 00:04:19,600
+websites don't know that the cost per
+
+125
+00:04:17,839 --> 00:04:21,279
+click is higher. You have that
+
+126
+00:04:19,600 --> 00:04:23,040
+information that they don't have. Right.
+
+127
+00:04:21,279 --> 00:04:24,719
+Correct. They'd always show I always ask
+
+128
+00:04:23,040 --> 00:04:26,400
+for analytics and I could look at their
+
+129
+00:04:24,720 --> 00:04:28,639
+analytics and say, "Oh my gosh, if I got
+
+130
+00:04:26,399 --> 00:04:31,679
+a 3% click-through rate, 1% clickthrough
+
+131
+00:04:28,639 --> 00:04:34,400
+rate on these ads, I can make 500, a,000
+
+132
+00:04:31,680 --> 00:04:37,120
+bucks a month, 2,000 bucks a month, and
+
+133
+00:04:34,399 --> 00:04:39,120
+their ask price is three grand. Yeah,
+
+134
+00:04:37,120 --> 00:04:41,519
+I'll I'll buy it and bring it in house."
+
+135
+00:04:39,120 --> 00:04:44,079
+So, I'd buy the entire content and bring
+
+136
+00:04:41,519 --> 00:04:45,519
+the domain over. And so, that's when I
+
+137
+00:04:44,079 --> 00:04:48,000
+started getting exposed to domain. So,
+
+138
+00:04:45,519 --> 00:04:50,079
+I'd get a deal on a site and my brain
+
+139
+00:04:48,000 --> 00:04:52,160
+immediately went to the domain and say,
+
+140
+00:04:50,079 --> 00:04:53,839
+and my brain was telling me, I got to
+
+141
+00:04:52,160 --> 00:04:55,439
+get control of this domain because if I
+
+142
+00:04:53,839 --> 00:04:56,799
+control the domain, I control the whole
+
+143
+00:04:55,439 --> 00:04:58,800
+site because they could waffle and
+
+144
+00:04:56,800 --> 00:05:01,918
+change their mind, but if I control the
+
+145
+00:04:58,800 --> 00:05:03,680
+domain and they go back on their word, I
+
+146
+00:05:01,918 --> 00:05:05,359
+can still screen scrape the information,
+
+147
+00:05:03,680 --> 00:05:07,600
+pull it over, and rebuild the site, but
+
+148
+00:05:05,360 --> 00:05:09,280
+I have to own the domain. I was like,
+
+149
+00:05:07,600 --> 00:05:11,680
+these domains are interesting. I like
+
+150
+00:05:09,279 --> 00:05:14,638
+these are this is like the key to the
+
+151
+00:05:11,680 --> 00:05:16,800
+entire website. And some of the sites I
+
+152
+00:05:14,639 --> 00:05:18,560
+was buying early on were just regular,
+
+153
+00:05:16,800 --> 00:05:20,240
+you know, just they weren't terribly
+
+154
+00:05:18,560 --> 00:05:22,399
+descriptive, but they ranked. They were
+
+155
+00:05:20,240 --> 00:05:24,079
+old, they were trusted, but I kept
+
+156
+00:05:22,399 --> 00:05:26,319
+coming across these really interesting
+
+157
+00:05:24,079 --> 00:05:27,120
+new descriptive domain names like one of
+
+158
+00:05:26,319 --> 00:05:27,680
+the early
+
+159
+00:05:27,120 --> 00:05:28,879
+>> Go ahead.
+
+160
+00:05:27,680 --> 00:05:30,720
+>> Sorry. Before you go there, what what
+
+161
+00:05:28,879 --> 00:05:32,319
+are some examples of some old ones that
+
+162
+00:05:30,720 --> 00:05:33,680
+that you bought that were interesting
+
+163
+00:05:32,319 --> 00:05:35,759
+but didn't quite work out.
+
+164
+00:05:33,680 --> 00:05:38,959
+>> Yeah, so one was I've since sold this
+
+165
+00:05:35,759 --> 00:05:41,360
+domain. It was called Travel Envoy and
+
+166
+00:05:38,959 --> 00:05:43,599
+it was a directory of wineries and
+
+167
+00:05:41,360 --> 00:05:45,919
+vineyards that you could visit. I bought
+
+168
+00:05:43,600 --> 00:05:46,639
+this around ' 04 and
+
+169
+00:05:45,918 --> 00:05:48,319
+>> okay
+
+170
+00:05:46,639 --> 00:05:51,038
+>> and then he he transferred all the pages
+
+171
+00:05:48,319 --> 00:05:53,038
+to me. I bought it for 10 grand and then
+
+172
+00:05:51,038 --> 00:05:54,478
+I simply just added AdSense to it. Add
+
+173
+00:05:53,038 --> 00:05:56,079
+it and I did a poor job. I didn't know
+
+174
+00:05:54,478 --> 00:05:59,038
+how to code very well. So
+
+175
+00:05:56,079 --> 00:06:00,879
+>> So I added it to the site and then it
+
+176
+00:05:59,038 --> 00:06:02,719
+started Yeah. throwing me whatever a
+
+177
+00:06:00,879 --> 00:06:04,800
+grand, two grand a month.
+
+178
+00:06:02,720 --> 00:06:06,639
+>> And he didn't have any ads on it.
+
+179
+00:06:04,800 --> 00:06:08,639
+>> Zero ads. nothing on it.
+
+180
+00:06:06,639 --> 00:06:10,478
+>> So, you bought it like as a business
+
+181
+00:06:08,639 --> 00:06:12,639
+website and that wasn't even on his
+
+182
+00:06:10,478 --> 00:06:13,439
+radar. All you did was plug ads on it
+
+183
+00:06:12,639 --> 00:06:15,759
+and wait.
+
+184
+00:06:13,439 --> 00:06:17,839
+>> I plugged ads. Yeah. AdSense ads on it
+
+185
+00:06:15,759 --> 00:06:19,360
+and then and I had one affiliate thing
+
+186
+00:06:17,839 --> 00:06:23,038
+and that actually worked pretty well.
+
+187
+00:06:19,360 --> 00:06:25,439
+There was this cool map of all the like
+
+188
+00:06:23,038 --> 00:06:27,599
+wine varieties where they're sourced
+
+189
+00:06:25,439 --> 00:06:29,279
+from. And this guy sign up for an
+
+190
+00:06:27,600 --> 00:06:31,919
+affiliate deal. And so, if you go back
+
+191
+00:06:29,279 --> 00:06:34,719
+in Internet Archive, you'll see this ad
+
+192
+00:06:31,918 --> 00:06:35,758
+up in the top right hand side. Uh oh,
+
+193
+00:06:34,720 --> 00:06:36,160
+yeah. Yeah, you're going to pull it way
+
+194
+00:06:35,759 --> 00:06:36,800
+back.
+
+195
+00:06:36,160 --> 00:06:38,479
+>> Yeah. Go
+
+196
+00:06:36,800 --> 00:06:40,240
+>> 2004. Is this it?
+
+197
+00:06:38,478 --> 00:06:41,680
+>> This is before I bought it. Isn't that
+
+198
+00:06:40,240 --> 00:06:42,400
+beautiful? Look at that.
+
+199
+00:06:41,680 --> 00:06:44,240
+>> Oh man.
+
+200
+00:06:42,399 --> 00:06:47,839
+>> This is This is what you're looking for.
+
+201
+00:06:44,240 --> 00:06:49,280
+These types of sites still exist today.
+
+202
+00:06:47,839 --> 00:06:50,959
+>> For those that are listening, it
+
+203
+00:06:49,279 --> 00:06:52,879
+basically looks like Craigslist. Blue
+
+204
+00:06:50,959 --> 00:06:54,638
+hyperlinks. Very ugly.
+
+205
+00:06:52,879 --> 00:06:56,639
+>> And there are still mom and pop
+
+206
+00:06:54,639 --> 00:06:59,038
+operators out here that that have
+
+207
+00:06:56,639 --> 00:07:01,360
+websites like this that are very
+
+208
+00:06:59,038 --> 00:07:02,639
+receptive to straight up offers to buy
+
+209
+00:07:01,360 --> 00:07:05,759
+the website.
+
+210
+00:07:02,639 --> 00:07:07,918
+>> This is before I acquired it. And 10,000
+
+211
+00:07:05,759 --> 00:07:10,080
+pages on a website, that's a moat.
+
+212
+00:07:07,918 --> 00:07:12,079
+That's a lot of tedious work.
+
+213
+00:07:10,079 --> 00:07:14,159
+>> I was kind of spitballing 10,000. It was
+
+214
+00:07:12,079 --> 00:07:16,000
+a lot. It may have been 5 to 10,000. It
+
+215
+00:07:14,160 --> 00:07:18,479
+was a tremendous amount of pages because
+
+216
+00:07:16,000 --> 00:07:21,199
+it took me hours when I did the FTP
+
+217
+00:07:18,478 --> 00:07:22,879
+transfer. He forwarded all the sites. I
+
+218
+00:07:21,199 --> 00:07:24,560
+can't I think I did an FTP because there
+
+219
+00:07:22,879 --> 00:07:27,598
+were so many pages.
+
+220
+00:07:24,560 --> 00:07:29,598
+>> There was no easy way that I that I was
+
+221
+00:07:27,598 --> 00:07:33,439
+aware of. So, this may have been me. So,
+
+222
+00:07:29,598 --> 00:07:35,439
+here top right, that's a link. QPR Wines
+
+223
+00:07:33,439 --> 00:07:37,598
+paid me. They paid me a few. This one
+
+224
+00:07:35,439 --> 00:07:38,478
+was like wine ratings. Yeah. They wound
+
+225
+00:07:37,598 --> 00:07:40,319
+up paying me a month.
+
+226
+00:07:38,478 --> 00:07:40,639
+>> Is this like a trip down memory lane for
+
+227
+00:07:40,319 --> 00:07:42,400
+you?
+
+228
+00:07:40,639 --> 00:07:44,079
+>> Yes, it is. I haven't been it. So, if
+
+229
+00:07:42,399 --> 00:07:47,198
+you notice this grape to the right of
+
+230
+00:07:44,079 --> 00:07:50,079
+that was my AdSense ad unit. So, back
+
+231
+00:07:47,199 --> 00:07:52,160
+then there were no uh AdSense wasn't
+
+232
+00:07:50,079 --> 00:07:54,000
+including any kind of images within
+
+233
+00:07:52,160 --> 00:07:55,759
+this. They were straight hyperlinks that
+
+234
+00:07:54,000 --> 00:07:57,839
+they'd pull. So, I'd always try to add
+
+235
+00:07:55,759 --> 00:07:59,840
+some kind of imagery. So, that was that
+
+236
+00:07:57,839 --> 00:08:00,799
+was some free clip art I found
+
+237
+00:07:59,839 --> 00:08:02,959
+somewhere.
+
+238
+00:08:00,800 --> 00:08:04,720
+>> Dump it. add the ad on the right and
+
+239
+00:08:02,959 --> 00:08:05,680
+then included all the normal navigation
+
+240
+00:08:04,720 --> 00:08:07,520
+to the site.
+
+241
+00:08:05,680 --> 00:08:09,439
+>> And then wine books. Did that just take
+
+242
+00:08:07,519 --> 00:08:11,519
+you to Amazon through an affiliate link?
+
+243
+00:08:09,439 --> 00:08:13,439
+>> I may have left that for him and I just
+
+244
+00:08:11,519 --> 00:08:15,519
+let him keep all the affiliate stuff
+
+245
+00:08:13,439 --> 00:08:17,839
+from the wine book. He may that I can't
+
+246
+00:08:15,519 --> 00:08:19,918
+Yeah, I don't I don't remember ever put
+
+247
+00:08:17,839 --> 00:08:22,318
+creating my cuz the the affiliates were
+
+248
+00:08:19,918 --> 00:08:24,478
+so small the revenue shares. So I never
+
+249
+00:08:22,319 --> 00:08:26,319
+bothered I was making more from the
+
+250
+00:08:24,478 --> 00:08:28,878
+AdSense. I just focused on AdSense and
+
+251
+00:08:26,319 --> 00:08:30,639
+and some intriguing affiliate deals.
+
+252
+00:08:28,879 --> 00:08:32,399
+That little map up on the right
+
+253
+00:08:30,639 --> 00:08:33,360
+converted quite well. You'd be you'd be
+
+254
+00:08:32,399 --> 00:08:34,559
+surprised right here.
+
+255
+00:08:33,360 --> 00:08:35,278
+>> Yeah. I don't know if they're still in
+
+256
+00:08:34,559 --> 00:08:36,879
+existence.
+
+257
+00:08:35,278 --> 00:08:38,240
+>> It looks very intriguing. It looks like
+
+258
+00:08:36,879 --> 00:08:39,918
+a periodic table.
+
+259
+00:08:38,240 --> 00:08:41,599
+>> Yeah, it was really cool. Oh, yeah.
+
+260
+00:08:39,918 --> 00:08:43,120
+Delong's wine info. It was really cool.
+
+261
+00:08:41,599 --> 00:08:46,160
+And they'd ship it. They sent me one for
+
+262
+00:08:43,120 --> 00:08:47,519
+free. Comes in that little just down
+
+263
+00:08:46,159 --> 00:08:50,240
+memory lane.
+
+264
+00:08:47,519 --> 00:08:51,839
+>> So, this one was one of the first big
+
+265
+00:08:50,240 --> 00:08:53,278
+acquisitions I did. I bought it for
+
+266
+00:08:51,839 --> 00:08:55,120
+10,000 bucks.
+
+267
+00:08:53,278 --> 00:08:57,600
+>> So, let's talk about the unit economics
+
+268
+00:08:55,120 --> 00:08:59,440
+of that $10,000. Like, what were you
+
+269
+00:08:57,600 --> 00:09:01,759
+buying? Was there any revenue from
+
+270
+00:08:59,440 --> 00:09:04,240
+anything? How did you come up with that
+
+271
+00:09:01,759 --> 00:09:05,679
+price? I don't even know how we came. I
+
+272
+00:09:04,240 --> 00:09:07,360
+may have asked him what he was
+
+273
+00:09:05,679 --> 00:09:08,958
+comfortable selling it with. And I
+
+274
+00:09:07,360 --> 00:09:11,278
+believe he may have come around from
+
+275
+00:09:08,958 --> 00:09:14,159
+what I remember it was maybe 12 to 14
+
+276
+00:09:11,278 --> 00:09:16,480
+and I got him down to 10,000 bucks. So I
+
+277
+00:09:14,159 --> 00:09:18,079
+could use that number and then look at
+
+278
+00:09:16,480 --> 00:09:19,680
+the analytics and say, "Okay, how long
+
+279
+00:09:18,080 --> 00:09:21,680
+would it take me?" I was still working a
+
+280
+00:09:19,679 --> 00:09:23,120
+9 to5 at this. And I'm a big believer of
+
+281
+00:09:21,679 --> 00:09:25,278
+this. Some of these folks online talk
+
+282
+00:09:23,120 --> 00:09:26,799
+about this. You know, some online
+
+283
+00:09:25,278 --> 00:09:28,720
+builders are under the impression that
+
+284
+00:09:26,799 --> 00:09:29,199
+they need to quit their day job.
+
+285
+00:09:28,720 --> 00:09:31,278
+>> Yes.
+
+286
+00:09:29,200 --> 00:09:31,920
+>> And then go all in on their project.
+
+287
+00:09:31,278 --> 00:09:34,559
+>> Preach.
+
+288
+00:09:31,919 --> 00:09:38,479
+>> Andreach. I do not subscribe to that at
+
+289
+00:09:34,559 --> 00:09:40,239
+all. I ran my day job. I'd work 9 to5.
+
+290
+00:09:38,480 --> 00:09:42,080
+Then I'd come home and work on these
+
+291
+00:09:40,240 --> 00:09:43,919
+projects in the evening. Also, guys,
+
+292
+00:09:42,080 --> 00:09:45,680
+real quick, sorry. This is really good,
+
+293
+00:09:43,919 --> 00:09:46,879
+right? Like Peter's an awesome guest. If
+
+294
+00:09:45,679 --> 00:09:48,319
+you want to say thanks to me and to
+
+295
+00:09:46,879 --> 00:09:50,000
+Peter, just hit subscribe and the
+
+296
+00:09:48,320 --> 00:09:52,080
+notification bell. It would mean a ton.
+
+297
+00:09:50,000 --> 00:09:53,600
+Thank you. Every day. And I treated it.
+
+298
+00:09:52,080 --> 00:09:55,120
+I don't know you watch that old robot
+
+299
+00:09:53,600 --> 00:09:57,040
+show, the Battlebot Show, and I
+
+300
+00:09:55,120 --> 00:09:58,879
+mentioned this on Twitter sometimes. I
+
+301
+00:09:57,039 --> 00:10:01,599
+compared it, these two little robots in
+
+302
+00:09:58,879 --> 00:10:03,919
+it in this death den, and they're
+
+303
+00:10:01,600 --> 00:10:06,159
+fighting each other. Which one, my
+
+304
+00:10:03,919 --> 00:10:08,559
+nineto-5 or these projects that I'm
+
+305
+00:10:06,159 --> 00:10:10,958
+building, which one can generate more
+
+306
+00:10:08,559 --> 00:10:12,639
+money? And whenever my little pro side
+
+307
+00:10:10,958 --> 00:10:15,039
+projects, maybe it never happens, but
+
+308
+00:10:12,639 --> 00:10:19,600
+whenever my side projects can generate
+
+309
+00:10:15,039 --> 00:10:21,278
+more money than my nineto-5, that's when
+
+310
+00:10:19,600 --> 00:10:23,360
+I'll consider it. or maybe when they're
+
+311
+00:10:21,278 --> 00:10:26,159
+getting close, that's when I'll consider
+
+312
+00:10:23,360 --> 00:10:27,759
+dropping off and going full-time. So, I
+
+313
+00:10:26,159 --> 00:10:28,639
+will still working 9 to5 in these
+
+314
+00:10:27,759 --> 00:10:30,799
+projects.
+
+315
+00:10:28,639 --> 00:10:32,399
+>> I call it the wing walkers code. For
+
+316
+00:10:30,799 --> 00:10:34,799
+those listening, I'm showing images of
+
+317
+00:10:32,399 --> 00:10:36,799
+wing walkers on these airplanes. You
+
+318
+00:10:34,799 --> 00:10:39,199
+never let go of one railing until you
+
+319
+00:10:36,799 --> 00:10:40,719
+have control of the other railing.
+
+320
+00:10:39,200 --> 00:10:42,399
+>> Right. And that's the same thing with
+
+321
+00:10:40,720 --> 00:10:45,519
+testing side hustles, testing business
+
+322
+00:10:42,399 --> 00:10:47,278
+ideas. Like, just don't let go of the
+
+323
+00:10:45,519 --> 00:10:47,839
+thing until you have a better thing in
+
+324
+00:10:47,278 --> 00:10:48,480
+hand.
+
+325
+00:10:47,839 --> 00:10:50,160
+>> Yes.
+
+326
+00:10:48,480 --> 00:10:51,600
+>> Because it creates so much stress. I I
+
+327
+00:10:50,159 --> 00:10:53,919
+see some folks that do this. They'll
+
+328
+00:10:51,600 --> 00:10:56,639
+quit. I'm giving myself nine months. And
+
+329
+00:10:53,919 --> 00:10:59,519
+oh my gosh, the pressure. And you know,
+
+330
+00:10:56,639 --> 00:11:01,199
+these weirdo ideas, in my opinion, don't
+
+331
+00:10:59,519 --> 00:11:02,560
+come up in that type of pressure tank.
+
+332
+00:11:01,200 --> 00:11:04,720
+It's when you're
+
+333
+00:11:02,559 --> 00:11:07,039
+>> when you're allowed to sit and daydream
+
+334
+00:11:04,720 --> 00:11:08,720
+and chew. Heck, at 95, you're probably
+
+335
+00:11:07,039 --> 00:11:10,719
+sitting at your cube
+
+336
+00:11:08,720 --> 00:11:12,079
+>> five or six hours a day just daydreaming
+
+337
+00:11:10,720 --> 00:11:13,600
+on different ways to work on your
+
+338
+00:11:12,078 --> 00:11:15,919
+project at night and doing two or three
+
+339
+00:11:13,600 --> 00:11:18,399
+hours of actual work at your job. Why
+
+340
+00:11:15,919 --> 00:11:20,958
+not get paid for that? go home, work on
+
+341
+00:11:18,399 --> 00:11:22,559
+your project and see where it can lead.
+
+342
+00:11:20,958 --> 00:11:25,439
+And some of these projects, I mean, they
+
+343
+00:11:22,559 --> 00:11:27,278
+don't require they require somebody just
+
+344
+00:11:25,440 --> 00:11:29,600
+to baby them constantly. And sometimes
+
+345
+00:11:27,278 --> 00:11:31,120
+it's just an hour a day to push it in
+
+346
+00:11:29,600 --> 00:11:33,440
+the right direction, make sure it's not
+
+347
+00:11:31,120 --> 00:11:34,560
+going down, and it's fast and
+
+348
+00:11:33,440 --> 00:11:36,480
+responsive.
+
+349
+00:11:34,559 --> 00:11:37,599
+>> And you were having a ton of fun. This
+
+350
+00:11:36,480 --> 00:11:39,519
+was a hobby, correct?
+
+351
+00:11:37,600 --> 00:11:41,120
+>> This is just fun. And correct, you could
+
+352
+00:11:39,519 --> 00:11:42,399
+even monetize this fun. So,
+
+353
+00:11:41,120 --> 00:11:43,759
+>> right. And I was teaching myself to
+
+354
+00:11:42,399 --> 00:11:46,078
+code. I was like, "Wow, this code
+
+355
+00:11:43,759 --> 00:11:47,759
+stuff's weird. I'm not very good at it.
+
+356
+00:11:46,078 --> 00:11:50,319
+I don't know if I have a ton of interest
+
+357
+00:11:47,759 --> 00:11:53,120
+in it, but I'm fascinated by it. I'm
+
+358
+00:11:50,320 --> 00:11:55,680
+glad I understand. So, the way I kind of
+
+359
+00:11:53,120 --> 00:11:57,200
+taught myself to code was I am not a
+
+360
+00:11:55,679 --> 00:12:00,399
+coder, but I basically just taught
+
+361
+00:11:57,200 --> 00:12:02,240
+myself how all these puzzle pieces work.
+
+362
+00:12:00,399 --> 00:12:05,039
+But, so back to Travel Envoy. So, I
+
+363
+00:12:02,240 --> 00:12:07,919
+built it. I start recognizing this
+
+364
+00:12:05,039 --> 00:12:10,319
+importance of this domain name. And I
+
+365
+00:12:07,919 --> 00:12:12,240
+keep running across projects with really
+
+366
+00:12:10,320 --> 00:12:14,879
+intriguing just descriptive like my
+
+367
+00:12:12,240 --> 00:12:17,360
+friend north of Atlanta Warren Royal
+
+368
+00:12:14,879 --> 00:12:20,240
+bought the domain bobbleheads.com
+
+369
+00:12:17,360 --> 00:12:22,000
+at a domain name auction had no
+
+370
+00:12:20,240 --> 00:12:24,480
+experience in bobbleheads very similar
+
+371
+00:12:22,000 --> 00:12:27,519
+to you and me you and Texas Snacks and
+
+372
+00:12:24,480 --> 00:12:30,000
+me and Vidilia. He had zero experience
+
+373
+00:12:27,519 --> 00:12:32,720
+in the bobblehead world. Bought it at
+
+374
+00:12:30,000 --> 00:12:35,360
+auction. I believe he spent 30 grand and
+
+375
+00:12:32,720 --> 00:12:39,600
+he started a custom bobblehead business
+
+376
+00:12:35,360 --> 00:12:41,440
+from scratch and he currently now has 15
+
+377
+00:12:39,600 --> 00:12:44,399
+employees north of Atlanta. I've been to
+
+378
+00:12:41,440 --> 00:12:46,160
+his warehouse a few times and it's just
+
+379
+00:12:44,399 --> 00:12:48,720
+the coolest warehouse to go visit
+
+380
+00:12:46,159 --> 00:12:50,480
+because he has life-siz bobbleheads, you
+
+381
+00:12:48,720 --> 00:12:53,040
+know, like George Washington hanging
+
+382
+00:12:50,480 --> 00:12:54,560
+around. And so I was watching what
+
+383
+00:12:53,039 --> 00:12:56,240
+Warren was doing. I was like, this is
+
+384
+00:12:54,559 --> 00:12:58,399
+very interesting and fascinating what
+
+385
+00:12:56,240 --> 00:13:00,720
+he's building. And so he bought that at
+
+386
+00:12:58,399 --> 00:13:02,639
+auction. I mean, $160. Do you know what
+
+387
+00:13:00,720 --> 00:13:03,839
+his revenue is or what kind of volume he
+
+388
+00:13:02,639 --> 00:13:06,399
+does nowadays from a
+
+389
+00:13:03,839 --> 00:13:09,200
+>> $30,000? You should get him on the He is
+
+390
+00:13:06,399 --> 00:13:12,078
+wonderful. Uh he doesn't go on many
+
+391
+00:13:09,200 --> 00:13:14,480
+podcasts. He He's so heads down on this
+
+392
+00:13:12,078 --> 00:13:16,638
+business. He rarely he'll show up on a
+
+393
+00:13:14,480 --> 00:13:19,039
+few domainer podcasts from time to time,
+
+394
+00:13:16,639 --> 00:13:21,278
+but he's always head heads down on Let's
+
+395
+00:13:19,039 --> 00:13:23,519
+just use his math. We We produce over
+
+396
+00:13:21,278 --> 00:13:25,360
+250,000 bobbleheads each year. I'm
+
+397
+00:13:23,519 --> 00:13:26,240
+looking at his prices. Nothing's under
+
+398
+00:13:25,360 --> 00:13:29,360
+$100.
+
+399
+00:13:26,240 --> 00:13:30,000
+>> Yeah. So 25 million get two.
+
+400
+00:13:29,360 --> 00:13:32,000
+>> Wow.
+
+401
+00:13:30,000 --> 00:13:34,078
+>> That would be over 25 million a year if
+
+402
+00:13:32,000 --> 00:13:36,078
+they were each $100, which most of these
+
+403
+00:13:34,078 --> 00:13:37,199
+are 100 to 200.
+
+404
+00:13:36,078 --> 00:13:39,519
+>> Yeah. Yeah.
+
+405
+00:13:37,200 --> 00:13:40,800
+>> See, and it's funny, Peter, because like
+
+406
+00:13:39,519 --> 00:13:42,078
+most people wouldn't believe that.
+
+407
+00:13:40,799 --> 00:13:43,679
+They're going to hear that like, "No,
+
+408
+00:13:42,078 --> 00:13:44,638
+you don't sell 25 million of bobbleheads
+
+409
+00:13:43,679 --> 00:13:46,559
+a year." And it's like bobbleheads.
+
+410
+00:13:44,639 --> 00:13:48,399
+Yeah. Oh, I can I can never get the
+
+411
+00:13:46,559 --> 00:13:50,559
+domain bobbleheads. All the kind of the
+
+412
+00:13:48,399 --> 00:13:51,600
+cynical attitude. So, but go ahead. I'm
+
+413
+00:13:50,559 --> 00:13:53,278
+interrupting you. Yes.
+
+414
+00:13:51,600 --> 00:13:55,040
+>> No. Like that trap.
+
+415
+00:13:53,278 --> 00:13:56,720
+>> There's just so many e-commerce
+
+416
+00:13:55,039 --> 00:13:59,599
+businesses out there. not named
+
+417
+00:13:56,720 --> 00:14:01,040
+Amazon.com that do millions, tens,
+
+418
+00:13:59,600 --> 00:14:03,120
+hundreds of millions, and billions of
+
+419
+00:14:01,039 --> 00:14:04,319
+dollars a year, many of which have never
+
+420
+00:14:03,120 --> 00:14:04,799
+been heard of.
+
+421
+00:14:04,320 --> 00:14:06,560
+>> Yeah.
+
+422
+00:14:04,799 --> 00:14:08,319
+>> I owned an e-commerce fulfillment
+
+423
+00:14:06,559 --> 00:14:10,000
+company and we would get leads all the
+
+424
+00:14:08,320 --> 00:14:11,760
+time. Like, I have this makeup brand, I
+
+425
+00:14:10,000 --> 00:14:14,000
+have this this food brand, this ice
+
+426
+00:14:11,759 --> 00:14:16,078
+cream brand, we do 36 million, we do 20.
+
+427
+00:14:14,000 --> 00:14:18,958
+And I'm like, where are you coming from?
+
+428
+00:14:16,078 --> 00:14:20,399
+How are there so many e-commerce brands?
+
+429
+00:14:18,958 --> 00:14:22,799
+>> Crazy. In the context of this
+
+430
+00:14:20,399 --> 00:14:25,120
+conversation, a lot of times, not every
+
+431
+00:14:22,799 --> 00:14:27,120
+time, it starts with a really good
+
+432
+00:14:25,120 --> 00:14:27,839
+trustworthy domain name.
+
+433
+00:14:27,120 --> 00:14:28,480
+>> Right.
+
+434
+00:14:27,839 --> 00:14:29,920
+>> Yeah.
+
+435
+00:14:28,480 --> 00:14:32,159
+>> So, he got bobbleheads and then
+
+436
+00:14:29,919 --> 00:14:33,838
+bobblehead came up, I think, a year or
+
+437
+00:14:32,159 --> 00:14:37,039
+two after. So, he owns singular and
+
+438
+00:14:33,839 --> 00:14:40,320
+plural. He owns the entire, you know,
+
+439
+00:14:37,039 --> 00:14:42,240
+beach head for this entire industry.
+
+440
+00:14:40,320 --> 00:14:44,000
+>> Okay. I went to bobblehead.com and it
+
+441
+00:14:42,240 --> 00:14:46,560
+>> and it should redirect to Bobbleheads.
+
+442
+00:14:44,000 --> 00:14:48,399
+He tries to redirect everything over. So
+
+443
+00:14:46,559 --> 00:14:50,638
+when you bought Travel Envoy, that
+
+444
+00:14:48,399 --> 00:14:52,320
+$10,000 was just kind of goodwill. There
+
+445
+00:14:50,639 --> 00:14:54,000
+was no really revenue, but you knew what
+
+446
+00:14:52,320 --> 00:14:55,040
+you could do with it. And that's kind of
+
+447
+00:14:54,000 --> 00:14:56,639
+how you valued it, right?
+
+448
+00:14:55,039 --> 00:14:58,319
+>> I valued it based on the traffic. I
+
+449
+00:14:56,639 --> 00:15:00,639
+could see how much traffic I could
+
+450
+00:14:58,320 --> 00:15:02,320
+roughly napkin math, a rough
+
+451
+00:15:00,639 --> 00:15:04,879
+click-through rate for my AdSense units
+
+452
+00:15:02,320 --> 00:15:07,839
+and maybe some extra revenue from the
+
+453
+00:15:04,879 --> 00:15:09,439
+affiliate deals. And I thought I could
+
+454
+00:15:07,839 --> 00:15:11,199
+pay it off within six to nine months,
+
+455
+00:15:09,440 --> 00:15:12,160
+and I w up paying it off within six
+
+456
+00:15:11,198 --> 00:15:13,759
+months easily.
+
+457
+00:15:12,159 --> 00:15:15,039
+>> Oh my gosh. A lot of people are watching
+
+458
+00:15:13,759 --> 00:15:16,078
+this, and I I know what they're
+
+459
+00:15:15,039 --> 00:15:17,759
+thinking. A lot of them are thinking,
+
+460
+00:15:16,078 --> 00:15:19,359
+"Well, this isn't relevant anymore."
+
+461
+00:15:17,759 --> 00:15:21,600
+Like, you just can't reach out to site
+
+462
+00:15:19,360 --> 00:15:23,919
+owners and like, "Are you kidding me?
+
+463
+00:15:21,600 --> 00:15:25,759
+It's 100% still relevant. Is AdSense
+
+464
+00:15:23,919 --> 00:15:27,838
+brand new?" No, of course not. But
+
+465
+00:15:25,759 --> 00:15:29,759
+there's there's even more arbitrage
+
+466
+00:15:27,839 --> 00:15:32,320
+opportunities. I I just bought a bunch
+
+467
+00:15:29,759 --> 00:15:33,919
+of trees for my front yard and I wanted
+
+468
+00:15:32,320 --> 00:15:35,920
+to buy them here, uh, you know, close to
+
+469
+00:15:33,919 --> 00:15:36,639
+me. So, I went to the website to try to
+
+470
+00:15:35,919 --> 00:15:37,120
+shop around.
+
+471
+00:15:36,639 --> 00:15:38,159
+>> Cool.
+
+472
+00:15:37,120 --> 00:15:39,278
+>> This is their website.
+
+473
+00:15:38,159 --> 00:15:40,879
+>> I love it. I love
+
+474
+00:15:39,278 --> 00:15:43,120
+>> pockets.com.
+
+475
+00:15:40,879 --> 00:15:45,360
+And I saw and I'm like, I want to buy
+
+476
+00:15:43,120 --> 00:15:47,360
+this business. And I go in the business
+
+477
+00:15:45,360 --> 00:15:50,639
+and like the gentleman helping me is
+
+478
+00:15:47,360 --> 00:15:52,800
+like 83 and they have this prime real
+
+479
+00:15:50,639 --> 00:15:54,159
+estate. They've been there for 40 years.
+
+480
+00:15:52,799 --> 00:15:55,519
+You can't shop online. You don't know
+
+481
+00:15:54,159 --> 00:15:57,838
+what their inventory is. They don't
+
+482
+00:15:55,519 --> 00:15:59,360
+answer their phone. And it's like, of
+
+483
+00:15:57,839 --> 00:16:01,360
+course, this is a much more expensive
+
+484
+00:15:59,360 --> 00:16:03,120
+version of what we're talking about. But
+
+485
+00:16:01,360 --> 00:16:04,800
+arbitrage opportunities will always
+
+486
+00:16:03,120 --> 00:16:06,480
+exist. And when you and I are 80 years
+
+487
+00:16:04,799 --> 00:16:07,439
+old, people are going to be buying sites
+
+488
+00:16:06,480 --> 00:16:08,000
+from us.
+
+489
+00:16:07,440 --> 00:16:09,519
+>> Correct.
+
+490
+00:16:08,000 --> 00:16:10,078
+>> To do better things with them. Right.
+
+491
+00:16:09,519 --> 00:16:12,159
+Yeah,
+
+492
+00:16:10,078 --> 00:16:15,439
+>> similar when I did my Videlia project,
+
+493
+00:16:12,159 --> 00:16:18,559
+the farm I partnered with, no website,
+
+494
+00:16:15,440 --> 00:16:20,320
+no online presence whatsoever. So when I
+
+495
+00:16:18,559 --> 00:16:22,078
+started recognizing these domains were
+
+496
+00:16:20,320 --> 00:16:23,920
+quite interesting, I was like, that's
+
+497
+00:16:22,078 --> 00:16:26,319
+fascinating. How do I get a domain like
+
+498
+00:16:23,919 --> 00:16:28,000
+Warren has, like bobbleheads.com,
+
+499
+00:16:26,320 --> 00:16:30,160
+you know, I wasn't able to register them
+
+500
+00:16:28,000 --> 00:16:32,879
+in '95. It's 04 at this point. I was
+
+501
+00:16:30,159 --> 00:16:34,319
+like, oh, I I missed my opportunity. I
+
+502
+00:16:32,879 --> 00:16:37,198
+didn't have any opportunity to buy these
+
+503
+00:16:34,320 --> 00:16:38,879
+domains. I the windows closed now. And I
+
+504
+00:16:37,198 --> 00:16:41,439
+I rarely ever think from that
+
+505
+00:16:38,879 --> 00:16:43,519
+perspective, but I kept digging through
+
+506
+00:16:41,440 --> 00:16:46,160
+and at some point I got exposed to the
+
+507
+00:16:43,519 --> 00:16:47,278
+expiring domain name market. And I think
+
+508
+00:16:46,159 --> 00:16:49,039
+you're familiar with it. You know,
+
+509
+00:16:47,278 --> 00:16:51,120
+somebody doesn't renew a domain for
+
+510
+00:16:49,039 --> 00:16:52,879
+whatever reason, the domain goes back to
+
+511
+00:16:51,120 --> 00:16:55,600
+the registar and the registar puts it up
+
+512
+00:16:52,879 --> 00:16:57,838
+for auction for open bid. And roughly
+
+513
+00:16:55,600 --> 00:17:00,399
+every day 50 to 100,000 domain names
+
+514
+00:16:57,839 --> 00:17:02,320
+expire. So it's a tremendous amount of
+
+515
+00:17:00,399 --> 00:17:04,640
+inventory that you can sift through
+
+516
+00:17:02,320 --> 00:17:06,720
+because at first I tried to buy. So this
+
+517
+00:17:04,640 --> 00:17:07,038
+is more of a marketplace. try.
+
+518
+00:17:06,720 --> 00:17:09,199
+>> Okay.
+
+519
+00:17:07,038 --> 00:17:11,038
+>> What's a good GoDaddy Auctions is a is
+
+520
+00:17:09,199 --> 00:17:13,439
+one of the biggest. So they built their
+
+521
+00:17:11,038 --> 00:17:15,359
+own auction platform to sell domains
+
+522
+00:17:13,439 --> 00:17:17,919
+within there. So if you just do I think
+
+523
+00:17:15,359 --> 00:17:20,399
+it's auctions.godaddy.com.
+
+524
+00:17:17,919 --> 00:17:22,880
+>> Yep. Shows some of within the at the
+
+525
+00:17:20,400 --> 00:17:24,880
+expiring side. All right. So, go to
+
+526
+00:17:22,880 --> 00:17:28,160
+advanced search right there
+
+527
+00:17:24,880 --> 00:17:30,799
+>> and then go to type and then do expiring
+
+528
+00:17:28,160 --> 00:17:32,960
+auctions and then go estimated value and
+
+529
+00:17:30,798 --> 00:17:36,079
+then go down on say they add uh I'm
+
+530
+00:17:32,960 --> 00:17:38,240
+sorry on that top search results go down
+
+531
+00:17:36,079 --> 00:17:40,399
+down a little bit more and right here.
+
+532
+00:17:38,240 --> 00:17:42,319
+>> Yes, sir. And then and then go down do
+
+533
+00:17:40,400 --> 00:17:45,919
+it and click it again now.
+
+534
+00:17:42,319 --> 00:17:46,798
+>> Go choosing their own. Check out jtm.com
+
+535
+00:17:45,919 --> 00:17:48,080
+is expiring.
+
+536
+00:17:46,798 --> 00:17:50,400
+>> Oh, threeletter domain.
+
+537
+00:17:48,079 --> 00:17:52,000
+>> Threeletterallers.com.
+
+538
+00:17:50,400 --> 00:17:53,759
+I mean, look at that domain. You can
+
+539
+00:17:52,000 --> 00:17:55,200
+build some call tracking applications.
+
+540
+00:17:53,759 --> 00:17:55,839
+>> Golfour.com.
+
+541
+00:17:55,200 --> 00:17:57,200
+>> Yes,
+
+542
+00:17:55,839 --> 00:17:59,199
+>> that could be a travel website.
+
+543
+00:17:57,200 --> 00:18:01,120
+>> Oh my gosh. So, this is this is a deep
+
+544
+00:17:59,200 --> 00:18:02,880
+rabbit hole. So, when I got exposed and
+
+545
+00:18:01,119 --> 00:18:04,558
+this was around 04, I got exposed to
+
+546
+00:18:02,880 --> 00:18:06,480
+expiring domain auctions. I was like,
+
+547
+00:18:04,558 --> 00:18:07,918
+"Oh my gosh, hang on." Because I was
+
+548
+00:18:06,480 --> 00:18:10,558
+trying to buy domains direct from
+
+549
+00:18:07,919 --> 00:18:12,799
+original registar from original owners
+
+550
+00:18:10,558 --> 00:18:14,160
+and you know, they'd want I mean, and
+
+551
+00:18:12,798 --> 00:18:16,079
+they're worth it. They'd want a h 100red
+
+552
+00:18:14,160 --> 00:18:19,440
+grand, 500 grand. I was like, I can't.
+
+553
+00:18:16,079 --> 00:18:22,079
+It's too risky for me. And I found this.
+
+554
+00:18:19,440 --> 00:18:25,360
+This is simply a patience game. If you
+
+555
+00:18:22,079 --> 00:18:26,639
+simply sit and wait, crownmolding.com,
+
+556
+00:18:25,359 --> 00:18:28,639
+look at that cool one,
+
+557
+00:18:26,640 --> 00:18:30,240
+>> dude. You could buy all the interesting
+
+558
+00:18:28,640 --> 00:18:30,559
+crown molding that the world has to
+
+559
+00:18:30,240 --> 00:18:32,480
+offer.
+
+560
+00:18:30,558 --> 00:18:34,319
+>> You could sell crown
+
+561
+00:18:32,480 --> 00:18:35,440
+directly from the manufacturer. You
+
+562
+00:18:34,319 --> 00:18:36,960
+don't have to have a big warehouse,
+
+563
+00:18:35,440 --> 00:18:39,440
+>> dude. You could do the recycled crown
+
+564
+00:18:36,960 --> 00:18:41,200
+molding out of old historic homes.
+
+565
+00:18:39,440 --> 00:18:42,960
+>> Yes. Oh, man.
+
+566
+00:18:41,200 --> 00:18:45,600
+>> I know. So, this is this is where I
+
+567
+00:18:42,960 --> 00:18:47,440
+started looking at them not really with
+
+568
+00:18:45,599 --> 00:18:49,918
+the intention of building. I was looking
+
+569
+00:18:47,440 --> 00:18:51,759
+at them from maybe I buy them and flip
+
+570
+00:18:49,919 --> 00:18:53,919
+them. Maybe I'd try to buy them and make
+
+571
+00:18:51,759 --> 00:18:55,679
+some AdSense money off of them. But then
+
+572
+00:18:53,919 --> 00:18:56,880
+some of these other names, Crown Molding
+
+573
+00:18:55,679 --> 00:18:58,480
+would pop up. I was like, and then
+
+574
+00:18:56,880 --> 00:19:00,080
+they'd start inspiring me to build
+
+575
+00:18:58,480 --> 00:19:00,720
+something. I was like, Crown Molding. Oh
+
+576
+00:19:00,079 --> 00:19:02,879
+my gosh.
+
+577
+00:19:00,720 --> 00:19:05,519
+>> Rentmyhouse.com.
+
+578
+00:19:02,880 --> 00:19:07,760
+>> Yeah. And so this I started doing this
+
+579
+00:19:05,519 --> 00:19:09,839
+every single day and I'd buy some. I'd
+
+580
+00:19:07,759 --> 00:19:11,759
+buy one, build a small site, figure out
+
+581
+00:19:09,839 --> 00:19:13,599
+how to monetize it. Maybe it had
+
+582
+00:19:11,759 --> 00:19:16,240
+existing traffic, maybe it had direct
+
+583
+00:19:13,599 --> 00:19:18,798
+traffic, maybe it had had a a previous
+
+584
+00:19:16,240 --> 00:19:20,240
+identity to it and figure out ways to
+
+585
+00:19:18,798 --> 00:19:21,519
+build on that. So, I'd build a few
+
+586
+00:19:20,240 --> 00:19:23,038
+there, but it was more peacemail
+
+587
+00:19:21,519 --> 00:19:24,720
+efforts. And I was like, man, I'm
+
+588
+00:19:23,038 --> 00:19:26,640
+getting tired of doing these small. I'd
+
+589
+00:19:24,720 --> 00:19:29,519
+rather wait and find a big one that
+
+590
+00:19:26,640 --> 00:19:31,600
+expires and maybe just wait. I'm not in
+
+591
+00:19:29,519 --> 00:19:34,240
+a hurry. I'll just sit maybe and hang
+
+592
+00:19:31,599 --> 00:19:36,879
+out and just monitor this thing every
+
+593
+00:19:34,240 --> 00:19:38,880
+single day and wait for an interesting
+
+594
+00:19:36,880 --> 00:19:42,320
+domain that expires. And that's when
+
+595
+00:19:38,880 --> 00:19:44,240
+dude ranch.com popped up. It popped up.
+
+596
+00:19:42,319 --> 00:19:46,639
+Oddly, a ranch up in New York State
+
+597
+00:19:44,240 --> 00:19:48,880
+owned it. They owned it. Dude Ranch got
+
+598
+00:19:46,640 --> 00:19:50,559
+sold two or three times and then the
+
+599
+00:19:48,880 --> 00:19:52,960
+last owner ran it into the ground and
+
+600
+00:19:50,558 --> 00:19:54,000
+shut it down. Sold the sold the
+
+601
+00:19:52,960 --> 00:19:55,679
+property. If you want to go into
+
+602
+00:19:54,000 --> 00:19:57,679
+archive, it's pretty fun to see the old
+
+603
+00:19:55,679 --> 00:19:58,559
+version of drench.com so you can see it.
+
+604
+00:19:57,679 --> 00:20:00,880
+>> I'll do that now.
+
+605
+00:19:58,558 --> 00:20:02,639
+>> And it used to be called Roseland Ranch.
+
+606
+00:20:00,880 --> 00:20:05,039
+And so they own the domain. They used to
+
+607
+00:20:02,640 --> 00:20:06,000
+advertise on Wheel of Fortune and
+
+608
+00:20:05,038 --> 00:20:06,480
+Jeopardy.
+
+609
+00:20:06,000 --> 00:20:08,480
+>> No way.
+
+610
+00:20:06,480 --> 00:20:10,960
+>> Vacation. Yeah. I I'll have to forward
+
+611
+00:20:08,480 --> 00:20:14,480
+you the tweet. I I found one of the ads
+
+612
+00:20:10,960 --> 00:20:16,480
+that they had. So, I I reposted it on my
+
+613
+00:20:14,480 --> 00:20:18,720
+Twitter feed somewhere. Here's another
+
+614
+00:20:16,480 --> 00:20:20,319
+one. It looks Roseland Ranch Resort. And
+
+615
+00:20:18,720 --> 00:20:22,160
+you'll if you scroll down, you'll see
+
+616
+00:20:20,319 --> 00:20:25,279
+usually they'll have Oh, you may have
+
+617
+00:20:22,160 --> 00:20:27,360
+seen us on Wheel of Fortune.
+
+618
+00:20:25,279 --> 00:20:27,918
+This is 2003 with that. Oh, here it is.
+
+619
+00:20:27,359 --> 00:20:30,959
+Yeah,
+
+620
+00:20:27,919 --> 00:20:33,360
+>> it's before. So, they this expired and
+
+621
+00:20:30,960 --> 00:20:35,759
+went up for auction in ' 09.
+
+622
+00:20:33,359 --> 00:20:37,519
+>> Okay. So I start I waited when I made
+
+623
+00:20:35,759 --> 00:20:40,240
+that decision that I was going to sit
+
+624
+00:20:37,519 --> 00:20:42,639
+and wait almost like catb bird seat and
+
+625
+00:20:40,240 --> 00:20:44,880
+almost just empty mind and just wait for
+
+626
+00:20:42,640 --> 00:20:47,759
+something to to pop up that's expired
+
+627
+00:20:44,880 --> 00:20:50,159
+that inspires me to build. I like the
+
+628
+00:20:47,759 --> 00:20:50,960
+and that's my first version. I built
+
+629
+00:20:50,159 --> 00:20:51,919
+>> 2009
+
+630
+00:20:50,960 --> 00:20:54,400
+>> and I built it.
+
+631
+00:20:51,919 --> 00:20:56,080
+>> Yeah. This looks awesome though.
+
+632
+00:20:54,400 --> 00:20:58,400
+>> I mean I built WordPress. So at that
+
+633
+00:20:56,079 --> 00:21:01,119
+point I'd gotten exposed to WordPress
+
+634
+00:20:58,400 --> 00:21:02,559
+>> and I had some rough idea. I had an SEO
+
+635
+00:21:01,119 --> 00:21:04,959
+and paid search background. love
+
+636
+00:21:02,558 --> 00:21:07,038
+analytics and I was like okay I'll I'll
+
+637
+00:21:04,960 --> 00:21:09,200
+build it myself to make sure I can
+
+638
+00:21:07,038 --> 00:21:11,038
+advertise and then dude rancher started
+
+639
+00:21:09,200 --> 00:21:14,080
+buying ads from me I was like sweet I
+
+640
+00:21:11,038 --> 00:21:15,200
+think I can make this work and only then
+
+641
+00:21:14,079 --> 00:21:16,639
+go ahead yeah advertise
+
+642
+00:21:15,200 --> 00:21:17,440
+>> how did they start buying ads from you
+
+643
+00:21:16,640 --> 00:21:19,679
+like how do they find
+
+644
+00:21:17,440 --> 00:21:21,600
+>> oftent times so it started the easiest
+
+645
+00:21:19,679 --> 00:21:24,240
+way for me I think I could have done
+
+646
+00:21:21,599 --> 00:21:26,240
+this via email or phone but they I'm
+
+647
+00:21:24,240 --> 00:21:28,319
+fortunate they have a yearly conference
+
+648
+00:21:26,240 --> 00:21:30,400
+every year they hold it at a dude ranch
+
+649
+00:21:28,319 --> 00:21:31,839
+typically so I was like sweet now this
+
+650
+00:21:30,400 --> 00:21:34,000
+is kind of killing two birds with one
+
+651
+00:21:31,839 --> 00:21:36,158
+stone I can start visiting dude ranges
+
+652
+00:21:34,000 --> 00:21:38,640
+because I need to visit a few to get the
+
+653
+00:21:36,159 --> 00:21:40,480
+feel of these just cuz I'm I'm basically
+
+654
+00:21:38,640 --> 00:21:42,799
+representing the industry by owning this
+
+655
+00:21:40,480 --> 00:21:45,919
+domain. It's it's crazy owning one of
+
+656
+00:21:42,798 --> 00:21:47,759
+these names and folks will assume you
+
+657
+00:21:45,919 --> 00:21:49,520
+are an expert in that field. The trust
+
+658
+00:21:47,759 --> 00:21:52,240
+and authority authority.
+
+659
+00:21:49,519 --> 00:21:57,200
+>> Yeah. With a an exact match
+
+660
+00:21:52,240 --> 00:21:59,359
+descriptive.com generic exact match is
+
+661
+00:21:57,200 --> 00:22:01,919
+wildly powerful. So they started
+
+662
+00:21:59,359 --> 00:22:04,399
+advertising with me from from the
+
+663
+00:22:01,919 --> 00:22:07,919
+conference and then they started signing
+
+664
+00:22:04,400 --> 00:22:11,679
+up direct and then I met a friendly
+
+665
+00:22:07,919 --> 00:22:13,679
+competitor. He ran guest ranches.com and
+
+666
+00:22:11,679 --> 00:22:15,519
+he and I would notice sometimes a
+
+667
+00:22:13,679 --> 00:22:17,120
+rancher would cancel me but they'd keep
+
+668
+00:22:15,519 --> 00:22:18,639
+guestranches.com.
+
+669
+00:22:17,119 --> 00:22:21,599
+Sometimes they'd cancel guest ranches
+
+670
+00:22:18,640 --> 00:22:23,679
+and keep me. And I was talking to David
+
+671
+00:22:21,599 --> 00:22:26,240
+and I was like, "David, hey, what if
+
+672
+00:22:23,679 --> 00:22:28,880
+what if we uh what if we partner up and
+
+673
+00:22:26,240 --> 00:22:31,839
+we corner the market or pseudo corner
+
+674
+00:22:28,880 --> 00:22:34,159
+the market because if they cancel both
+
+675
+00:22:31,839 --> 00:22:36,000
+of us, they're going to lose about 50%
+
+676
+00:22:34,159 --> 00:22:37,360
+of their traffic. It's going to be very
+
+677
+00:22:36,000 --> 00:22:38,640
+difficult for them to consider
+
+678
+00:22:37,359 --> 00:22:38,879
+cancelling us."
+
+679
+00:22:38,640 --> 00:22:41,360
+>> Yeah.
+
+680
+00:22:38,880 --> 00:22:44,080
+>> And so we partnered up and we did that
+
+681
+00:22:41,359 --> 00:22:44,879
+for gosh eight years or so, maybe
+
+682
+00:22:44,079 --> 00:22:47,279
+longer.
+
+683
+00:22:44,880 --> 00:22:48,960
+>> Wow. He's based in Littleton, Colorado.
+
+684
+00:22:47,279 --> 00:22:50,399
+So I could always find a Colorado, hang
+
+685
+00:22:48,960 --> 00:22:51,679
+out at his place, and then we take road
+
+686
+00:22:50,400 --> 00:22:53,360
+trips and go around to all the dude
+
+687
+00:22:51,679 --> 00:22:55,440
+ranches nearby.
+
+688
+00:22:53,359 --> 00:22:57,439
+>> How much did this doium cost?
+
+689
+00:22:55,440 --> 00:23:00,558
+>> dude ranch.com. So it went up and it was
+
+690
+00:22:57,440 --> 00:23:02,880
+Yeah. penny delete and it cost 17 18,000
+
+691
+00:23:00,558 --> 00:23:03,599
+bucks basically. Just under 18,000
+
+692
+00:23:02,880 --> 00:23:06,000
+bucks.
+
+693
+00:23:03,599 --> 00:23:07,759
+>> And what signals did you look for before
+
+694
+00:23:06,000 --> 00:23:09,759
+spending a dime on this to tell you that
+
+695
+00:23:07,759 --> 00:23:11,440
+this was worthwhile?
+
+696
+00:23:09,759 --> 00:23:14,000
+>> I wanted search volume. I want to fish
+
+697
+00:23:11,440 --> 00:23:16,080
+where the fish are. So, uh, there was a
+
+698
+00:23:14,000 --> 00:23:17,759
+lot of search volume for the term Dude
+
+699
+00:23:16,079 --> 00:23:19,359
+Ranch, but I wanted to make sure there's
+
+700
+00:23:17,759 --> 00:23:20,960
+an album called Dude Ranch from some
+
+701
+00:23:19,359 --> 00:23:22,000
+band. So, I want to make sure they're
+
+702
+00:23:20,960 --> 00:23:23,200
+looking for Dude Ranch Vacation.
+
+703
+00:23:22,000 --> 00:23:24,640
+>> Isn't that Blink182?
+
+704
+00:23:23,200 --> 00:23:26,480
+>> I think so. Yeah.
+
+705
+00:23:24,640 --> 00:23:29,200
+>> So, and then I was like, okay, I need to
+
+706
+00:23:26,480 --> 00:23:30,558
+really I can look, but maybe a small
+
+707
+00:23:29,200 --> 00:23:32,240
+percentage of that traffic is looking
+
+708
+00:23:30,558 --> 00:23:33,599
+for the album, but it's mainly folks
+
+709
+00:23:32,240 --> 00:23:36,159
+looking for vacations. So, I could look
+
+710
+00:23:33,599 --> 00:23:37,759
+at Dude Ranch vacations, and that was
+
+711
+00:23:36,159 --> 00:23:40,400
+still strong search volume. Then I'd
+
+712
+00:23:37,759 --> 00:23:42,960
+look I'd pull dude ranch Colorado, dude
+
+713
+00:23:40,400 --> 00:23:44,960
+ranch, Texas, Idaho, all the states, all
+
+714
+00:23:42,960 --> 00:23:46,960
+still strong search volume. I was like,
+
+715
+00:23:44,960 --> 00:23:48,880
+"Okay, this is good. I have one side of
+
+716
+00:23:46,960 --> 00:23:50,798
+the equation. Somebody looking for a
+
+717
+00:23:48,880 --> 00:23:52,000
+vacation." Then I went to the dude
+
+718
+00:23:50,798 --> 00:23:53,759
+ranch. I was like, "What's the average
+
+719
+00:23:52,000 --> 00:23:56,400
+ticket price of a dude ranch vacation
+
+720
+00:23:53,759 --> 00:23:59,200
+for a family of four?" It roughly ranges
+
+721
+00:23:56,400 --> 00:24:01,360
+10,000 to 30,000. This is just me
+
+722
+00:23:59,200 --> 00:24:03,600
+spitballing off the top of my head. I
+
+723
+00:24:01,359 --> 00:24:05,599
+was like, "Okay, let's just assume 30%
+
+724
+00:24:03,599 --> 00:24:08,240
+margin. So, the ranchers making three
+
+725
+00:24:05,599 --> 00:24:11,199
+grand on one booking. I still have these
+
+726
+00:24:08,240 --> 00:24:13,679
+rates. I still have 575 as my flat
+
+727
+00:24:11,200 --> 00:24:15,759
+yearly fee to be included on the site
+
+728
+00:24:13,679 --> 00:24:18,320
+and it's just a onetime fee. I don't
+
+729
+00:24:15,759 --> 00:24:21,919
+take any cut of the conversion. I just
+
+730
+00:24:18,319 --> 00:24:24,079
+drive leads constantly. I have about 60
+
+731
+00:24:21,919 --> 00:24:26,080
+advertisers. It makes a little over 50
+
+732
+00:24:24,079 --> 00:24:27,759
+grand a year. And so, I built that over
+
+733
+00:24:26,079 --> 00:24:29,359
+over the years. Wound up buying David
+
+734
+00:24:27,759 --> 00:24:31,519
+out of guest ranches. So, I own it and
+
+735
+00:24:29,359 --> 00:24:34,798
+rebuilt it. So, and it has very very low
+
+736
+00:24:31,519 --> 00:24:38,000
+overhead. it it has hosting and domain
+
+737
+00:24:34,798 --> 00:24:40,720
+renewal. And I pay a friend that has
+
+738
+00:24:38,000 --> 00:24:42,640
+more experience at PHP and and the back
+
+739
+00:24:40,720 --> 00:24:44,319
+end of WordPress just in case the site
+
+740
+00:24:42,640 --> 00:24:45,759
+goes offline, it goes sideways, I can
+
+741
+00:24:44,319 --> 00:24:47,119
+ping her and say, "Please help.
+
+742
+00:24:45,759 --> 00:24:48,879
+Something's wrong with the site." Or
+
+743
+00:24:47,119 --> 00:24:50,319
+there's some plug-in update and, you
+
+744
+00:24:48,880 --> 00:24:51,520
+know, the payment page is broken. Can
+
+745
+00:24:50,319 --> 00:24:53,519
+you please help?
+
+746
+00:24:51,519 --> 00:24:55,119
+>> So, I lean on her, but she's I mean,
+
+747
+00:24:53,519 --> 00:24:57,038
+it's it's only a couple hundred bucks a
+
+748
+00:24:55,119 --> 00:24:59,278
+year to lean on her, but it makes me
+
+749
+00:24:57,038 --> 00:25:00,879
+sleep better. So, very good margins.
+
+750
+00:24:59,278 --> 00:25:02,480
+It's not a million-dollar business, but
+
+751
+00:25:00,880 --> 00:25:04,320
+man, very, very fulfilling. But that one
+
+752
+00:25:02,480 --> 00:25:06,480
+taught me I do enjoy these small,
+
+753
+00:25:04,319 --> 00:25:08,480
+fulfilling projects. How much time does
+
+754
+00:25:06,480 --> 00:25:10,079
+it take a week? I'm working on this
+
+755
+00:25:08,480 --> 00:25:12,319
+right now. I have two other projects,
+
+756
+00:25:10,079 --> 00:25:14,158
+Videlian Ranchwork, that have kind of
+
+757
+00:25:12,319 --> 00:25:15,678
+consumed a majority of my time, and I'm
+
+758
+00:25:14,159 --> 00:25:18,000
+trying to figure out how I can devote
+
+759
+00:25:15,679 --> 00:25:21,200
+more time or or maybe hire someone to
+
+760
+00:25:18,000 --> 00:25:23,919
+help me. I spend about a an hour a month
+
+761
+00:25:21,200 --> 00:25:26,080
+on it, maybe, but it deserves more than
+
+762
+00:25:23,919 --> 00:25:28,720
+that. So, I'm trying to see if there are
+
+763
+00:25:26,079 --> 00:25:31,199
+avenues of possibly getting some help,
+
+764
+00:25:28,720 --> 00:25:33,038
+possibly selling it. Uh, to see if there
+
+765
+00:25:31,200 --> 00:25:35,038
+are avenues who could do, but I'm kind
+
+766
+00:25:33,038 --> 00:25:36,720
+of stingy or or in strict on if I
+
+767
+00:25:35,038 --> 00:25:37,519
+consider selling it. It's going to have
+
+768
+00:25:36,720 --> 00:25:38,240
+to be somebody who
+
+769
+00:25:37,519 --> 00:25:40,240
+>> a good buyer.
+
+770
+00:25:38,240 --> 00:25:42,159
+>> A good buyer. I can't let this thing go
+
+771
+00:25:40,240 --> 00:25:44,798
+into somebody who's going to put AI
+
+772
+00:25:42,159 --> 00:25:46,640
+content slop on it or or cover the site
+
+773
+00:25:44,798 --> 00:25:48,720
+with AdSense. Even though I used to use
+
+774
+00:25:46,640 --> 00:25:50,960
+AdSense, it isn't built for that. It's
+
+775
+00:25:48,720 --> 00:25:52,960
+built for leads, for dude ranchers, and
+
+776
+00:25:50,960 --> 00:25:54,400
+it represents the industry. You feel
+
+777
+00:25:52,960 --> 00:25:55,919
+like a sense of stewardship over the
+
+778
+00:25:54,400 --> 00:25:56,720
+industry and you want the next owner to
+
+779
+00:25:55,919 --> 00:25:57,600
+do the same.
+
+780
+00:25:56,720 --> 00:25:59,600
+>> Yeah. In a sense.
+
+781
+00:25:57,599 --> 00:26:01,439
+>> And in short terms, yes.
+
+782
+00:25:59,599 --> 00:26:02,959
+>> I've been using Beehive for about two
+
+783
+00:26:01,440 --> 00:26:04,640
+years, almost as long as they've been
+
+784
+00:26:02,960 --> 00:26:06,880
+around. And I got to tell you, watching
+
+785
+00:26:04,640 --> 00:26:09,440
+other creators stay stuck on basic
+
+786
+00:26:06,880 --> 00:26:11,360
+newsletter platforms is painful. You're
+
+787
+00:26:09,440 --> 00:26:12,960
+losing thousands of dollars because you
+
+788
+00:26:11,359 --> 00:26:15,119
+don't know what your subscribers are
+
+789
+00:26:12,960 --> 00:26:16,640
+worth. And when potential sponsors ask,
+
+790
+00:26:15,119 --> 00:26:19,519
+"Who reads your newsletter?" and you
+
+791
+00:26:16,640 --> 00:26:21,840
+say, "Uh, entrepreneurs or moms?" you
+
+792
+00:26:19,519 --> 00:26:23,679
+lost the deal. But Beehive has a survey
+
+793
+00:26:21,839 --> 00:26:25,678
+feature that's brilliant. You can set up
+
+794
+00:26:23,679 --> 00:26:27,038
+a few questions about demographics and
+
+795
+00:26:25,679 --> 00:26:29,200
+spending habits that you send them
+
+796
+00:26:27,038 --> 00:26:31,038
+through right after they subscribe. So
+
+797
+00:26:29,200 --> 00:26:33,440
+instead of telling sponsors, "Oh, I have
+
+798
+00:26:31,038 --> 00:26:35,038
+5,000 subscribers." You can say, "I have
+
+799
+00:26:33,440 --> 00:26:38,159
+$3,750
+
+800
+00:26:35,038 --> 00:26:40,879
+homeowners making over $75,000 a year
+
+801
+00:26:38,159 --> 00:26:42,640
+who spend $200 plus per month on home
+
+802
+00:26:40,880 --> 00:26:44,880
+improvement." And that's proof that
+
+803
+00:26:42,640 --> 00:26:47,038
+their ideal customers are reading your
+
+804
+00:26:44,880 --> 00:26:48,720
+newsletter. Go extract your email list
+
+805
+00:26:47,038 --> 00:26:51,038
+from whatever platform you're stuck on
+
+806
+00:26:48,720 --> 00:26:53,600
+because it's probably costing you
+
+807
+00:26:51,038 --> 00:26:55,759
+thousands in lost deals. Beehive makes
+
+808
+00:26:53,599 --> 00:26:57,839
+migration easy. You can move all your
+
+809
+00:26:55,759 --> 00:26:59,599
+emails in minutes so you can get paid
+
+810
+00:26:57,839 --> 00:27:01,519
+what you're actually worth. Head to
+
+811
+00:26:59,599 --> 00:27:04,000
+beehive.com/chris
+
+812
+00:27:01,519 --> 00:27:07,000
+for 30% off your first 3 months. That's
+
+813
+00:27:04,000 --> 00:27:07,000
+beehiv.com/chris.
+
+814
+00:27:07,278 --> 00:27:10,720
+You'll thank me later. But that one just
+
+815
+00:27:09,119 --> 00:27:12,798
+taught me. Oh my gosh. Okay, this is
+
+816
+00:27:10,720 --> 00:27:13,759
+quite interesting. But I always had
+
+817
+00:27:12,798 --> 00:27:16,319
+Warren, my friend, to run
+
+818
+00:27:13,759 --> 00:27:17,839
+bobbleheads.com. So I'd run this. I'd
+
+819
+00:27:16,319 --> 00:27:19,678
+run Dude Ranch, but it's sort of
+
+820
+00:27:17,839 --> 00:27:21,678
+seasonal, has its peaks and valleys of
+
+821
+00:27:19,679 --> 00:27:24,000
+traffic. It's like, I still have time. I
+
+822
+00:27:21,679 --> 00:27:25,840
+was still working 9 to5 when I was
+
+823
+00:27:24,000 --> 00:27:27,599
+running Dude Ranch. I was like, I still
+
+824
+00:27:25,839 --> 00:27:30,240
+have open time in my schedule. What else
+
+825
+00:27:27,599 --> 00:27:32,719
+can I build? Vidilia.com
+
+826
+00:27:30,240 --> 00:27:35,440
+expires, goes up for auction. I don't
+
+827
+00:27:32,720 --> 00:27:37,679
+intend to buy it. I write this big long
+
+828
+00:27:35,440 --> 00:27:39,759
+story on my little blog. But not blog,
+
+829
+00:27:37,679 --> 00:27:42,640
+my little I write an essay on the
+
+830
+00:27:39,759 --> 00:27:44,000
+background of of how I acquired Videlia
+
+831
+00:27:42,640 --> 00:27:45,840
+and I also write about how I acquired
+
+832
+00:27:44,000 --> 00:27:48,000
+Dude Ranch on I think it's Deep South
+
+833
+00:27:45,839 --> 00:27:49,359
+Ventures.com is where I have that.
+
+834
+00:27:48,000 --> 00:27:50,798
+>> Deep South Ventures.com. Okay.
+
+835
+00:27:49,359 --> 00:27:52,158
+>> Yeah. Deep South Ventures or you can go
+
+836
+00:27:50,798 --> 00:27:53,759
+to ask you.org.
+
+837
+00:27:52,159 --> 00:27:55,360
+>> By the way, I have been a loyal blog
+
+838
+00:27:53,759 --> 00:27:57,519
+reader for over a decade.
+
+839
+00:27:55,359 --> 00:27:58,959
+>> Oh, thank you. Well, it's mainly I tell
+
+840
+00:27:57,519 --> 00:28:01,119
+you it's almost therapeutic just to dump
+
+841
+00:27:58,960 --> 00:28:03,679
+it out of your brain because it gets all
+
+842
+00:28:01,119 --> 00:28:05,359
+clogged up in there and it helps me to
+
+843
+00:28:03,679 --> 00:28:07,679
+kind of just dump it out on the page and
+
+844
+00:28:05,359 --> 00:28:10,398
+then kind of structure it. I have very
+
+845
+00:28:07,679 --> 00:28:12,880
+short attention spans. So, if it appeals
+
+846
+00:28:10,398 --> 00:28:14,879
+to me, I hope it would appeal somebody
+
+847
+00:28:12,880 --> 00:28:16,960
+else because it's very difficult for me
+
+848
+00:28:14,880 --> 00:28:19,278
+to read or focus. So, if it allows me to
+
+849
+00:28:16,960 --> 00:28:21,519
+focus on it, it Yeah. But very
+
+850
+00:28:19,278 --> 00:28:24,079
+therapeutic. So, so if I were to wrap up
+
+851
+00:28:21,519 --> 00:28:26,879
+the story of Dude Ranch in a sentence to
+
+852
+00:28:24,079 --> 00:28:29,439
+this is oversimplifying it, but you paid
+
+853
+00:28:26,880 --> 00:28:31,760
+17,000 for the domain. It was expiring.
+
+854
+00:28:29,440 --> 00:28:33,600
+You had to 18. You had to be patient,
+
+855
+00:28:31,759 --> 00:28:34,960
+but you were you bought it. At that
+
+856
+00:28:33,599 --> 00:28:36,879
+point, you started kind of reaching out
+
+857
+00:28:34,960 --> 00:28:38,399
+to the industry. You started getting
+
+858
+00:28:36,880 --> 00:28:40,640
+natural traffic because there was so
+
+859
+00:28:38,398 --> 00:28:42,558
+much search demand. You love it. You
+
+860
+00:28:40,640 --> 00:28:44,240
+loved it because there was search demand
+
+861
+00:28:42,558 --> 00:28:47,038
+and it was high ticket, right? And
+
+862
+00:28:44,240 --> 00:28:49,359
+that's a great and there was not much
+
+863
+00:28:47,038 --> 00:28:51,038
+supply meeting that search demand. You
+
+864
+00:28:49,359 --> 00:28:52,398
+built it on WordPress. You kind of
+
+865
+00:28:51,038 --> 00:28:54,158
+started reaching out to the industry.
+
+866
+00:28:52,398 --> 00:28:57,759
+You partnered with another partner
+
+867
+00:28:54,159 --> 00:29:00,480
+website. And today it does about $50,000
+
+868
+00:28:57,759 --> 00:29:02,079
+a year from one hour per month of work.
+
+869
+00:29:00,480 --> 00:29:03,839
+>> Yeah, that's correct. And I get free
+
+870
+00:29:02,079 --> 00:29:05,918
+travel and I get to go visit all these.
+
+871
+00:29:03,839 --> 00:29:08,558
+I've been to 50 dude ranches over the
+
+872
+00:29:05,919 --> 00:29:10,880
+past 14 years from
+
+873
+00:29:08,558 --> 00:29:12,720
+>> gosh from Georgia to I mean there are a
+
+874
+00:29:10,880 --> 00:29:13,679
+few dude ranches in Georgia. I mean
+
+875
+00:29:12,720 --> 00:29:14,960
+Colorado, Wyoming.
+
+876
+00:29:13,679 --> 00:29:16,640
+>> That's worth hundreds of thousands of
+
+877
+00:29:14,960 --> 00:29:18,079
+dollars in and of itself.
+
+878
+00:29:16,640 --> 00:29:20,159
+>> Yeah. I mean, it's just it's wonderful
+
+879
+00:29:18,079 --> 00:29:22,480
+to go meet these folks and and it's some
+
+880
+00:29:20,159 --> 00:29:24,240
+of the most hardworking. I mean, talk
+
+881
+00:29:22,480 --> 00:29:26,960
+about a difficult business to run.
+
+882
+00:29:24,240 --> 00:29:29,200
+Seasonal for them. Some run cattle, not
+
+883
+00:29:26,960 --> 00:29:31,360
+many, but it's mainly hospitality. It is
+
+884
+00:29:29,200 --> 00:29:33,519
+summer camp for adults. So, how I
+
+885
+00:29:31,359 --> 00:29:35,519
+sometimes describe it, but you get to go
+
+886
+00:29:33,519 --> 00:29:37,200
+chill. If you have a family, you can
+
+887
+00:29:35,519 --> 00:29:39,278
+take your family and all the kids
+
+888
+00:29:37,200 --> 00:29:41,679
+unplug. They're out playing in the creek
+
+889
+00:29:39,278 --> 00:29:43,359
+or going to the campfire and no one's
+
+890
+00:29:41,679 --> 00:29:45,679
+staring at digital devices. It's
+
+891
+00:29:43,359 --> 00:29:48,879
+wonderful. You can go trap ski or ride
+
+892
+00:29:45,679 --> 00:29:50,240
+horses or fly fish, go on river rafting
+
+893
+00:29:48,880 --> 00:29:52,080
+trips. It's
+
+894
+00:29:50,240 --> 00:29:53,440
+>> it's one of the coolest vacations I've
+
+895
+00:29:52,079 --> 00:29:55,038
+ever been exposed to.
+
+896
+00:29:53,440 --> 00:29:56,880
+>> And we can even dovetail into ranch
+
+897
+00:29:55,038 --> 00:30:00,000
+work. So, I got ranch work out of which
+
+898
+00:29:56,880 --> 00:30:02,000
+was my job board from Dude Ranch. my
+
+899
+00:30:00,000 --> 00:30:03,519
+partner had it and we don't have to talk
+
+900
+00:30:02,000 --> 00:30:05,519
+long on ranch work, but it's another
+
+901
+00:30:03,519 --> 00:30:07,278
+blessing where I can help folks get a
+
+902
+00:30:05,519 --> 00:30:10,079
+job on a ranch, any type of ranch,
+
+903
+00:30:07,278 --> 00:30:13,119
+cattle ranch, an outfitter, an
+
+904
+00:30:10,079 --> 00:30:14,720
+equestrian ranch or a farm, and even
+
+905
+00:30:13,119 --> 00:30:16,879
+dude ranchers. So, I can still I can
+
+906
+00:30:14,720 --> 00:30:19,278
+double serve my dude ranchers, fill jobs
+
+907
+00:30:16,880 --> 00:30:21,919
+and fill heads and beds for their
+
+908
+00:30:19,278 --> 00:30:24,319
+ranches. So, he had it on the side and
+
+909
+00:30:21,919 --> 00:30:26,080
+sort of abandoned it. I saw it. I had a
+
+910
+00:30:24,319 --> 00:30:29,359
+friend in Atlanta that built a nursing
+
+911
+00:30:26,079 --> 00:30:33,119
+job board and had a had a good exit on
+
+912
+00:30:29,359 --> 00:30:34,879
+it. Shane had a good exit on his nursing
+
+913
+00:30:33,119 --> 00:30:35,918
+job board. I searched around on
+
+914
+00:30:34,880 --> 00:30:37,840
+WordPress and there were some
+
+915
+00:30:35,919 --> 00:30:40,000
+off-the-shelf themes for job boards on
+
+916
+00:30:37,839 --> 00:30:42,319
+WordPress for like 60 bucks. So, I
+
+917
+00:30:40,000 --> 00:30:45,038
+bought an off-the-shelf job board theme,
+
+918
+00:30:42,319 --> 00:30:47,839
+hacked it up on the back end to be just
+
+919
+00:30:45,038 --> 00:30:50,398
+better like better architecture for SEO.
+
+920
+00:30:47,839 --> 00:30:52,879
+got out on a super fast server and then
+
+921
+00:30:50,398 --> 00:30:55,278
+started sourcing jobs from dude ranchers
+
+922
+00:30:52,880 --> 00:30:57,679
+first and then sourcing them direct from
+
+923
+00:30:55,278 --> 00:30:59,839
+ranchers maybe on their website and then
+
+924
+00:30:57,679 --> 00:31:02,640
+slowly organic listings started coming
+
+925
+00:30:59,839 --> 00:31:04,558
+through and then the seasonality aspect
+
+926
+00:31:02,640 --> 00:31:05,840
+came back up again for dude ranchers and
+
+927
+00:31:04,558 --> 00:31:07,759
+then they'd need to hire their crew
+
+928
+00:31:05,839 --> 00:31:10,240
+again for the next summer then I get a
+
+929
+00:31:07,759 --> 00:31:12,640
+wave of job listings and then word of
+
+930
+00:31:10,240 --> 00:31:14,798
+mouth started working and then people
+
+931
+00:31:12,640 --> 00:31:16,399
+started repeat buying and it started
+
+932
+00:31:14,798 --> 00:31:18,158
+running and this one has just been one
+
+933
+00:31:16,398 --> 00:31:18,558
+of the biggest blessings
+
+934
+00:31:18,159 --> 00:31:20,080
+Yeah.
+
+935
+00:31:18,558 --> 00:31:21,839
+>> And again, this one goes back to
+
+936
+00:31:20,079 --> 00:31:24,639
+memories and happy. Not a lot of
+
+937
+00:31:21,839 --> 00:31:27,918
+memories, but it's h I'm helping someone
+
+938
+00:31:24,640 --> 00:31:28,960
+find gainful employment on a a on a
+
+939
+00:31:27,919 --> 00:31:31,278
+ranch.
+
+940
+00:31:28,960 --> 00:31:33,759
+>> And a lot of times it's somebody that
+
+941
+00:31:31,278 --> 00:31:35,839
+maybe grew up on a ranch and maybe
+
+942
+00:31:33,759 --> 00:31:38,398
+they're in the big city now. I just
+
+943
+00:31:35,839 --> 00:31:40,480
+raised prices yesterday. I had that I
+
+944
+00:31:38,398 --> 00:31:43,199
+added a diamond level yesterday. For
+
+945
+00:31:40,480 --> 00:31:45,679
+those listening, 100 bucks to post a job
+
+946
+00:31:43,200 --> 00:31:46,960
+for the cheapest plan. What are what's
+
+947
+00:31:45,679 --> 00:31:47,600
+the difference between these plans? And
+
+948
+00:31:46,960 --> 00:31:50,000
+how did you
+
+949
+00:31:47,599 --> 00:31:53,038
+>> mainly duration? So, uh, silver will run
+
+950
+00:31:50,000 --> 00:31:54,480
+for 10 days, gold will run for 30 days,
+
+951
+00:31:53,038 --> 00:31:56,558
+and there's a quick turnaround. I'll
+
+952
+00:31:54,480 --> 00:31:59,278
+take 24 hours. I hand curate every
+
+953
+00:31:56,558 --> 00:32:00,879
+single listing. So, I put live in 24
+
+954
+00:31:59,278 --> 00:32:03,278
+hours because it it goes through my
+
+955
+00:32:00,880 --> 00:32:05,600
+eyeballs to make sure it's a legit. If
+
+956
+00:32:03,278 --> 00:32:06,880
+it seems sketch or something off, it
+
+957
+00:32:05,599 --> 00:32:08,480
+rarely happens,
+
+958
+00:32:06,880 --> 00:32:09,600
+>> but if it does, I just refund them to
+
+959
+00:32:08,480 --> 00:32:10,480
+say, "We're not quite the right fit for
+
+960
+00:32:09,599 --> 00:32:12,079
+you because we're not going to be able
+
+961
+00:32:10,480 --> 00:32:14,240
+to drive you good leads." Then we have
+
+962
+00:32:12,079 --> 00:32:16,798
+free. If it's a ranch that, you know, is
+
+963
+00:32:14,240 --> 00:32:18,880
+in financial trouble and they need some
+
+964
+00:32:16,798 --> 00:32:21,200
+help, I like I never want to turn them
+
+965
+00:32:18,880 --> 00:32:23,679
+away. So, I try to have a free option
+
+966
+00:32:21,200 --> 00:32:25,919
+that allows them because I know I can
+
+967
+00:32:23,679 --> 00:32:28,480
+drive a significant amount of traffic.
+
+968
+00:32:25,919 --> 00:32:30,960
+And I al on this page, I also allow job
+
+969
+00:32:28,480 --> 00:32:32,640
+seekers. They want to pay me.
+
+970
+00:32:30,960 --> 00:32:34,558
+>> It looks pretty active.
+
+971
+00:32:32,640 --> 00:32:34,960
+>> Yeah, they do. So, they pay you to put
+
+972
+00:32:34,558 --> 00:32:37,759
+this.
+
+973
+00:32:34,960 --> 00:32:40,000
+>> Yeah, they pay me to extend. And I
+
+974
+00:32:37,759 --> 00:32:41,440
+filled one this Amy right there. Amy W.
+
+975
+00:32:40,000 --> 00:32:43,200
+She emailed me this morning saying,
+
+976
+00:32:41,440 --> 00:32:44,320
+"Peter, can you pull my listing down? I
+
+977
+00:32:43,200 --> 00:32:45,360
+found something."
+
+978
+00:32:44,319 --> 00:32:46,639
+>> I was like, and I was like,
+
+979
+00:32:45,359 --> 00:32:49,038
+>> you helped her find a job?
+
+980
+00:32:46,640 --> 00:32:49,440
+>> I was, heck yes. August 4th, I found her
+
+981
+00:32:49,038 --> 00:32:51,200
+a job.
+
+982
+00:32:49,440 --> 00:32:52,320
+>> What did she pay for this?
+
+983
+00:32:51,200 --> 00:32:54,080
+>> Huh?
+
+984
+00:32:52,319 --> 00:32:56,158
+>> She paid 99 bucks.
+
+985
+00:32:54,079 --> 00:32:58,720
+>> Wow. 99 bucks to get a job. And did you
+
+986
+00:32:56,159 --> 00:32:59,440
+email all of your job? Like, how did you
+
+987
+00:32:58,720 --> 00:33:01,360
+promote her?
+
+988
+00:32:59,440 --> 00:33:03,919
+>> Yeah. So, I I'm listed on the site. We
+
+989
+00:33:01,359 --> 00:33:06,000
+get 1.3 million visits a year to this
+
+990
+00:33:03,919 --> 00:33:09,440
+site. So, we get a tremendous amount of
+
+991
+00:33:06,000 --> 00:33:13,599
+uh of traffic. I have 12,000 people on
+
+992
+00:33:09,440 --> 00:33:16,399
+our email list. I have 25,000 plus on
+
+993
+00:33:13,599 --> 00:33:16,719
+our private Facebook job board page.
+
+994
+00:33:16,398 --> 00:33:18,558
+>> Wow.
+
+995
+00:33:16,720 --> 00:33:20,159
+>> So, I cross posted on everything.
+
+996
+00:33:18,558 --> 00:33:21,678
+>> Of all your projects, is this kind of
+
+997
+00:33:20,159 --> 00:33:21,919
+your your cash cow? One of your
+
+998
+00:33:21,679 --> 00:33:23,600
+favorites.
+
+999
+00:33:21,919 --> 00:33:24,000
+>> Probably. Yeah, probably. Right now.
+
+1000
+00:33:23,599 --> 00:33:24,639
+Yeah.
+
+1001
+00:33:24,000 --> 00:33:25,839
+>> Good for you.
+
+1002
+00:33:24,640 --> 00:33:27,600
+>> If you want a fun one to go into
+
+1003
+00:33:25,839 --> 00:33:28,879
+archive.org, go to archive.org and do
+
+1004
+00:33:27,599 --> 00:33:30,639
+ranch work. You'll see some of the early
+
+1005
+00:33:28,880 --> 00:33:34,799
+versions. I think he just took us off
+
+1006
+00:33:30,640 --> 00:33:36,399
+the ball and it was dormant. Go. Yeah,
+
+1007
+00:33:34,798 --> 00:33:37,918
+maybe a little bit after though. He may
+
+1008
+00:33:36,398 --> 00:33:39,199
+have a version of it on those pages.
+
+1009
+00:33:37,919 --> 00:33:41,360
+Yeah, he probably has. He built it in
+
+1010
+00:33:39,200 --> 00:33:43,919
+98. So, it's a good It looks like that
+
+1011
+00:33:41,359 --> 00:33:45,599
+first like year gardening site. Maybe
+
+1012
+00:33:43,919 --> 00:33:46,399
+some comic sands in there.
+
+1013
+00:33:45,599 --> 00:33:48,158
+>> Oh, yeah.
+
+1014
+00:33:46,398 --> 00:33:50,158
+>> So, it's like he look he was listing
+
+1015
+00:33:48,159 --> 00:33:53,039
+their first and last names over there.
+
+1016
+00:33:50,159 --> 00:33:55,278
+Jeez Louise. People looking for jobs.
+
+1017
+00:33:53,038 --> 00:33:57,119
+>> But then he pushed it just to a landing
+
+1018
+00:33:55,278 --> 00:33:59,200
+page saying, "Hey, I've kind of shut
+
+1019
+00:33:57,119 --> 00:34:00,398
+ranch work down. Hey, thank goodness he
+
+1020
+00:33:59,200 --> 00:34:02,319
+didn't pull it offline." So, it was
+
+1021
+00:34:00,398 --> 00:34:05,199
+still live and active. and he had a link
+
+1022
+00:34:02,319 --> 00:34:07,519
+to another Facebook page that was
+
+1023
+00:34:05,200 --> 00:34:09,199
+deleted at some point. So I said, "What
+
+1024
+00:34:07,519 --> 00:34:11,519
+does this ranch work?" Cuz my my friend
+
+1025
+00:34:09,199 --> 00:34:12,878
+did a nursing job board. Maybe I do. I
+
+1026
+00:34:11,519 --> 00:34:14,239
+was like, "How about this, David?" So
+
+1027
+00:34:12,878 --> 00:34:17,199
+here was my deal to him. I was like,
+
+1028
+00:34:14,239 --> 00:34:18,799
+"Hey, here's what Let me try this.
+
+1029
+00:34:17,199 --> 00:34:21,598
+There's I found a job board theme on
+
+1030
+00:34:18,800 --> 00:34:23,599
+WordPress. Point the name servers to me.
+
+1031
+00:34:21,599 --> 00:34:28,000
+I'll do all the work. I'll build the
+
+1032
+00:34:23,599 --> 00:34:30,879
+whole site and if I get a job listing,
+
+1033
+00:34:28,000 --> 00:34:32,639
+I'll give you 25% and I'll keep 75% for
+
+1034
+00:34:30,878 --> 00:34:33,918
+my hard work. And any money, if I put a
+
+1035
+00:34:32,639 --> 00:34:36,960
+little AdSense on the site, I'll keep
+
+1036
+00:34:33,918 --> 00:34:39,358
+the AdSense revenue. And he is a great
+
+1037
+00:34:36,960 --> 00:34:40,480
+partner. He's always like Richard
+
+1038
+00:34:39,358 --> 00:34:41,679
+Branson. He's like, "Screw it. Let's do
+
+1039
+00:34:40,480 --> 00:34:43,358
+it. Who cares? Yeah, let's do it." Just
+
+1040
+00:34:41,679 --> 00:34:44,480
+like Aries was to me when I came into
+
+1041
+00:34:43,358 --> 00:34:45,918
+Vid I was like, "Screw it. Let's do it.
+
+1042
+00:34:44,480 --> 00:34:46,878
+That sounds fun. Let's try it." So, he
+
+1043
+00:34:45,918 --> 00:34:49,039
+was like, "Yeah, let's try it. Let's
+
+1044
+00:34:46,878 --> 00:34:51,039
+that sounds good to me." So he jumped
+
+1045
+00:34:49,039 --> 00:34:53,279
+in, changed the name servers to me and I
+
+1046
+00:34:51,039 --> 00:34:56,320
+got to work and built the first version
+
+1047
+00:34:53,280 --> 00:34:59,920
+just offtheshelf job board theme and it
+
+1048
+00:34:56,320 --> 00:35:01,280
+started working and it had enough just a
+
+1049
+00:34:59,920 --> 00:35:03,680
+little bit of trust and authority at
+
+1050
+00:35:01,280 --> 00:35:05,359
+that point and started driving traffic
+
+1051
+00:35:03,679 --> 00:35:07,440
+to the site and then I started filling
+
+1052
+00:35:05,358 --> 00:35:11,838
+jobs and folks were happy with me and
+
+1053
+00:35:07,440 --> 00:35:13,519
+then I uh the first version of the job
+
+1054
+00:35:11,838 --> 00:35:16,078
+board was trying to force people to set
+
+1055
+00:35:13,519 --> 00:35:17,920
+up an account in order to place a job
+
+1056
+00:35:16,079 --> 00:35:19,680
+and I don't like my rand I don't like
+
+1057
+00:35:17,920 --> 00:35:20,000
+anybody to jump through hoops.
+
+1058
+00:35:19,679 --> 00:35:22,639
+>> Yeah.
+
+1059
+00:35:20,000 --> 00:35:24,960
+>> I like projects being like a like a
+
+1060
+00:35:22,639 --> 00:35:26,639
+gumball machine. I sometimes compare
+
+1061
+00:35:24,960 --> 00:35:28,159
+them to. So that was what the page was
+
+1062
+00:35:26,639 --> 00:35:30,000
+right there right before I acquired it.
+
+1063
+00:35:28,159 --> 00:35:31,279
+He was like, "Okay, go to our Facebook
+
+1064
+00:35:30,000 --> 00:35:32,719
+page."
+
+1065
+00:35:31,280 --> 00:35:34,720
+>> If you want to go if you want to look at
+
+1066
+00:35:32,719 --> 00:35:36,559
+some jobs, you guys just talk among talk
+
+1067
+00:35:34,719 --> 00:35:37,919
+amongst yourself over there is basically
+
+1068
+00:35:36,559 --> 00:35:41,440
+what he's saying.
+
+1069
+00:35:37,920 --> 00:35:43,119
+>> Yeah. You cut this 7525 deal. How long
+
+1070
+00:35:41,440 --> 00:35:44,880
+did that stay in place? Did you ever end
+
+1071
+00:35:43,119 --> 00:35:46,000
+up buying the domain entirely and having
+
+1072
+00:35:44,880 --> 00:35:47,760
+it all to yourself?
+
+1073
+00:35:46,000 --> 00:35:49,679
+>> Yes. Yeah. So, if you go to that same
+
+1074
+00:35:47,760 --> 00:35:51,040
+Deep South Ventures, I I write all about
+
+1075
+00:35:49,679 --> 00:35:53,519
+this project as well if you want to hear
+
+1076
+00:35:51,039 --> 00:35:56,960
+the entire backstory. But yes, probably
+
+1077
+00:35:53,519 --> 00:35:59,599
+with David, we had it for
+
+1078
+00:35:56,960 --> 00:36:01,440
+if you go to essays at the top and then
+
+1079
+00:35:59,599 --> 00:36:03,119
+if you scroll down the very bottom, I
+
+1080
+00:36:01,440 --> 00:36:05,200
+have like the top I look at traffic and
+
+1081
+00:36:03,119 --> 00:36:07,280
+you can see must ride mule to and from
+
+1082
+00:36:05,199 --> 00:36:09,118
+work location and there that's the one
+
+1083
+00:36:07,280 --> 00:36:11,040
+that's the whole story behind it.
+
+1084
+00:36:09,119 --> 00:36:12,480
+>> So, I think it was I'd have to read this
+
+1085
+00:36:11,039 --> 00:36:14,159
+article again to figure out how long we
+
+1086
+00:36:12,480 --> 00:36:16,960
+had it together. I think it was five or
+
+1087
+00:36:14,159 --> 00:36:19,358
+six years and I could see it was working
+
+1088
+00:36:16,960 --> 00:36:22,800
+every single day. Chris, I wake up, I
+
+1089
+00:36:19,358 --> 00:36:24,960
+look at expired domains and I try my
+
+1090
+00:36:22,800 --> 00:36:27,519
+best to post a job. I like consistency
+
+1091
+00:36:24,960 --> 00:36:29,440
+on my job board to alert folks that this
+
+1092
+00:36:27,519 --> 00:36:31,920
+thing is alive and kicking and there is
+
+1093
+00:36:29,440 --> 00:36:34,400
+somebody babying this site to death and
+
+1094
+00:36:31,920 --> 00:36:36,639
+I like every single day pro hopefully
+
+1095
+00:36:34,400 --> 00:36:39,440
+posting multiple jobs if I can if I have
+
+1096
+00:36:36,639 --> 00:36:41,759
+enough free and paid submissions. So
+
+1097
+00:36:39,440 --> 00:36:43,599
+after six years, David needed some cash.
+
+1098
+00:36:41,760 --> 00:36:45,040
+So I was like, "Hey, how about I buy it
+
+1099
+00:36:43,599 --> 00:36:47,440
+from you?" I think it was 10 grand. I
+
+1100
+00:36:45,039 --> 00:36:49,279
+have it in that article. I'm able to
+
+1101
+00:36:47,440 --> 00:36:50,960
+continue working on these projects. This
+
+1102
+00:36:49,280 --> 00:36:52,720
+is a great year round project where
+
+1103
+00:36:50,960 --> 00:36:54,880
+Videlia is seasonal. Dude Ranch is
+
+1104
+00:36:52,719 --> 00:36:57,279
+seasonalish,
+
+1105
+00:36:54,880 --> 00:36:58,880
+and this one is is year round, and I
+
+1106
+00:36:57,280 --> 00:37:00,480
+like being able to run this one year
+
+1107
+00:36:58,880 --> 00:37:02,000
+round, then kind of move a little bit of
+
+1108
+00:37:00,480 --> 00:37:03,519
+my attention over to Vidilia when it
+
+1109
+00:37:02,000 --> 00:37:05,119
+needs it in its season,
+
+1110
+00:37:03,519 --> 00:37:07,599
+>> and then move a little bit over to do
+
+1111
+00:37:05,119 --> 00:37:09,280
+ranch in it season. But every audience,
+
+1112
+00:37:07,599 --> 00:37:11,119
+every day throughout the year, I'm kind
+
+1113
+00:37:09,280 --> 00:37:12,800
+of focused on ranch work in this whole
+
+1114
+00:37:11,119 --> 00:37:14,000
+in your realm, the type of stuff that
+
+1115
+00:37:12,800 --> 00:37:15,839
+you're doing with these domain names.
+
+1116
+00:37:14,000 --> 00:37:17,679
+What has you curious today that you
+
+1117
+00:37:15,838 --> 00:37:20,159
+maybe you weren't curious about 5 or 10
+
+1118
+00:37:17,679 --> 00:37:23,759
+years ago? What types of niches or is it
+
+1119
+00:37:20,159 --> 00:37:25,039
+directories or AI tools? Oddly, to your
+
+1120
+00:37:23,760 --> 00:37:26,720
+point earlier, right when we started
+
+1121
+00:37:25,039 --> 00:37:29,279
+this, I'll tell I'll tell you boutique
+
+1122
+00:37:26,719 --> 00:37:31,519
+e-commerce in regards to something you
+
+1123
+00:37:29,280 --> 00:37:32,720
+can spin up very quickly and get
+
+1124
+00:37:31,519 --> 00:37:34,320
+customers. You don't have to wait on
+
+1125
+00:37:32,719 --> 00:37:36,399
+this timing aspect of a directory
+
+1126
+00:37:34,320 --> 00:37:39,680
+marketplace. the fact you can set
+
+1127
+00:37:36,400 --> 00:37:40,880
+something up. Even I'm a I'm a snob on
+
+1128
+00:37:39,679 --> 00:37:42,719
+really good domain names. You really
+
+1129
+00:37:40,880 --> 00:37:44,880
+don't need a great domain. I I lean on
+
+1130
+00:37:42,719 --> 00:37:47,118
+docoms and I suggest.com because folks
+
+1131
+00:37:44,880 --> 00:37:49,358
+default to it, but you don't need an
+
+1132
+00:37:47,119 --> 00:37:51,599
+amazing one. I tend to buy them. But
+
+1133
+00:37:49,358 --> 00:37:54,319
+boutique e-commerce, man, is legit. And
+
+1134
+00:37:51,599 --> 00:37:56,960
+there are so many small niches that you
+
+1135
+00:37:54,320 --> 00:37:59,280
+could run out of a small little you
+
+1136
+00:37:56,960 --> 00:38:01,440
+could run out of your house to start and
+
+1137
+00:37:59,280 --> 00:38:03,440
+then do like my friend Warren Royal at
+
+1138
+00:38:01,440 --> 00:38:06,320
+Bobbleheads ran out of his basement and
+
+1139
+00:38:03,440 --> 00:38:08,000
+then when it started justifying larger
+
+1140
+00:38:06,320 --> 00:38:10,880
+expenses. He's got a warehouse and now
+
+1141
+00:38:08,000 --> 00:38:12,960
+he has his own warehouse out in Asia
+
+1142
+00:38:10,880 --> 00:38:16,000
+that is his own custom bobblehead
+
+1143
+00:38:12,960 --> 00:38:18,159
+creating out of his warehouse. but small
+
+1144
+00:38:16,000 --> 00:38:20,480
+boutique channels and you can use search
+
+1145
+00:38:18,159 --> 00:38:22,159
+to justify and it's funny I've been
+
+1146
+00:38:20,480 --> 00:38:25,760
+leaning on a lot of social stuff for
+
+1147
+00:38:22,159 --> 00:38:28,960
+Videlia and man it's powerful creating
+
+1148
+00:38:25,760 --> 00:38:32,160
+really good videos of I created a 30
+
+1149
+00:38:28,960 --> 00:38:34,159
+secondond ad for Videlia and it was
+
+1150
+00:38:32,159 --> 00:38:37,358
+three clips me walking behind the
+
+1151
+00:38:34,159 --> 00:38:40,078
+tractor when we're harvesting me holding
+
+1152
+00:38:37,358 --> 00:38:41,759
+up a Videlia with my hand and then me
+
+1153
+00:38:40,079 --> 00:38:44,160
+walking through our packing shed and
+
+1154
+00:38:41,760 --> 00:38:45,920
+then I just filmed I wung it and I kind
+
+1155
+00:38:44,159 --> 00:38:47,519
+of wrote a quick script and it wound up
+
+1156
+00:38:45,920 --> 00:38:50,159
+being about 30 seconds which seems to be
+
+1157
+00:38:47,519 --> 00:38:52,719
+a good sweet spot. It was like this is a
+
+1158
+00:38:50,159 --> 00:38:55,440
+Videlia onion. You know they're custom
+
+1159
+00:38:52,719 --> 00:38:58,480
+they're boutique onions only grown in
+
+1160
+00:38:55,440 --> 00:39:00,880
+Georgia and we are a Vadelia farm. We
+
+1161
+00:38:58,480 --> 00:39:02,880
+can ship it direct to your door.
+
+1162
+00:39:00,880 --> 00:39:04,400
+Consider us. Click the link in bio if
+
+1163
+00:39:02,880 --> 00:39:05,599
+you want to try one of these little
+
+1164
+00:39:04,400 --> 00:39:07,280
+special treats.
+
+1165
+00:39:05,599 --> 00:39:09,200
+>> What are some other examples of boutique
+
+1166
+00:39:07,280 --> 00:39:10,640
+e-commerce outside of the bobbleheads
+
+1167
+00:39:09,199 --> 00:39:11,519
+example that you've seen or heard of
+
+1168
+00:39:10,639 --> 00:39:14,639
+recently?
+
+1169
+00:39:11,519 --> 00:39:16,159
+>> Oh gosh, man. I've seen like individual
+
+1170
+00:39:14,639 --> 00:39:17,759
+this cool one. I don't even know the
+
+1171
+00:39:16,159 --> 00:39:20,239
+name of the business. It was like what
+
+1172
+00:39:17,760 --> 00:39:22,400
+is that little red the little red pull
+
+1173
+00:39:20,239 --> 00:39:25,919
+truck for kids that kids get in, but it
+
+1174
+00:39:22,400 --> 00:39:27,680
+was like a Ritz Carlton version of
+
+1175
+00:39:25,920 --> 00:39:28,559
+>> a pull behind for kids to sit in that
+
+1176
+00:39:27,679 --> 00:39:29,838
+you can pull them behind
+
+1177
+00:39:28,559 --> 00:39:30,960
+>> like a w like a red
+
+1178
+00:39:29,838 --> 00:39:32,400
+>> wagon. Little red wagon. I don't know
+
+1179
+00:39:30,960 --> 00:39:34,159
+why that name come to my head. Little
+
+1180
+00:39:32,400 --> 00:39:36,000
+red wagon, but it was
+
+1181
+00:39:34,159 --> 00:39:39,440
+>> like a
+
+1182
+00:39:36,000 --> 00:39:41,599
+>> like a Maserati version of a little red
+
+1183
+00:39:39,440 --> 00:39:44,400
+wagon. like individual seats, cup
+
+1184
+00:39:41,599 --> 00:39:46,320
+holders, uh, fancy, and you could pull
+
+1185
+00:39:44,400 --> 00:39:48,480
+your kids around in it. And this guy was
+
+1186
+00:39:46,320 --> 00:39:49,519
+running that business.
+
+1187
+00:39:48,480 --> 00:39:51,599
+>> I'm like, are you
+
+1188
+00:39:49,519 --> 00:39:53,199
+>> And that sells so well with ads, too.
+
+1189
+00:39:51,599 --> 00:39:55,119
+>> Oh my gosh, that Andy was his
+
+1190
+00:39:53,199 --> 00:39:58,639
+multi-million dollar business selling
+
+1191
+00:39:55,119 --> 00:40:00,160
+these custom high-end little red wagons.
+
+1192
+00:39:58,639 --> 00:40:02,159
+And to your point earlier, I was like,
+
+1193
+00:40:00,159 --> 00:40:05,039
+are you kidding me? There is a I was
+
+1194
+00:40:02,159 --> 00:40:07,759
+like, yeah, it would do really well for
+
+1195
+00:40:05,039 --> 00:40:09,920
+in social and you can pull kids behind
+
+1196
+00:40:07,760 --> 00:40:12,000
+it. It sort of looked like that. It was
+
+1197
+00:40:09,920 --> 00:40:14,960
+more looked like a little red wagon, but
+
+1198
+00:40:12,000 --> 00:40:16,800
+like a fancy little red wagon with
+
+1199
+00:40:14,960 --> 00:40:18,400
+custom seats. I can't remember the name.
+
+1200
+00:40:16,800 --> 00:40:20,560
+Maybe I can find it and email it to you
+
+1201
+00:40:18,400 --> 00:40:22,800
+later. But I was like, multi-million
+
+1202
+00:40:20,559 --> 00:40:25,199
+dollar business. I was like, wow. It's
+
+1203
+00:40:22,800 --> 00:40:25,839
+like, what else is out there that you
+
+1204
+00:40:25,199 --> 00:40:26,399
+could
+
+1205
+00:40:25,838 --> 00:40:28,719
+>> Oh, yeah.
+
+1206
+00:40:26,400 --> 00:40:32,000
+>> add an extra widget to that you could
+
+1207
+00:40:28,719 --> 00:40:34,239
+sell. DTOC is not easy, but you can ramp
+
+1208
+00:40:32,000 --> 00:40:36,159
+it up very quickly if you do if you just
+
+1209
+00:40:34,239 --> 00:40:39,279
+know cursory. So, you don't even have to
+
+1210
+00:40:36,159 --> 00:40:41,440
+lean on search. You could do social and
+
+1211
+00:40:39,280 --> 00:40:44,720
+create some really good video on your
+
+1212
+00:40:41,440 --> 00:40:46,960
+phone and edit it on Cap Cut and get
+
+1213
+00:40:44,719 --> 00:40:48,719
+some good audio and you're off to the
+
+1214
+00:40:46,960 --> 00:40:50,320
+races and it's very inexpensive and
+
+1215
+00:40:48,719 --> 00:40:52,639
+track transactions through Facebook
+
+1216
+00:40:50,320 --> 00:40:54,720
+pixel and you're ready to go at least
+
+1217
+00:40:52,639 --> 00:40:56,400
+test it and see if it sells. That's been
+
+1218
+00:40:54,719 --> 00:40:58,159
+one that's interesting. All kind of food
+
+1219
+00:40:56,400 --> 00:41:00,318
+ones are fascinating. There's a pickle
+
+1220
+00:40:58,159 --> 00:41:01,598
+company I think there I'm fascinated. I
+
+1221
+00:41:00,318 --> 00:41:03,199
+haven't bought them yet but they've been
+
+1222
+00:41:01,599 --> 00:41:04,800
+showing up in my feed. I think it's I
+
+1223
+00:41:03,199 --> 00:41:07,039
+love my pickle, but I think it's olive
+
+1224
+00:41:04,800 --> 00:41:08,240
+my pickle and it's a free promotion for
+
+1225
+00:41:07,039 --> 00:41:10,480
+them, but I haven't tried it, but it's
+
+1226
+00:41:08,239 --> 00:41:12,879
+like legit pickles in this. And so
+
+1227
+00:41:10,480 --> 00:41:15,679
+they're touting the health benefits of
+
+1228
+00:41:12,880 --> 00:41:17,599
+these specialty pickles that they send.
+
+1229
+00:41:15,679 --> 00:41:19,199
+So I love kind of foodbased. I mean,
+
+1230
+00:41:17,599 --> 00:41:20,240
+look how well-designed this site is.
+
+1231
+00:41:19,199 --> 00:41:22,399
+>> That's beautiful site.
+
+1232
+00:41:20,239 --> 00:41:24,159
+>> It is. It's beautiful. And so they're
+
+1233
+00:41:22,400 --> 00:41:26,240
+they're touting the health benefits of
+
+1234
+00:41:24,159 --> 00:41:28,719
+theirs. What's different of their pickle
+
+1235
+00:41:26,239 --> 00:41:30,639
+versus the pickles you may get at the uh
+
+1236
+00:41:28,719 --> 00:41:33,118
+grocery store. I think they go into that
+
+1237
+00:41:30,639 --> 00:41:34,879
+maybe down the page like why ours are
+
+1238
+00:41:33,119 --> 00:41:37,440
+different. Ours are better for gut
+
+1239
+00:41:34,880 --> 00:41:39,358
+health. It has all this extra stuff
+
+1240
+00:41:37,440 --> 00:41:41,679
+that's better for Yeah. Yeah. There is
+
+1241
+00:41:39,358 --> 00:41:43,759
+the ultimate gut health bundle.
+
+1242
+00:41:41,679 --> 00:41:45,919
+>> Okay. All right. So, let's talk onions.
+
+1243
+00:41:43,760 --> 00:41:48,000
+>> So, yeah. So, this one was an accident.
+
+1244
+00:41:45,920 --> 00:41:49,358
+I monitor expiring domains virtually
+
+1245
+00:41:48,000 --> 00:41:51,519
+every single day. It's just like my
+
+1246
+00:41:49,358 --> 00:41:53,119
+morning paper. I just pull it up. I
+
+1247
+00:41:51,519 --> 00:41:55,199
+started doing it. I just found I never
+
+1248
+00:41:53,119 --> 00:41:56,480
+stopped cuz they're so fun because it's
+
+1249
+00:41:55,199 --> 00:41:58,159
+just like you and I were doing just
+
+1250
+00:41:56,480 --> 00:42:00,400
+looking through the list like oh my gosh
+
+1251
+00:41:58,159 --> 00:42:01,838
+Chris crown molding you can do that is a
+
+1252
+00:42:00,400 --> 00:42:04,160
+legit business by the way if somebody
+
+1253
+00:42:01,838 --> 00:42:07,119
+wants to bid on that that is a legit you
+
+1254
+00:42:04,159 --> 00:42:08,879
+could go from new or crown molding from
+
+1255
+00:42:07,119 --> 00:42:09,920
+a historical home I may share that on
+
+1256
+00:42:08,880 --> 00:42:11,838
+Twitter here in the afternoon
+
+1257
+00:42:09,920 --> 00:42:12,720
+>> it only you should and it only has eight
+
+1258
+00:42:11,838 --> 00:42:14,318
+bids so
+
+1259
+00:42:12,719 --> 00:42:16,239
+>> eight bids I mean look at the the
+
+1260
+00:42:14,318 --> 00:42:17,358
+traffic isn't exact scroll up to the top
+
+1261
+00:42:16,239 --> 00:42:20,318
+of the page I can't remember which
+
+1262
+00:42:17,358 --> 00:42:22,799
+column uh there's age look how old it is
+
+1263
+00:42:20,318 --> 00:42:25,440
+it's 27 years It's been owned
+
+1264
+00:42:22,800 --> 00:42:28,079
+continually for 27 years
+
+1265
+00:42:25,440 --> 00:42:32,159
+>> and these traffic stats I think 20 the
+
+1266
+00:42:28,079 --> 00:42:34,560
+20 row or column is reflective of the
+
+1267
+00:42:32,159 --> 00:42:37,039
+traffic that it's receiving. GoDaddy is
+
+1268
+00:42:34,559 --> 00:42:38,960
+isn't it isn't exact, but it gives you a
+
+1269
+00:42:37,039 --> 00:42:40,880
+little bit of an idea if there is some
+
+1270
+00:42:38,960 --> 00:42:43,280
+natural type traffic of people just
+
+1271
+00:42:40,880 --> 00:42:45,200
+typing in looking for crown molding.
+
+1272
+00:42:43,280 --> 00:42:48,079
+>> Crown molding out of historical homes is
+
+1273
+00:42:45,199 --> 00:42:50,078
+a is a legit business. I think people
+
+1274
+00:42:48,079 --> 00:42:52,079
+can't comprehend that that people still
+
+1275
+00:42:50,079 --> 00:42:53,680
+just directly type in domain names. Can
+
+1276
+00:42:52,079 --> 00:42:56,640
+you talk about that before we go into
+
+1277
+00:42:53,679 --> 00:42:58,399
+onions? I got that from Warren Royal. He
+
+1278
+00:42:56,639 --> 00:43:00,000
+shares this on his Twitter feed. He was
+
+1279
+00:42:58,400 --> 00:43:02,000
+sharing listen you don't and no one
+
+1280
+00:43:00,000 --> 00:43:04,800
+quite understands how much type-in
+
+1281
+00:43:02,000 --> 00:43:07,199
+traffic it's one of his largest traffic
+
+1282
+00:43:04,800 --> 00:43:09,599
+sources and it's what allowed him to get
+
+1283
+00:43:07,199 --> 00:43:12,480
+the business off the ground. So when he
+
+1284
+00:43:09,599 --> 00:43:14,240
+started it, I think virtually all of his
+
+1285
+00:43:12,480 --> 00:43:17,039
+traffic was people typing in the term
+
+1286
+00:43:14,239 --> 00:43:18,799
+bobbleheads into the browser. not going
+
+1287
+00:43:17,039 --> 00:43:21,039
+through a search engine and adding.com
+
+1288
+00:43:18,800 --> 00:43:23,039
+at the end and coming direct to his
+
+1289
+00:43:21,039 --> 00:43:25,039
+site. And when he started, he had three
+
+1290
+00:43:23,039 --> 00:43:27,119
+bobbleheads that he was uh selling by
+
+1291
+00:43:25,039 --> 00:43:28,400
+thirds, drop shipping them. And it was
+
+1292
+00:43:27,119 --> 00:43:32,000
+right before
+
+1293
+00:43:28,400 --> 00:43:33,680
+>> it was before Obama, Hillary, and
+
+1294
+00:43:32,000 --> 00:43:35,440
+someone else. I can't remember. He had
+
+1295
+00:43:33,679 --> 00:43:35,759
+three Bob McCain.
+
+1296
+00:43:35,440 --> 00:43:37,519
+>> Okay.
+
+1297
+00:43:35,760 --> 00:43:38,160
+>> And he sold three bobbleheads.
+
+1298
+00:43:37,519 --> 00:43:39,679
+>> Oh yeah.
+
+1299
+00:43:38,159 --> 00:43:41,838
+>> And he was selling them out of his
+
+1300
+00:43:39,679 --> 00:43:43,759
+basement. And he started selling them
+
+1301
+00:43:41,838 --> 00:43:45,838
+out. Just selling them out. He was like,
+
+1302
+00:43:43,760 --> 00:43:47,839
+"Holy cow, I got something here. This is
+
+1303
+00:43:45,838 --> 00:43:49,440
+quite interesting. He started sharing
+
+1304
+00:43:47,838 --> 00:43:51,358
+the fact and some of the old school
+
+1305
+00:43:49,440 --> 00:43:52,960
+domainers always share this, but it was
+
+1306
+00:43:51,358 --> 00:43:55,119
+neat to see it because he was sharing
+
+1307
+00:43:52,960 --> 00:43:57,679
+live and or just actual screenshots from
+
+1308
+00:43:55,119 --> 00:43:59,200
+his Google Analytics on direct traffic
+
+1309
+00:43:57,679 --> 00:44:02,318
+from a site that had never been
+
+1310
+00:43:59,199 --> 00:44:03,679
+developed, no backstory, no in links and
+
+1311
+00:44:02,318 --> 00:44:06,159
+you could see it was just direct
+
+1312
+00:44:03,679 --> 00:44:08,399
+traffic. SEO really hadn't gained any
+
+1313
+00:44:06,159 --> 00:44:10,078
+traction yet. And so I was like, "Okay,
+
+1314
+00:44:08,400 --> 00:44:11,760
+this direct is real." When I got Dude
+
+1315
+00:44:10,079 --> 00:44:14,160
+Ranch, right out of the gate, I was
+
+1316
+00:44:11,760 --> 00:44:16,319
+getting 30 to 50 visits a day from
+
+1317
+00:44:14,159 --> 00:44:19,039
+people typing in Dude Ranch and type in
+
+1318
+00:44:16,318 --> 00:44:20,800
+>> someone wanting a $5,000 vacation.
+
+1319
+00:44:19,039 --> 00:44:22,239
+>> Correct. So, I was like, "Wow." Okay.
+
+1320
+00:44:20,800 --> 00:44:23,599
+What I'm finding here with these great
+
+1321
+00:44:22,239 --> 00:44:25,598
+domains is
+
+1322
+00:44:23,599 --> 00:44:27,838
+>> if I get a good descriptive one, it
+
+1323
+00:44:25,599 --> 00:44:29,760
+gives me some tailwind right out of the
+
+1324
+00:44:27,838 --> 00:44:31,759
+gate. So, I don't have to fully rely on
+
+1325
+00:44:29,760 --> 00:44:33,760
+paid search, Google ads, or Facebook
+
+1326
+00:44:31,760 --> 00:44:37,119
+ads. I can if I want, but if I want to
+
+1327
+00:44:33,760 --> 00:44:39,920
+keep my spend low, I can rely on just
+
+1328
+00:44:37,119 --> 00:44:42,480
+the typein traffic from this wonderful
+
+1329
+00:44:39,920 --> 00:44:43,838
+domain and figure out and maybe ask the
+
+1330
+00:44:42,480 --> 00:44:45,358
+customers, what are you looking for? Are
+
+1331
+00:44:43,838 --> 00:44:46,799
+they maybe I'm providing a product and
+
+1332
+00:44:45,358 --> 00:44:48,960
+they aren't purchasing it? And I can
+
+1333
+00:44:46,800 --> 00:44:50,880
+say, well, maybe they're looking for a
+
+1334
+00:44:48,960 --> 00:44:53,760
+service. Let me maybe offer a service
+
+1335
+00:44:50,880 --> 00:44:55,200
+out here. So, I got that from Dude Ranch
+
+1336
+00:44:53,760 --> 00:44:56,960
+and I started seeing it. I was like,
+
+1337
+00:44:55,199 --> 00:44:58,480
+wow, this is a longer term. It's not
+
+1338
+00:44:56,960 --> 00:45:00,880
+even as good as bobbleheads, but I'm
+
+1339
+00:44:58,480 --> 00:45:02,079
+still getting typeend traffic from this
+
+1340
+00:45:00,880 --> 00:45:04,079
+domain. And I was like, "Okay, type in
+
+1341
+00:45:02,079 --> 00:45:06,640
+traffic's real." No one really studies
+
+1342
+00:45:04,079 --> 00:45:08,560
+it that much, but it is real. And when
+
+1343
+00:45:06,639 --> 00:45:10,159
+Videlia came up, it's a longer term.
+
+1344
+00:45:08,559 --> 00:45:12,639
+Vidilia is tougher to spell. I was like,
+
+1345
+00:45:10,159 --> 00:45:14,719
+I realize it might get a little bit of
+
+1346
+00:45:12,639 --> 00:45:16,480
+type-in traffic, but again, I didn't
+
+1347
+00:45:14,719 --> 00:45:19,199
+intend to buy it. So, I was watching it
+
+1348
+00:45:16,480 --> 00:45:21,599
+just from I was curious about it. It was
+
+1349
+00:45:19,199 --> 00:45:23,279
+up for auction. I was working on
+
+1350
+00:45:21,599 --> 00:45:25,039
+probably working on Dude Ranch and I had
+
+1351
+00:45:23,280 --> 00:45:27,200
+like a different browser tab open
+
+1352
+00:45:25,039 --> 00:45:28,480
+looking at the auction. I thought the
+
+1353
+00:45:27,199 --> 00:45:30,879
+domain was going to sell for like five
+
+1354
+00:45:28,480 --> 00:45:32,800
+to six grand at auction. So the bid was
+
+1355
+00:45:30,880 --> 00:45:34,720
+around 2,000 bucks. So I was going in. I
+
+1356
+00:45:32,800 --> 00:45:37,519
+was like, I'll throw in 2100 bucks. It
+
+1357
+00:45:34,719 --> 00:45:40,239
+was like 19 2,000. So I just threw in I
+
+1358
+00:45:37,519 --> 00:45:42,639
+think it was 2100 2,000. Somebody else
+
+1359
+00:45:40,239 --> 00:45:45,439
+came in 2100. I was like, I still think
+
+1360
+00:45:42,639 --> 00:45:47,519
+this is worth five grand if I but I
+
+1361
+00:45:45,440 --> 00:45:48,960
+posted in 22 and expecting to be outbid
+
+1362
+00:45:47,519 --> 00:45:50,800
+and no one outbids me. And I was like,
+
+1363
+00:45:48,960 --> 00:45:52,800
+"Oh no." I was like, "Okay, I don't I
+
+1364
+00:45:50,800 --> 00:45:54,880
+really I I don't have two thou. I do
+
+1365
+00:45:52,800 --> 00:45:56,400
+have,000, but man, I'll be eating peanut
+
+1366
+00:45:54,880 --> 00:45:57,519
+butter and jelly sandwiches for the next
+
+1367
+00:45:56,400 --> 00:45:59,119
+month."
+
+1368
+00:45:57,519 --> 00:46:01,440
+>> I was like, "Oh no." And and so there's
+
+1369
+00:45:59,119 --> 00:46:03,200
+a timer in these uh auctions where it's
+
+1370
+00:46:01,440 --> 00:46:04,960
+it's counting down. I was like, "Oh god,
+
+1371
+00:46:03,199 --> 00:46:07,039
+are you serious?" Like, "Nobody else is
+
+1372
+00:46:04,960 --> 00:46:09,199
+going to bid on this and then it it
+
+1373
+00:46:07,039 --> 00:46:11,599
+counts down and expires and I win." It
+
+1374
+00:46:09,199 --> 00:46:14,078
+and I was like, "Crap, man. I don't have
+
+1375
+00:46:11,599 --> 00:46:15,838
+I don't want to spend 2,000 bucks. It
+
+1376
+00:46:14,079 --> 00:46:16,560
+may take five years for me to sell
+
+1377
+00:46:15,838 --> 00:46:18,480
+this."
+
+1378
+00:46:16,559 --> 00:46:20,159
+>> Was this the most expensive one that you
+
+1379
+00:46:18,480 --> 00:46:22,000
+had bought at up to this point?
+
+1380
+00:46:20,159 --> 00:46:23,598
+>> Dude Ranch was Well, I bought it direct.
+
+1381
+00:46:22,000 --> 00:46:25,440
+>> So, this was after Dude Ranch.
+
+1382
+00:46:23,599 --> 00:46:25,760
+>> Yeah. I bought Videlia after Dude Ranch.
+
+1383
+00:46:25,440 --> 00:46:26,639
+Yeah.
+
+1384
+00:46:25,760 --> 00:46:28,240
+>> Okay. Okay. Gotcha.
+
+1385
+00:46:26,639 --> 00:46:30,559
+>> Yeah. So, Dude Ranch was one of the most
+
+1386
+00:46:28,239 --> 00:46:32,399
+expensive. Travel Envoy I bought for 10
+
+1387
+00:46:30,559 --> 00:46:34,559
+grand, but it was a fully developed site
+
+1388
+00:46:32,400 --> 00:46:36,800
+with a lot of traffic. Dude Ranch was a
+
+1389
+00:46:34,559 --> 00:46:38,719
+blank slate, just the domain.
+
+1390
+00:46:36,800 --> 00:46:40,079
+>> And then I built the business around it.
+
+1391
+00:46:38,719 --> 00:46:41,358
+But then I bought it and I was like,
+
+1392
+00:46:40,079 --> 00:46:43,119
+ugh, I'm just going to forget. I just
+
+1393
+00:46:41,358 --> 00:46:43,838
+throw it into my portfolio and keep
+
+1394
+00:46:43,119 --> 00:46:45,440
+working on
+
+1395
+00:46:43,838 --> 00:46:46,400
+>> maybe I'll let it sit and resell it for
+
+1396
+00:46:45,440 --> 00:46:47,920
+a profit one day.
+
+1397
+00:46:46,400 --> 00:46:49,519
+>> Possibly. Maybe I'll put it up for a for
+
+1398
+00:46:47,920 --> 00:46:51,280
+sale page. I never oddly I never put it
+
+1399
+00:46:49,519 --> 00:46:53,440
+up for I just put it in just trying to
+
+1400
+00:46:51,280 --> 00:46:55,599
+forget about it that I bought it and but
+
+1401
+00:46:53,440 --> 00:46:57,838
+it kept it did. This is the only project
+
+1402
+00:46:55,599 --> 00:47:01,519
+I had that that just kept needling me.
+
+1403
+00:46:57,838 --> 00:47:03,199
+It was in my portfolio and I mentioned I
+
+1404
+00:47:01,519 --> 00:47:04,639
+go out for lunch with some friends in
+
+1405
+00:47:03,199 --> 00:47:06,078
+Atlanta at the time. I'm in Savannah
+
+1406
+00:47:04,639 --> 00:47:08,480
+now, but I was in Atlanta. I meet a
+
+1407
+00:47:06,079 --> 00:47:10,640
+friend for lunch. He's an old, you know,
+
+1408
+00:47:08,480 --> 00:47:12,240
+startup friend of mine in Atlanta and I
+
+1409
+00:47:10,639 --> 00:47:14,318
+was like, "Oh, Allan, dude, I bought the
+
+1410
+00:47:12,239 --> 00:47:16,239
+Fideliaunions.com." Oh, I didn't mean
+
+1411
+00:47:14,318 --> 00:47:17,838
+to. And I'd get the response like,
+
+1412
+00:47:16,239 --> 00:47:19,358
+"Dude, that's a big industry. That is
+
+1413
+00:47:17,838 --> 00:47:19,759
+legit. It is like the
+
+1414
+00:47:19,358 --> 00:47:22,318
+>> Yeah.
+
+1415
+00:47:19,760 --> 00:47:24,160
+>> know the caviar of sweet onions." and
+
+1416
+00:47:22,318 --> 00:47:27,039
+I'd see people's responses with the
+
+1417
+00:47:24,159 --> 00:47:28,480
+domain and it was you know even before
+
+1418
+00:47:27,039 --> 00:47:30,318
+that I was like there may be something
+
+1419
+00:47:28,480 --> 00:47:32,400
+there but I don't know man so I had it
+
+1420
+00:47:30,318 --> 00:47:35,039
+and I was like well I was like I don't
+
+1421
+00:47:32,400 --> 00:47:38,318
+know what this is but let me just put up
+
+1422
+00:47:35,039 --> 00:47:40,800
+a landing page and uh I'll have just
+
+1423
+00:47:38,318 --> 00:47:41,838
+like an email sign up and say would you
+
+1424
+00:47:40,800 --> 00:47:43,440
+like you know more information about
+
+1425
+00:47:41,838 --> 00:47:45,279
+Videlas it was something rough like that
+
+1426
+00:47:43,440 --> 00:47:47,358
+I think and and then people started
+
+1427
+00:47:45,280 --> 00:47:48,880
+signing up saying hey and I may have had
+
+1428
+00:47:47,358 --> 00:47:51,279
+something hey if you are interested in
+
+1429
+00:47:48,880 --> 00:47:52,960
+having Videlas delivered you know submit
+
+1430
+00:47:51,280 --> 00:47:54,400
+your email. I didn't have any promises.
+
+1431
+00:47:52,960 --> 00:47:55,920
+I was just like, hey, if you have any
+
+1432
+00:47:54,400 --> 00:47:58,079
+interest in having them delivered,
+
+1433
+00:47:55,920 --> 00:47:59,599
+submit your email below. And so people
+
+1434
+00:47:58,079 --> 00:48:01,119
+started submitting their email. And I
+
+1435
+00:47:59,599 --> 00:48:02,800
+was like, well, okay, that's kind of
+
+1436
+00:48:01,119 --> 00:48:04,240
+weird. It's like, but I'm not a Videlia
+
+1437
+00:48:02,800 --> 00:48:07,039
+farmer. I don't I don't know how this
+
+1438
+00:48:04,239 --> 00:48:09,118
+works, but I was lucky that Videlia is
+
+1439
+00:48:07,039 --> 00:48:10,559
+only about 3 hours away from Atlanta.
+
+1440
+00:48:09,119 --> 00:48:11,280
+What year was this that you put the
+
+1441
+00:48:10,559 --> 00:48:14,639
+landing page up?
+
+1442
+00:48:11,280 --> 00:48:15,920
+>> I think it was 2014 or 2015. It may I
+
+1443
+00:48:14,639 --> 00:48:18,000
+don't know if it ever got indexed. You
+
+1444
+00:48:15,920 --> 00:48:20,240
+may see the early version of the site
+
+1445
+00:48:18,000 --> 00:48:22,400
+because it was short. I put it up and I
+
+1446
+00:48:20,239 --> 00:48:24,159
+started getting a few nibbles and I was
+
+1447
+00:48:22,400 --> 00:48:25,760
+quick and then I was like, "Well,
+
+1448
+00:48:24,159 --> 00:48:28,159
+Videlia is just three hours down the
+
+1449
+00:48:25,760 --> 00:48:28,640
+road. I'd love to go hang out in Vidia,
+
+1450
+00:48:28,159 --> 00:48:30,879
+Georgia."
+
+1451
+00:48:28,639 --> 00:48:32,078
+>> Videlia, Georgia, correct? In the USA.
+
+1452
+00:48:30,880 --> 00:48:33,440
+So, I was like, "Let me just go down
+
+1453
+00:48:32,079 --> 00:48:35,519
+there for a day." So, I just jumped in
+
+1454
+00:48:33,440 --> 00:48:37,440
+the car. They have a committee that
+
+1455
+00:48:35,519 --> 00:48:40,000
+represents all the Videlia farmers. So,
+
+1456
+00:48:37,440 --> 00:48:41,119
+I called them up and said, "Hey, number
+
+1457
+00:48:40,000 --> 00:48:42,719
+one, I just want to make sure you know
+
+1458
+00:48:41,119 --> 00:48:45,280
+you guys know I'm I'm a good guy. I'm
+
+1459
+00:48:42,719 --> 00:48:47,039
+not trying to I'm not trying to hijack
+
+1460
+00:48:45,280 --> 00:48:49,680
+the name of your industry. I'm a real
+
+1461
+00:48:47,039 --> 00:48:51,440
+person. mess around with big onion,
+
+1462
+00:48:49,679 --> 00:48:53,039
+Peter. Don't mess with and it's a
+
+1463
+00:48:51,440 --> 00:48:54,559
+trademark term by the state law. I
+
+1464
+00:48:53,039 --> 00:48:56,000
+almost needed their blessing to use it.
+
+1465
+00:48:54,559 --> 00:48:57,760
+So, I typically I thought it was
+
+1466
+00:48:56,000 --> 00:48:59,760
+generic, but then I wound up finding out
+
+1467
+00:48:57,760 --> 00:49:01,920
+it's a trademark term. I was like, "Oh
+
+1468
+00:48:59,760 --> 00:49:04,000
+crap, I sort of need their blessing."
+
+1469
+00:49:01,920 --> 00:49:06,079
+>> But like, let me just go talk to them
+
+1470
+00:49:04,000 --> 00:49:07,838
+>> and if they get all huffing a puff, I'll
+
+1471
+00:49:06,079 --> 00:49:09,200
+just give them a domain, you know, or
+
+1472
+00:49:07,838 --> 00:49:11,599
+you know, just give it to somebody. But
+
+1473
+00:49:09,199 --> 00:49:13,679
+I went down just saying, "Hey, I happen
+
+1474
+00:49:11,599 --> 00:49:16,079
+to acquire this thing at auction. My
+
+1475
+00:49:13,679 --> 00:49:18,399
+background is building web projects and
+
+1476
+00:49:16,079 --> 00:49:21,039
+sometimes e-commerce, sometimes
+
+1477
+00:49:18,400 --> 00:49:23,519
+directory marketplace, informationbased
+
+1478
+00:49:21,039 --> 00:49:26,000
+stuff. I'm trying to see if there's an a
+
+1479
+00:49:23,519 --> 00:49:27,759
+business here for possibly shipping, but
+
+1480
+00:49:26,000 --> 00:49:29,280
+I don't know any farmers. Like, could
+
+1481
+00:49:27,760 --> 00:49:32,000
+you can I come just come talk to you
+
+1482
+00:49:29,280 --> 00:49:34,079
+guys? The the committee. They were super
+
+1483
+00:49:32,000 --> 00:49:35,920
+just welcoming. And so, I went down and
+
+1484
+00:49:34,079 --> 00:49:37,599
+just met with the committee. Met with
+
+1485
+00:49:35,920 --> 00:49:40,400
+them. And then they when they realized I
+
+1486
+00:49:37,599 --> 00:49:41,920
+wasn't a huge weirdo, they said, "Okay,
+
+1487
+00:49:40,400 --> 00:49:43,760
+let's drive around. We'll just introduce
+
+1488
+00:49:41,920 --> 00:49:45,039
+you to a few Videlia farmers. Yeah, this
+
+1489
+00:49:43,760 --> 00:49:47,119
+is an old WordPress theme. For some
+
+1490
+00:49:45,039 --> 00:49:49,119
+strange reason, the CSS isn't loading
+
+1491
+00:49:47,119 --> 00:49:51,280
+correctly within archive, but this was
+
+1492
+00:49:49,119 --> 00:49:54,318
+an early version of the site. I think
+
+1493
+00:49:51,280 --> 00:49:55,920
+our second or third year after 2016. I
+
+1494
+00:49:54,318 --> 00:49:59,759
+think we were shipping I think two years
+
+1495
+00:49:55,920 --> 00:50:02,000
+at that point. I acquired in o in 14 and
+
+1496
+00:49:59,760 --> 00:50:03,839
+I believe the 15 crop is the first one
+
+1497
+00:50:02,000 --> 00:50:05,760
+that we started shipping. Yeah, because
+
+1498
+00:50:03,838 --> 00:50:08,639
+we just celebrated our 10th year of
+
+1499
+00:50:05,760 --> 00:50:11,200
+shipping or 10th or 11th. But this was
+
+1500
+00:50:08,639 --> 00:50:12,799
+the fancyish logo. I was still designing
+
+1501
+00:50:11,199 --> 00:50:15,199
+the site at this point. I hadn't hired
+
+1502
+00:50:12,800 --> 00:50:16,800
+it out, but I had hired a logo.
+
+1503
+00:50:15,199 --> 00:50:17,598
+>> That was That's the rough onion design
+
+1504
+00:50:16,800 --> 00:50:18,800
+that I created.
+
+1505
+00:50:17,599 --> 00:50:19,760
+>> Yeah, it's like that looks like they're
+
+1506
+00:50:18,800 --> 00:50:22,480
+planted.
+
+1507
+00:50:19,760 --> 00:50:24,160
+>> Yeah, I kind of I did that kind of that
+
+1508
+00:50:22,480 --> 00:50:25,760
+design, but it's just rough the rough
+
+1509
+00:50:24,159 --> 00:50:27,440
+design that I included
+
+1510
+00:50:25,760 --> 00:50:30,160
+>> and that's the front. The old name of
+
+1511
+00:50:27,440 --> 00:50:31,519
+the site of the farm was Mnt and my
+
+1512
+00:50:30,159 --> 00:50:33,279
+partner bought the farm out so he
+
+1513
+00:50:31,519 --> 00:50:35,679
+changed the initials to A and his name's
+
+1514
+00:50:33,280 --> 00:50:38,960
+Aries and Megan is his wife. So, they
+
+1515
+00:50:35,679 --> 00:50:41,039
+changed the farm to A&M Farms.
+
+1516
+00:50:38,960 --> 00:50:42,960
+>> Uh, so yeah. So they started taking me
+
+1517
+00:50:41,039 --> 00:50:46,480
+around just introduced me to farmers. I
+
+1518
+00:50:42,960 --> 00:50:48,639
+met the first farmer and you know they
+
+1519
+00:50:46,480 --> 00:50:50,880
+had some reps up front then just saying
+
+1520
+00:50:48,639 --> 00:50:52,879
+oh they were like oh direct consumer. No
+
+1521
+00:50:50,880 --> 00:50:54,160
+they like it's they told me quote it was
+
+1522
+00:50:52,880 --> 00:50:55,599
+like it's the biggest thorn in their
+
+1523
+00:50:54,159 --> 00:50:56,639
+side. They did a little bit of it and
+
+1524
+00:50:55,599 --> 00:50:59,838
+they hated it.
+
+1525
+00:50:56,639 --> 00:51:00,400
+>> To you this is opportunity right sweet
+
+1526
+00:50:59,838 --> 00:51:01,679
+off your hands.
+
+1527
+00:51:00,400 --> 00:51:02,720
+>> That means they aren't really a
+
+1528
+00:51:01,679 --> 00:51:04,799
+competition because I know they're going
+
+1529
+00:51:02,719 --> 00:51:06,000
+to treat their customer like garbage.
+
+1530
+00:51:04,800 --> 00:51:07,920
+But I can see where they're coming from
+
+1531
+00:51:06,000 --> 00:51:09,838
+after running Videlia for 10 years. It's
+
+1532
+00:51:07,920 --> 00:51:12,240
+challenging. I mean D TOC is challenging
+
+1533
+00:51:09,838 --> 00:51:14,239
+but so I go to a second farm they were
+
+1534
+00:51:12,239 --> 00:51:16,719
+standoffish and then I went to Aries
+
+1535
+00:51:14,239 --> 00:51:20,318
+third one and we met a few others but I
+
+1536
+00:51:16,719 --> 00:51:22,000
+went to the Aries he got it immediately
+
+1537
+00:51:20,318 --> 00:51:23,599
+he was like yeah I get it and he was the
+
+1538
+00:51:22,000 --> 00:51:25,760
+general manager at that point and he was
+
+1539
+00:51:23,599 --> 00:51:27,519
+like yeah I get it uh you want to ship I
+
+1540
+00:51:25,760 --> 00:51:29,119
+was like yeah I got the site I haven't
+
+1541
+00:51:27,519 --> 00:51:30,559
+even built a really full version of the
+
+1542
+00:51:29,119 --> 00:51:32,000
+site yet I was like here's what I can
+
+1543
+00:51:30,559 --> 00:51:33,920
+offer you I have the name of the
+
+1544
+00:51:32,000 --> 00:51:36,800
+industry and I can promote your name a
+
+1545
+00:51:33,920 --> 00:51:39,680
+mnt at the time I'll build you a website
+
+1546
+00:51:36,800 --> 00:51:41,760
+for free you have to pay me a penny and
+
+1547
+00:51:39,679 --> 00:51:43,679
+then let's just see if we can ship some
+
+1548
+00:51:41,760 --> 00:51:45,839
+onions and put you I was like do you
+
+1549
+00:51:43,679 --> 00:51:47,519
+have boxes? Do you have storage or I
+
+1550
+00:51:45,838 --> 00:51:49,119
+didn't even understand the concept of
+
+1551
+00:51:47,519 --> 00:51:50,800
+because we have climate control storage
+
+1552
+00:51:49,119 --> 00:51:52,400
+which allows us to ship throughout the
+
+1553
+00:51:50,800 --> 00:51:54,000
+summer. I just had to ask like do you
+
+1554
+00:51:52,400 --> 00:51:57,119
+have boxes already here? Do we have to
+
+1555
+00:51:54,000 --> 00:51:59,920
+order so we already had boxes a packing
+
+1556
+00:51:57,119 --> 00:52:02,000
+shed and storage? So he has a crew in
+
+1557
+00:51:59,920 --> 00:52:04,559
+the packing sh that can pack for us so I
+
+1558
+00:52:02,000 --> 00:52:07,440
+can just focus on front end and
+
+1559
+00:52:04,559 --> 00:52:08,720
+operations and marketing sales and
+
+1560
+00:52:07,440 --> 00:52:10,159
+social media.
+
+1561
+00:52:08,719 --> 00:52:12,318
+>> He had nothing to lose.
+
+1562
+00:52:10,159 --> 00:52:14,480
+>> Yeah. So we did a handshake deal, dude.
+
+1563
+00:52:12,318 --> 00:52:18,239
+We and we operated off of a handshake
+
+1564
+00:52:14,480 --> 00:52:20,318
+deal for 10 years and then I had some
+
+1565
+00:52:18,239 --> 00:52:22,159
+silent friends in that deal. We had just
+
+1566
+00:52:20,318 --> 00:52:24,400
+some fun money where I used to buy and
+
+1567
+00:52:22,159 --> 00:52:25,679
+sell domains. So they were in on Videlia
+
+1568
+00:52:24,400 --> 00:52:27,519
+with me in the early days. So Aries and
+
+1569
+00:52:25,679 --> 00:52:29,199
+I just bought them out. I owned like 40%
+
+1570
+00:52:27,519 --> 00:52:30,880
+at that time. They own 60. So Aries and
+
+1571
+00:52:29,199 --> 00:52:33,358
+I came out and bought 100% of it out
+
+1572
+00:52:30,880 --> 00:52:35,440
+about a year ago. So Aries and I are now
+
+1573
+00:52:33,358 --> 00:52:37,199
+100% on the deal. But we operated
+
+1574
+00:52:35,440 --> 00:52:38,720
+Handshake deal. Whether that's the best
+
+1575
+00:52:37,199 --> 00:52:39,199
+idea, I don't know. But
+
+1576
+00:52:38,719 --> 00:52:40,558
+>> yeah,
+
+1577
+00:52:39,199 --> 00:52:43,838
+>> it worked great for us. And we just
+
+1578
+00:52:40,559 --> 00:52:45,599
+trust and it was I mean I my job was,
+
+1579
+00:52:43,838 --> 00:52:47,358
+you know, was sales generation. If I
+
+1580
+00:52:45,599 --> 00:52:50,559
+don't generate any sales, I don't get
+
+1581
+00:52:47,358 --> 00:52:52,960
+paid. And I wanted to be no risk to
+
+1582
+00:52:50,559 --> 00:52:54,400
+Aries. And I wanted to be and I still
+
+1583
+00:52:52,960 --> 00:52:56,720
+kind of treat it this day. I want to be
+
+1584
+00:52:54,400 --> 00:52:59,039
+just some quiet church mouse just doing
+
+1585
+00:52:56,719 --> 00:53:02,078
+my job in the background where he can
+
+1586
+00:52:59,039 --> 00:53:04,239
+focus on growing this very special onion
+
+1587
+00:53:02,079 --> 00:53:05,920
+and I'm doing my job and he doesn't have
+
+1588
+00:53:04,239 --> 00:53:08,639
+to worry about me and I don't want to
+
+1589
+00:53:05,920 --> 00:53:10,400
+give him any drama. But I give sometimes
+
+1590
+00:53:08,639 --> 00:53:12,879
+feedback if the customers and he wants
+
+1591
+00:53:10,400 --> 00:53:14,318
+to know if the if an onion was damaged.
+
+1592
+00:53:12,880 --> 00:53:16,880
+Sometimes it's tough for us to see if
+
+1593
+00:53:14,318 --> 00:53:18,960
+the an inner layer of the vidilia is is
+
+1594
+00:53:16,880 --> 00:53:21,119
+rotten. It's tough to see on the grading
+
+1595
+00:53:18,960 --> 00:53:23,199
+line. So feedback from like that from
+
+1596
+00:53:21,119 --> 00:53:25,760
+customers is always helpful if we notice
+
+1597
+00:53:23,199 --> 00:53:27,519
+a certain variety of Vidilia. So I
+
+1598
+00:53:25,760 --> 00:53:28,240
+always pass that information along. Go
+
+1599
+00:53:27,519 --> 00:53:30,000
+ahead.
+
+1600
+00:53:28,239 --> 00:53:32,239
+>> How does the split between you guys look
+
+1601
+00:53:30,000 --> 00:53:33,519
+as far as the revenue is concerned?
+
+1602
+00:53:32,239 --> 00:53:36,000
+>> We're still working that out. Right now
+
+1603
+00:53:33,519 --> 00:53:37,599
+it's just we run the business. I pay all
+
+1604
+00:53:36,000 --> 00:53:40,159
+the expenses and at the end of the year
+
+1605
+00:53:37,599 --> 00:53:42,079
+we figure out what how much cash he
+
+1606
+00:53:40,159 --> 00:53:43,679
+needs and how much cash I need because
+
+1607
+00:53:42,079 --> 00:53:46,079
+I'm kind of the employee of the
+
+1608
+00:53:43,679 --> 00:53:49,279
+business. And so we'll just figure out
+
+1609
+00:53:46,079 --> 00:53:51,359
+some spread. I mean, we we hit we've
+
+1610
+00:53:49,280 --> 00:53:53,920
+already hit £100,000, which is a new
+
+1611
+00:53:51,358 --> 00:53:56,400
+record for us this year. 100,000 pounds
+
+1612
+00:53:53,920 --> 00:53:57,519
+shipped. And it's weird on the revenue
+
+1613
+00:53:56,400 --> 00:53:59,280
+side because I know you're always good
+
+1614
+00:53:57,519 --> 00:54:00,800
+on jumping into revenue numbers and
+
+1615
+00:53:59,280 --> 00:54:02,480
+stuff, but it's weird for farmers. We I
+
+1616
+00:54:00,800 --> 00:54:03,760
+rarely share like revenue numbers
+
+1617
+00:54:02,480 --> 00:54:06,000
+because it's it's interesting hanging
+
+1618
+00:54:03,760 --> 00:54:07,760
+around farmers. It's similar to the dude
+
+1619
+00:54:06,000 --> 00:54:09,358
+ranch industry. It's I don't want to
+
+1620
+00:54:07,760 --> 00:54:11,200
+call it tacky, but it's like farmers,
+
+1621
+00:54:09,358 --> 00:54:13,519
+they they don't think in that frame of
+
+1622
+00:54:11,199 --> 00:54:15,279
+mind. This is their way of life.
+
+1623
+00:54:13,519 --> 00:54:17,920
+>> That's what makes it pure. And it's such
+
+1624
+00:54:15,280 --> 00:54:19,920
+a humble and rewarding, you know,
+
+1625
+00:54:17,920 --> 00:54:22,559
+industry. And and yes, revenue is very,
+
+1626
+00:54:19,920 --> 00:54:24,079
+very important. So what I decided from
+
+1627
+00:54:22,559 --> 00:54:25,680
+an early point in that industry, I was
+
+1628
+00:54:24,079 --> 00:54:27,519
+like, I'll just share how much we ship
+
+1629
+00:54:25,679 --> 00:54:29,118
+every year. That's you can share do your
+
+1630
+00:54:27,519 --> 00:54:29,838
+own math. You can figure it out. But it
+
+1631
+00:54:29,119 --> 00:54:32,240
+it's
+
+1632
+00:54:29,838 --> 00:54:34,719
+>> we ship 100,000 pounds. And we and we
+
+1633
+00:54:32,239 --> 00:54:36,479
+we've done that just by hopefully we are
+
+1634
+00:54:34,719 --> 00:54:38,639
+not the cheapest option around, but we
+
+1635
+00:54:36,480 --> 00:54:41,440
+try we try our best to take care of our
+
+1636
+00:54:38,639 --> 00:54:44,000
+customers and we ship UPS has done a
+
+1637
+00:54:41,440 --> 00:54:46,240
+great job with us. So, the farm manages
+
+1638
+00:54:44,000 --> 00:54:47,760
+all the fulfillment and logistics and
+
+1639
+00:54:46,239 --> 00:54:48,318
+stuff and you're just on the website
+
+1640
+00:54:47,760 --> 00:54:50,240
+stuff.
+
+1641
+00:54:48,318 --> 00:54:51,759
+>> Quick question. What if there were a
+
+1642
+00:54:50,239 --> 00:54:53,358
+private community out there of people
+
+1643
+00:54:51,760 --> 00:54:55,119
+that were building businesses based on
+
+1644
+00:54:53,358 --> 00:54:56,719
+this podcast? Well,
+
+1645
+00:54:55,119 --> 00:54:58,400
+>> I just made it and it's only for
+
+1646
+00:54:56,719 --> 00:55:00,879
+business starters and business builders.
+
+1647
+00:54:58,400 --> 00:55:02,720
+It's called TK Owners and it's basically
+
+1648
+00:55:00,880 --> 00:55:04,640
+like having me and 100 other business
+
+1649
+00:55:02,719 --> 00:55:05,919
+geniuses as your business partner. Also,
+
+1650
+00:55:04,639 --> 00:55:08,000
+there's going to be exclusive new
+
+1651
+00:55:05,920 --> 00:55:09,760
+trends, growth hacks, business ideas,
+
+1652
+00:55:08,000 --> 00:55:11,760
+and a database of everything I've ever
+
+1653
+00:55:09,760 --> 00:55:13,760
+talked about. You'll find thousands of
+
+1654
+00:55:11,760 --> 00:55:15,680
+startup case studies. You'll have weekly
+
+1655
+00:55:13,760 --> 00:55:17,520
+ask me anythings with me while I'll
+
+1656
+00:55:15,679 --> 00:55:20,159
+answer your questions directly. You can
+
+1657
+00:55:17,519 --> 00:55:21,039
+join now at tkowners.com. Link in the
+
+1658
+00:55:20,159 --> 00:55:23,440
+show notes.
+
+1659
+00:55:21,039 --> 00:55:25,759
+>> I'm website. I have the UPS. Yes. So I
+
+1660
+00:55:23,440 --> 00:55:27,920
+have Yes. Website's on WordPress. And
+
+1661
+00:55:25,760 --> 00:55:30,319
+then I have Shopify for the transaction
+
+1662
+00:55:27,920 --> 00:55:32,240
+shipstation to manage the boxes going in
+
+1663
+00:55:30,318 --> 00:55:33,759
+and out. I have a bad tendency of
+
+1664
+00:55:32,239 --> 00:55:35,358
+putting too much on my plate. So next
+
+1665
+00:55:33,760 --> 00:55:36,480
+year we have a lot to do in our
+
+1666
+00:55:35,358 --> 00:55:38,639
+offseason.
+
+1667
+00:55:36,480 --> 00:55:40,559
+We have a crew now in our packing show.
+
+1668
+00:55:38,639 --> 00:55:43,358
+I'm going to try to I'm still doing
+
+1669
+00:55:40,559 --> 00:55:45,359
+customer support, Chris, and it about
+
+1670
+00:55:43,358 --> 00:55:47,759
+broke my brain this year. So, I'm going
+
+1671
+00:55:45,358 --> 00:55:51,440
+to have to delegate. But I can step away
+
+1672
+00:55:47,760 --> 00:55:53,280
+from the screen and go hang out with
+
+1673
+00:55:51,440 --> 00:55:54,639
+these farmers that have such a wonder.
+
+1674
+00:55:53,280 --> 00:55:57,040
+They're so friendly and just have a
+
+1675
+00:55:54,639 --> 00:55:59,199
+wonderful perspective on on the world
+
+1676
+00:55:57,039 --> 00:56:01,358
+and what what's important and not
+
+1677
+00:55:59,199 --> 00:56:03,679
+slowing down, but understanding, you
+
+1678
+00:56:01,358 --> 00:56:06,960
+know, farming you have to slow yourself
+
+1679
+00:56:03,679 --> 00:56:10,000
+down. And it slows my somewhat frantic
+
+1680
+00:56:06,960 --> 00:56:11,519
+brain. It forces me to slow down.
+
+1681
+00:56:10,000 --> 00:56:12,960
+>> Like most people don't realize that you
+
+1682
+00:56:11,519 --> 00:56:14,880
+can have both. Like business doesn't
+
+1683
+00:56:12,960 --> 00:56:16,480
+have to just be business and money and
+
+1684
+00:56:14,880 --> 00:56:18,720
+profits and numbers and spreadsheets.
+
+1685
+00:56:16,480 --> 00:56:20,798
+Like you can feel good about what you do
+
+1686
+00:56:18,719 --> 00:56:22,558
+as well. And once you I'm hearing like
+
+1687
+00:56:20,798 --> 00:56:24,719
+two big unlocks in your brain. Number
+
+1688
+00:56:22,559 --> 00:56:26,720
+one was two decades ago when you're
+
+1689
+00:56:24,719 --> 00:56:28,239
+like, "Oh, I can make money for myself.
+
+1690
+00:56:26,719 --> 00:56:30,239
+Interesting." And then it was kind of
+
+1691
+00:56:28,239 --> 00:56:32,078
+like, "Oh, I can actually take pride in
+
+1692
+00:56:30,239 --> 00:56:34,399
+what I do and not just move pixels
+
+1693
+00:56:32,079 --> 00:56:36,000
+around on a screen all day." Oh, very
+
+1694
+00:56:34,400 --> 00:56:38,240
+interesting. And it just makes for a
+
+1695
+00:56:36,000 --> 00:56:40,079
+fulfilling life, right? Yeah. And
+
+1696
+00:56:38,239 --> 00:56:43,039
+building kind of these humble projects
+
+1697
+00:56:40,079 --> 00:56:44,720
+where I rarely set goals. I'll just
+
+1698
+00:56:43,039 --> 00:56:47,119
+build a project that seems to have
+
+1699
+00:56:44,719 --> 00:56:48,558
+opportunity and let it it's very similar
+
+1700
+00:56:47,119 --> 00:56:50,160
+to that Bill Walsh book. You know, the
+
+1701
+00:56:48,559 --> 00:56:52,400
+score is going to takes care of itself.
+
+1702
+00:56:50,159 --> 00:56:54,399
+I don't have any goals. I don't have I
+
+1703
+00:56:52,400 --> 00:56:57,519
+don't have some stretch goal for Videlia
+
+1704
+00:56:54,400 --> 00:57:01,039
+on we need to hit 120,000 pounds next
+
+1705
+00:56:57,519 --> 00:57:02,639
+year. We just rinse and repeat and start
+
+1706
+00:57:01,039 --> 00:57:04,239
+again next season to make sure the crop
+
+1707
+00:57:02,639 --> 00:57:06,400
+is taken care of and see where it takes
+
+1708
+00:57:04,239 --> 00:57:08,479
+us. If we take care of our customers and
+
+1709
+00:57:06,400 --> 00:57:10,960
+we have a fast site, an easy way to
+
+1710
+00:57:08,480 --> 00:57:12,880
+order and if we ship quickly and we s we
+
+1711
+00:57:10,960 --> 00:57:15,119
+give them a great onion, then they
+
+1712
+00:57:12,880 --> 00:57:17,599
+should come back. I don't need to set
+
+1713
+00:57:15,119 --> 00:57:19,838
+some stupid goal because some guru told
+
+1714
+00:57:17,599 --> 00:57:21,599
+me I need to set goals. I always compare
+
+1715
+00:57:19,838 --> 00:57:23,838
+it to almost like nature like you know
+
+1716
+00:57:21,599 --> 00:57:27,519
+some big redwood isn't setting up some
+
+1717
+00:57:23,838 --> 00:57:30,480
+goal to be 200 feet tall by this. It's
+
+1718
+00:57:27,519 --> 00:57:33,280
+it just grows every single year and and
+
+1719
+00:57:30,480 --> 00:57:35,920
+when it's done and it's top it stops and
+
+1720
+00:57:33,280 --> 00:57:37,920
+maybe then the branches start going out
+
+1721
+00:57:35,920 --> 00:57:39,519
+and so we may hit a top for Videlia and
+
+1722
+00:57:37,920 --> 00:57:40,720
+then maybe the branches are maybe some
+
+1723
+00:57:39,519 --> 00:57:41,920
+interesting partnerships that we can
+
+1724
+00:57:40,719 --> 00:57:42,480
+>> you become more loyal with your
+
+1725
+00:57:41,920 --> 00:57:44,639
+customers
+
+1726
+00:57:42,480 --> 00:57:46,318
+>> more loyal maybe there's an interesting
+
+1727
+00:57:44,639 --> 00:57:48,159
+social aspect to it we could get some
+
+1728
+00:57:46,318 --> 00:57:50,639
+customers through the social channel or
+
+1729
+00:57:48,159 --> 00:57:52,399
+yeah just growing slow and treating my
+
+1730
+00:57:50,639 --> 00:57:55,358
+projects almost like kind of a farming
+
+1731
+00:57:52,400 --> 00:57:58,559
+aspect of just slow growth let them go
+
+1732
+00:57:55,358 --> 00:58:01,519
+as fast as they want to go. I'm just the
+
+1733
+00:57:58,559 --> 00:58:04,000
+the dork behind the screen that is
+
+1734
+00:58:01,519 --> 00:58:06,000
+trying my best to oversee everything and
+
+1735
+00:58:04,000 --> 00:58:07,039
+and lightly push it in the right
+
+1736
+00:58:06,000 --> 00:58:08,400
+direction.
+
+1737
+00:58:07,039 --> 00:58:09,440
+>> And that seemed to work well with me
+
+1738
+00:58:08,400 --> 00:58:10,480
+over the years. So, I was like, I'm just
+
+1739
+00:58:09,440 --> 00:58:12,240
+going to stick with it. I don't there's
+
+1740
+00:58:10,480 --> 00:58:12,798
+no reason to change. It works great for
+
+1741
+00:58:12,239 --> 00:58:14,558
+me.
+
+1742
+00:58:12,798 --> 00:58:16,000
+>> I think people set goals because it
+
+1743
+00:58:14,559 --> 00:58:18,319
+makes them feel like they've already
+
+1744
+00:58:16,000 --> 00:58:19,599
+accomplished something, right? So, if I
+
+1745
+00:58:18,318 --> 00:58:21,920
+set a goal, then I've done something.
+
+1746
+00:58:19,599 --> 00:58:23,119
+Well, no. Doing something is the goal.
+
+1747
+00:58:21,920 --> 00:58:25,039
+Like, that's what you have to complete
+
+1748
+00:58:23,119 --> 00:58:28,079
+at the end of it. But just writing
+
+1749
+00:58:25,039 --> 00:58:29,599
+something down is good, but sometimes it
+
+1750
+00:58:28,079 --> 00:58:30,880
+gives us a false sense of accomplishment
+
+1751
+00:58:29,599 --> 00:58:32,160
+and we're like, "All right, now I can
+
+1752
+00:58:30,880 --> 00:58:34,000
+move on." And then we don't actually do
+
+1753
+00:58:32,159 --> 00:58:35,679
+the goal, which is the whole point.
+
+1754
+00:58:34,000 --> 00:58:38,239
+Yeah. Correct. Or you put some
+
+1755
+00:58:35,679 --> 00:58:39,838
+unnecessary stress or pressure on
+
+1756
+00:58:38,239 --> 00:58:41,598
+yourself and then, you know, let's just
+
+1757
+00:58:39,838 --> 00:58:43,679
+say your goal was 120. You only
+
+1758
+00:58:41,599 --> 00:58:46,160
+delivered 115.
+
+1759
+00:58:43,679 --> 00:58:47,440
+>> I failed failed to hit my 120. It's
+
+1760
+00:58:46,159 --> 00:58:49,118
+like, I don't care about these stupid
+
+1761
+00:58:47,440 --> 00:58:51,200
+goals. Or one thing I love about this
+
+1762
+00:58:49,119 --> 00:58:52,559
+story is you bought the domain name, you
+
+1763
+00:58:51,199 --> 00:58:54,159
+spent more than you thought you should
+
+1764
+00:58:52,559 --> 00:58:56,240
+have, and you just start talking to
+
+1765
+00:58:54,159 --> 00:58:58,000
+people and guy number one doesn't get
+
+1766
+00:58:56,239 --> 00:58:59,679
+it, guy number two doesn't get it, guy
+
+1767
+00:58:58,000 --> 00:59:01,440
+number three doesn't get it. With this
+
+1768
+00:58:59,679 --> 00:59:02,960
+story, even more than my Texas snack
+
+1769
+00:59:01,440 --> 00:59:04,798
+story, it reminds me of my Heartland
+
+1770
+00:59:02,960 --> 00:59:07,440
+bread story where I had a friend that
+
+1771
+00:59:04,798 --> 00:59:09,679
+had a bread company that only sold bread
+
+1772
+00:59:07,440 --> 00:59:11,838
+to 200 stores within DFW. People wanted
+
+1773
+00:59:09,679 --> 00:59:13,838
+to buy it online and I said, "Keith, let
+
+1774
+00:59:11,838 --> 00:59:16,639
+me just put an ad in your bread because
+
+1775
+00:59:13,838 --> 00:59:18,798
+10,000 Texans buy it every day."
+
+1776
+00:59:16,639 --> 00:59:20,480
+>> Wow. Let's give them an ad so that they
+
+1777
+00:59:18,798 --> 00:59:21,759
+can tell their friend in Indiana who was
+
+1778
+00:59:20,480 --> 00:59:22,880
+there for Thanksgiving and fell in love
+
+1779
+00:59:21,760 --> 00:59:24,160
+with your bread that they can buy it
+
+1780
+00:59:22,880 --> 00:59:26,160
+online now. Let's just do it as an
+
+1781
+00:59:24,159 --> 00:59:28,480
+experiment. Don't pay me anything. If it
+
+1782
+00:59:26,159 --> 00:59:30,719
+fails, it's all on me. If it succeeds,
+
+1783
+00:59:28,480 --> 00:59:33,599
+we'll split it some way. That's fair.
+
+1784
+00:59:30,719 --> 00:59:35,679
+And it succeeded. And that led into Send
+
+1785
+00:59:33,599 --> 00:59:37,519
+Eats, which led into Texas Snacks. And
+
+1786
+00:59:35,679 --> 00:59:39,440
+it all started with a question. And it
+
+1787
+00:59:37,519 --> 00:59:41,679
+was all possible because I found a guy
+
+1788
+00:59:39,440 --> 00:59:43,679
+that just got it right. And so sometimes
+
+1789
+00:59:41,679 --> 00:59:45,279
+you just have to keep talking to people
+
+1790
+00:59:43,679 --> 00:59:47,118
+until you don't have to try to convince
+
+1791
+00:59:45,280 --> 00:59:48,960
+anyone because sometimes we think of
+
+1792
+00:59:47,119 --> 00:59:50,960
+sales as convincing someone, but we just
+
+1793
+00:59:48,960 --> 00:59:52,880
+need to find the person that just gets
+
+1794
+00:59:50,960 --> 00:59:55,119
+it and that just gets us and they just
+
+1795
+00:59:52,880 --> 00:59:57,680
+basically say, "Shut up. I got it. Let's
+
+1796
+00:59:55,119 --> 00:59:59,599
+let's try to do something here." Right?
+
+1797
+00:59:57,679 --> 01:00:02,318
+>> It's a magical thing. And then this
+
+1798
+00:59:59,599 --> 01:00:04,720
+another similarity is his online sales
+
+1799
+01:00:02,318 --> 01:00:06,798
+from me were like 3% of their overall
+
+1800
+01:00:04,719 --> 01:00:08,078
+sales, but it was like 30% of their
+
+1801
+01:00:06,798 --> 01:00:10,239
+margins because it was direct to
+
+1802
+01:00:08,079 --> 01:00:11,839
+consumer. I have to think in your sense
+
+1803
+01:00:10,239 --> 01:00:13,598
+you're probably a small percent of their
+
+1804
+01:00:11,838 --> 01:00:15,039
+total volume, but they're not selling
+
+1805
+01:00:13,599 --> 01:00:16,240
+through a distributor and then a grocery
+
+1806
+01:00:15,039 --> 01:00:18,079
+store. They're selling direct to
+
+1807
+01:00:16,239 --> 01:00:19,598
+consumer. So, they love you and we have
+
+1808
+01:00:18,079 --> 01:00:21,039
+a direct relationship with our buyers.
+
+1809
+01:00:19,599 --> 01:00:23,039
+So, they lose the customer when they
+
+1810
+01:00:21,039 --> 01:00:25,358
+sell through the chains and they sell I
+
+1811
+01:00:23,039 --> 01:00:28,960
+mean they sell millions of pounds.
+
+1812
+01:00:25,358 --> 01:00:31,519
+>> Yeah. And yeah, much higher margin and
+
+1813
+01:00:28,960 --> 01:00:34,318
+we have a direct relationship with them
+
+1814
+01:00:31,519 --> 01:00:36,559
+>> and that's been tons of fun. But uh it
+
+1815
+01:00:34,318 --> 01:00:38,159
+is just yeah trying small things and and
+
+1816
+01:00:36,559 --> 01:00:40,319
+not beating yourself up if something
+
+1817
+01:00:38,159 --> 01:00:41,679
+doesn't work is what you learn early
+
+1818
+01:00:40,318 --> 01:00:44,000
+when you start doing this iterative
+
+1819
+01:00:41,679 --> 01:00:46,318
+process and building projects. I
+
+1820
+01:00:44,000 --> 01:00:49,358
+sometimes call it you know some failure
+
+1821
+01:00:46,318 --> 01:00:50,880
+callous it doesn't hurt anymore. You
+
+1822
+01:00:49,358 --> 01:00:53,199
+keep doing it enough you keep failing
+
+1823
+01:00:50,880 --> 01:00:54,880
+enough that callous is going to form and
+
+1824
+01:00:53,199 --> 01:00:56,719
+then the future failures it doesn't
+
+1825
+01:00:54,880 --> 01:00:58,240
+matter. It just flows off and you're
+
+1826
+01:00:56,719 --> 01:01:00,639
+right on to the next project because it
+
+1827
+01:00:58,239 --> 01:01:02,479
+doesn't hurt anymore. And that's what I
+
+1828
+01:01:00,639 --> 01:01:04,239
+kept doing. and I kept building and and
+
+1829
+01:01:02,480 --> 01:01:06,960
+and things would break or it get burnt
+
+1830
+01:01:04,239 --> 01:01:08,159
+down or it get de-indexed or or it just
+
+1831
+01:01:06,960 --> 01:01:10,639
+wouldn't work. It wouldn't make any
+
+1832
+01:01:08,159 --> 01:01:12,159
+money and I wouldn't necessarily beat
+
+1833
+01:01:10,639 --> 01:01:13,759
+myself up. I was like, "Oh, let me just
+
+1834
+01:01:12,159 --> 01:01:16,399
+try another project. See where this one
+
+1835
+01:01:13,760 --> 01:01:18,400
+goes." But then like slowly a path
+
+1836
+01:01:16,400 --> 01:01:20,798
+started to emerge. But it took years. I
+
+1837
+01:01:18,400 --> 01:01:23,599
+mean it was 04 is when I started. I got
+
+1838
+01:01:20,798 --> 01:01:25,759
+uh Dude Ranch in '09. So that was five
+
+1839
+01:01:23,599 --> 01:01:28,240
+years of just tinkering and figuring out
+
+1840
+01:01:25,760 --> 01:01:30,240
+what models might work well for me. and
+
+1841
+01:01:28,239 --> 01:01:32,558
+that I didn't buy Vidilion until uh
+
+1842
+01:01:30,239 --> 01:01:34,479
+2014. What was the story of finally
+
+1843
+01:01:32,559 --> 01:01:36,400
+buying onions.com? How much did that
+
+1844
+01:01:34,480 --> 01:01:38,960
+cost and did it did it move the needle
+
+1845
+01:01:36,400 --> 01:01:40,960
+much on your traffic? It was more of a
+
+1846
+01:01:38,960 --> 01:01:44,318
+vanity. So, my friend Warren at
+
+1847
+01:01:40,960 --> 01:01:46,960
+Bobbleheads uh he at first it went up
+
+1848
+01:01:44,318 --> 01:01:49,119
+for auction. So, I saw it. I'll try to
+
+1849
+01:01:46,960 --> 01:01:51,760
+get the short version of this. So, and
+
+1850
+01:01:49,119 --> 01:01:53,760
+this was uh Videlia had already gotten
+
+1851
+01:01:51,760 --> 01:01:55,839
+some traction and I was tweeting about
+
+1852
+01:01:53,760 --> 01:01:57,599
+it saying just sharing what these weird
+
+1853
+01:01:55,838 --> 01:02:00,880
+projects and sharing it on Twitter just
+
+1854
+01:01:57,599 --> 01:02:03,119
+to share it. And the domain went up for
+
+1855
+01:02:00,880 --> 01:02:06,079
+auction. Uh somebody had it and I think
+
+1856
+01:02:03,119 --> 01:02:08,000
+they put it on Flippa and I saw it and I
+
+1857
+01:02:06,079 --> 01:02:10,079
+was like, eh, I don't sell onions. I
+
+1858
+01:02:08,000 --> 01:02:11,760
+sell Videlia. It's a boutique product.
+
+1859
+01:02:10,079 --> 01:02:14,079
+You can only grow it and ship it and
+
+1860
+01:02:11,760 --> 01:02:16,079
+sell it from here in Georgia. I don't
+
+1861
+01:02:14,079 --> 01:02:18,079
+sell onions. I sell Videlas. it's, you
+
+1862
+01:02:16,079 --> 01:02:20,640
+know, I don't sell a commodity. I sell
+
+1863
+01:02:18,079 --> 01:02:22,318
+this, you know, boutique product. And I
+
+1864
+01:02:20,639 --> 01:02:23,679
+was like, ah, it went up for auction, so
+
+1865
+01:02:22,318 --> 01:02:26,159
+I just didn't buy it. Somebody else
+
+1866
+01:02:23,679 --> 01:02:27,679
+bought it with the idea that I wasn't
+
+1867
+01:02:26,159 --> 01:02:30,078
+washing the auction that they could get
+
+1868
+01:02:27,679 --> 01:02:34,798
+it and flip it to me. So, they buy it
+
+1869
+01:02:30,079 --> 01:02:38,160
+for I can't reme it was 17 or 18,000,
+
+1870
+01:02:34,798 --> 01:02:40,880
+maybe 18,000 bucks. It's in name bio on,
+
+1871
+01:02:38,159 --> 01:02:43,118
+but it they bought it for 18. Like a day
+
+1872
+01:02:40,880 --> 01:02:44,798
+or two later, they emailed me, "Hey, Mr.
+
+1873
+01:02:43,119 --> 01:02:47,440
+ask you, "We just happen to own this
+
+1874
+01:02:44,798 --> 01:02:48,559
+this high-end domain name." And I was
+
+1875
+01:02:47,440 --> 01:02:50,240
+like, "Yeah, I was watching that
+
+1876
+01:02:48,559 --> 01:02:53,119
+auction. Yeah, I'm not interested." And
+
+1877
+01:02:50,239 --> 01:02:54,318
+and then it was my whole business plan.
+
+1878
+01:02:53,119 --> 01:02:55,519
+They were like, I'm sure they were like,
+
+1879
+01:02:54,318 --> 01:02:57,440
+"Dang, I thought I was going to be able
+
+1880
+01:02:55,519 --> 01:02:57,838
+to flip it to them for 50 or something."
+
+1881
+01:02:57,440 --> 01:02:59,599
+>> Yeah.
+
+1882
+01:02:57,838 --> 01:03:01,599
+>> So, it sits on there.
+
+1883
+01:02:59,599 --> 01:03:04,480
+>> And so about 6 months later, it goes
+
+1884
+01:03:01,599 --> 01:03:06,318
+back up for sale on Flippa. The highest
+
+1885
+01:03:04,480 --> 01:03:08,240
+bid it gets is like five grand. Doesn't
+
+1886
+01:03:06,318 --> 01:03:09,838
+even hit the reserve. I see it. I'm
+
+1887
+01:03:08,239 --> 01:03:11,679
+like, "Okay, that's interesting." They
+
+1888
+01:03:09,838 --> 01:03:14,798
+put it up for sale, I think, on BIS by
+
+1889
+01:03:11,679 --> 01:03:17,199
+Sell. almost no takers. They put it back
+
+1890
+01:03:14,798 --> 01:03:17,759
+up again on
+
+1891
+01:03:17,199 --> 01:03:20,558
+>> flippa.
+
+1892
+01:03:17,760 --> 01:03:22,160
+>> Flippa with a high reserve. And that's
+
+1893
+01:03:20,559 --> 01:03:24,720
+when my friend I was at a domainer
+
+1894
+01:03:22,159 --> 01:03:26,078
+conference and I passed my Warren Royal
+
+1895
+01:03:24,719 --> 01:03:27,759
+and I and he was like, "Hey, you see
+
+1896
+01:03:26,079 --> 01:03:29,359
+that onions.com?" And I was like, "Yeah,
+
+1897
+01:03:27,760 --> 01:03:31,680
+Warren, but I don't I don't sell onions.
+
+1898
+01:03:29,358 --> 01:03:33,440
+I I sell Videlas." He was like, "I get
+
+1899
+01:03:31,679 --> 01:03:36,558
+it." He was like, "I get it. But
+
+1900
+01:03:33,440 --> 01:03:38,400
+understand, there's one time in our
+
+1901
+01:03:36,559 --> 01:03:41,039
+lifetime that domain's going to be for
+
+1902
+01:03:38,400 --> 01:03:43,119
+sale. one time that in this reasonable
+
+1903
+01:03:41,039 --> 01:03:44,400
+range of price right now, the next time
+
+1904
+01:03:43,119 --> 01:03:47,119
+it's for sale, it's going to be a h
+
+1905
+01:03:44,400 --> 01:03:47,358
+100red 200 $500,000.
+
+1906
+01:03:47,119 --> 01:03:48,960
+>> Yeah,
+
+1907
+01:03:47,358 --> 01:03:51,038
+>> if you have an interest in that domain,
+
+1908
+01:03:48,960 --> 01:03:54,000
+this is your opportunity to get it.
+
+1909
+01:03:51,039 --> 01:03:55,200
+>> And I was like, yeah, I guess I didn't
+
+1910
+01:03:54,000 --> 01:03:57,039
+think about that. I was like, you're
+
+1911
+01:03:55,199 --> 01:03:58,399
+right. I was like, I don't have a
+
+1912
+01:03:57,039 --> 01:03:59,680
+purpose for it right now. And that's
+
+1913
+01:03:58,400 --> 01:04:02,160
+what was holding me back. And I was
+
+1914
+01:03:59,679 --> 01:04:04,960
+like, I don't have a purpose for it.
+
+1915
+01:04:02,159 --> 01:04:06,558
+What do I do with it? And and then my
+
+1916
+01:04:04,960 --> 01:04:08,639
+answer was, I don't care. I was like,
+
+1917
+01:04:06,559 --> 01:04:10,079
+who cares? just just see if I can buy
+
+1918
+01:04:08,639 --> 01:04:12,078
+it. Maybe I get it for a little bit less
+
+1919
+01:04:10,079 --> 01:04:13,440
+than 18. He bought it. So, he had
+
+1920
+01:04:12,079 --> 01:04:15,519
+reached out to me. So, I just emailed
+
+1921
+01:04:13,440 --> 01:04:17,838
+him direct. I was like, "Hey, I saw your
+
+1922
+01:04:15,519 --> 01:04:19,358
+thing on Flippa. I'm interested, but I
+
+1923
+01:04:17,838 --> 01:04:21,279
+can't make the numbers work. Can you do
+
+1924
+01:04:19,358 --> 01:04:22,798
+whatever like 10 or 12 on this?" He was
+
+1925
+01:04:21,280 --> 01:04:24,079
+like, "Uh, I can do, you know what?" He
+
+1926
+01:04:22,798 --> 01:04:25,358
+did the negotiation thing, and he came
+
+1927
+01:04:24,079 --> 01:04:28,720
+down to 15. I was like, "Hey, if you
+
+1928
+01:04:25,358 --> 01:04:31,440
+could do like 15, 14 or 15,000." I think
+
+1929
+01:04:28,719 --> 01:04:35,679
+we came to 15. And he paid escro fees,
+
+1930
+01:04:31,440 --> 01:04:38,079
+which are 200 bucks. So, it was 14,800.
+
+1931
+01:04:35,679 --> 01:04:39,279
+And so I bought it for 14 and I didn't
+
+1932
+01:04:38,079 --> 01:04:41,280
+really have an idea what I was like, let
+
+1933
+01:04:39,280 --> 01:04:43,200
+me just buy it, see what happens. I'm
+
+1934
+01:04:41,280 --> 01:04:46,559
+pretty sure it's going to have solid
+
+1935
+01:04:43,199 --> 01:04:49,038
+type-in traffic. And it does. It's 50 a
+
+1936
+01:04:46,559 --> 01:04:50,240
+day, maybe more of people typing, but
+
+1937
+01:04:49,039 --> 01:04:52,400
+it's a little bit of everything. It gets
+
+1938
+01:04:50,239 --> 01:04:56,239
+some from the satire website. They own
+
+1939
+01:04:52,400 --> 01:04:59,200
+the onion. They own onion.com.
+
+1940
+01:04:56,239 --> 01:05:01,279
+I own onions with a plural. So I get a
+
+1941
+01:04:59,199 --> 01:05:03,439
+little bit of from them. But honestly,
+
+1942
+01:05:01,280 --> 01:05:04,880
+the biggest purpose of that site, it may
+
+1943
+01:05:03,440 --> 01:05:06,798
+have a further purpose two or three
+
+1944
+01:05:04,880 --> 01:05:10,240
+years from now because we may branch out
+
+1945
+01:05:06,798 --> 01:05:11,920
+into organic Peruvian onions. But
+
+1946
+01:05:10,239 --> 01:05:13,919
+honestly, the biggest thing it served
+
+1947
+01:05:11,920 --> 01:05:16,318
+right now is Aries. So Aries has his
+
+1948
+01:05:13,920 --> 01:05:18,079
+email is Ariesunions.com.
+
+1949
+01:05:16,318 --> 01:05:19,920
+And I per that was the first thing I
+
+1950
+01:05:18,079 --> 01:05:21,760
+did. I was like, Aries, his first
+
+1951
+01:05:19,920 --> 01:05:23,680
+domain, the domain they had used for
+
+1952
+01:05:21,760 --> 01:05:28,440
+their farm before they had a website was
+
+1953
+01:05:23,679 --> 01:05:28,440
+m and a ntfarms.net.
+
+1954
+01:05:28,880 --> 01:05:31,680
+And I was like, Aries, I hate your email
+
+1955
+01:05:30,239 --> 01:05:32,639
+address. Let's get you a let's just get
+
+1956
+01:05:31,679 --> 01:05:34,239
+you a better email. I get you
+
+1957
+01:05:32,639 --> 01:05:35,838
+Ariesunions.com.
+
+1958
+01:05:34,239 --> 01:05:39,038
+And so we set him up with an account at
+
+1959
+01:05:35,838 --> 01:05:41,279
+fastmail and hooked it up to onions.com.
+
+1960
+01:05:39,039 --> 01:05:43,039
+And then, you know, I go over probably
+
+1961
+01:05:41,280 --> 01:05:45,839
+at least once a month in season,
+
+1962
+01:05:43,039 --> 01:05:48,000
+probably two or three times a month. And
+
+1963
+01:05:45,838 --> 01:05:50,480
+he was like, "Peter, Peter, I went to a
+
+1964
+01:05:48,000 --> 01:05:52,318
+conference and somebody a farming
+
+1965
+01:05:50,480 --> 01:05:54,480
+conference, somebody asked my email."
+
+1966
+01:05:52,318 --> 01:05:56,318
+And I said, "Aarizonies.com."
+
+1967
+01:05:54,480 --> 01:05:58,240
+And the other person, they didn't have
+
+1968
+01:05:56,318 --> 01:06:00,639
+an answer. Then they said, "How did you
+
+1969
+01:05:58,239 --> 01:06:02,719
+get that domain?" And he was like, "I
+
+1970
+01:06:00,639 --> 01:06:05,440
+got a I got a web guy. He just got me
+
+1971
+01:06:02,719 --> 01:06:09,519
+the domain." He said 100% of the time.
+
+1972
+01:06:05,440 --> 01:06:12,400
+It floors people that he as a small
+
+1973
+01:06:09,519 --> 01:06:13,920
+medium-sized farmer, we have this
+
+1974
+01:06:12,400 --> 01:06:16,400
+gorilla.com
+
+1975
+01:06:13,920 --> 01:06:18,639
+domain that allows him. We're not the
+
+1976
+01:06:16,400 --> 01:06:21,440
+biggest Videlia farmers, but that domain
+
+1977
+01:06:18,639 --> 01:06:24,558
+allows us to look like the biggest,
+
+1978
+01:06:21,440 --> 01:06:26,880
+strongest Videlia farm out there. And we
+
+1979
+01:06:24,559 --> 01:06:28,319
+primarily use it for email right now.
+
+1980
+01:06:26,880 --> 01:06:30,640
+Everybody at the packingshed has their
+
+1981
+01:06:28,318 --> 01:06:32,639
+own custom email. John atun onions,
+
+1982
+01:06:30,639 --> 01:06:34,239
+peterunions.com.
+
+1983
+01:06:32,639 --> 01:06:35,679
+And we have our own custom, but right
+
+1984
+01:06:34,239 --> 01:06:38,318
+now it's like a landing page that just
+
+1985
+01:06:35,679 --> 01:06:39,919
+gives an overview of the farm. I have a
+
+1986
+01:06:38,318 --> 01:06:41,279
+big thing for our YouTube channel. Like
+
+1987
+01:06:39,920 --> 01:06:43,519
+if they want to go subscribe to our
+
+1988
+01:06:41,280 --> 01:06:45,440
+YouTube channel, uh gives background,
+
+1989
+01:06:43,519 --> 01:06:48,318
+but we may eventually build it out to
+
+1990
+01:06:45,440 --> 01:06:50,079
+sell other potentially other farming
+
+1991
+01:06:48,318 --> 01:06:52,639
+project. We may go down the citrus path.
+
+1992
+01:06:50,079 --> 01:06:54,160
+We may plant some citrus trees and we
+
+1993
+01:06:52,639 --> 01:06:56,239
+may just kind of take even though it's
+
+1994
+01:06:54,159 --> 01:06:58,000
+onions.com. We may just say, you know,
+
+1995
+01:06:56,239 --> 01:07:00,399
+we we farm everything under the sun,
+
+1996
+01:06:58,000 --> 01:07:01,519
+onions included. Just like monster.com
+
+1997
+01:07:00,400 --> 01:07:03,440
+used to be didn't have anything to do
+
+1998
+01:07:01,519 --> 01:07:06,000
+with jobs. It was just monster.com. And
+
+1999
+01:07:03,440 --> 01:07:08,159
+onions is like we So we do everything
+
+2000
+01:07:06,000 --> 01:07:10,079
+farming, but it's primarily for email
+
+2001
+01:07:08,159 --> 01:07:11,038
+right now. And we'll figure out another
+
+2002
+01:07:10,079 --> 01:07:12,640
+purpose for it down the road.
+
+2003
+01:07:11,039 --> 01:07:14,400
+>> It's hard to put a a dollar value on
+
+2004
+01:07:12,639 --> 01:07:16,639
+that, but it's valuable.
+
+2005
+01:07:14,400 --> 01:07:18,880
+>> Yeah. Yeah. It's fun to Yeah. showcase
+
+2006
+01:07:16,639 --> 01:07:19,838
+and put around. It's easier to put in my
+
+2007
+01:07:18,880 --> 01:07:22,318
+Twitter profile. I'll just put
+
+2008
+01:07:19,838 --> 01:07:23,920
+onions.com versus Videlia. Even like if
+
+2009
+01:07:22,318 --> 01:07:26,719
+I'm talking to a customer on the phone
+
+2010
+01:07:23,920 --> 01:07:28,639
+who is trying to visit our website, if
+
+2011
+01:07:26,719 --> 01:07:30,558
+it's an elderly c customer, sometimes
+
+2012
+01:07:28,639 --> 01:07:33,519
+it's tough to type Videlia. Yeah.
+
+2013
+01:07:30,559 --> 01:07:36,480
+>> And sometimes they spell with an a v a d
+
+2014
+01:07:33,519 --> 01:07:38,639
+v i d a l i a. And I just tell them go
+
+2015
+01:07:36,480 --> 01:07:40,400
+to onions.com. I got a big button there.
+
+2016
+01:07:38,639 --> 01:07:42,000
+Just click the button to go to Videlia
+
+2017
+01:07:40,400 --> 01:07:43,358
+and it'll take you right to then you
+
+2018
+01:07:42,000 --> 01:07:45,440
+play click the big green button on our
+
+2019
+01:07:43,358 --> 01:07:47,358
+homepage. You can go place an order and
+
+2020
+01:07:45,440 --> 01:07:49,760
+we'll get a we'll pack and ship tomorrow
+
+2021
+01:07:47,358 --> 01:07:51,920
+or the day after. Well, one pattern I've
+
+2022
+01:07:49,760 --> 01:07:53,520
+seen with all your stuff is you always
+
+2023
+01:07:51,920 --> 01:07:55,119
+work with partners, critical partners
+
+2024
+01:07:53,519 --> 01:07:56,480
+that you couldn't, you know, you
+
+2025
+01:07:55,119 --> 01:07:57,680
+couldn't make this project work without.
+
+2026
+01:07:56,480 --> 01:07:58,798
+>> And I didn't anticipate that. I don't
+
+2027
+01:07:57,679 --> 01:08:00,480
+want to interrupt you, but you're right.
+
+2028
+01:07:58,798 --> 01:08:02,639
+I didn't I always thought I was a solo
+
+2029
+01:08:00,480 --> 01:08:04,318
+builder. I'm a solo build. I'll do
+
+2030
+01:08:02,639 --> 01:08:06,480
+everything myself. I'll put all this on
+
+2031
+01:08:04,318 --> 01:08:08,079
+my plate. And then lo and behold, I did
+
+2032
+01:08:06,480 --> 01:08:09,599
+dude ranch and then I wind up partnering
+
+2033
+01:08:08,079 --> 01:08:11,839
+with somebody. I found Videlia. I
+
+2034
+01:08:09,599 --> 01:08:14,559
+partnered with somebody. I only found
+
+2035
+01:08:11,838 --> 01:08:16,798
+ranch work because of my partner. And I
+
+2036
+01:08:14,559 --> 01:08:18,159
+have found I do look for that now. If I
+
+2037
+01:08:16,798 --> 01:08:19,600
+It's more challenging. I sorry to
+
+2038
+01:08:18,158 --> 01:08:21,439
+interrupt you, but you're you're exactly
+
+2039
+01:08:19,600 --> 01:08:23,440
+right. I was fooled into thinking I was
+
+2040
+01:08:21,439 --> 01:08:25,198
+a solar builder and I'm not. I I work
+
+2041
+01:08:23,439 --> 01:08:26,879
+really well with a partner. It's tough
+
+2042
+01:08:25,198 --> 01:08:28,479
+to find a really good partner, though.
+
+2043
+01:08:26,880 --> 01:08:30,079
+If you want to go fast, go alone. If you
+
+2044
+01:08:28,479 --> 01:08:30,479
+want to go far, go together.
+
+2045
+01:08:30,079 --> 01:08:32,798
+>> Yeah.
+
+2046
+01:08:30,479 --> 01:08:34,238
+>> But what I was saying is you're like
+
+2047
+01:08:32,798 --> 01:08:36,079
+you're much better at sales than you
+
+2048
+01:08:34,238 --> 01:08:38,079
+might give yourself credit for because
+
+2049
+01:08:36,079 --> 01:08:40,238
+you're selling your partners on this
+
+2050
+01:08:38,079 --> 01:08:42,479
+opportunity and you're doing it in like
+
+2051
+01:08:40,238 --> 01:08:45,439
+a no-brainer offer way, right? Good
+
+2052
+01:08:42,479 --> 01:08:47,599
+salesmen offer no-brainer offers. with
+
+2053
+01:08:45,439 --> 01:08:49,358
+Dude Ranch, it was I I know they didn't
+
+2054
+01:08:47,600 --> 01:08:50,560
+go for the pay-per lead aspect, but that
+
+2055
+01:08:49,359 --> 01:08:52,400
+was one of your first offers. It was
+
+2056
+01:08:50,560 --> 01:08:54,000
+like, don't take any risks. I'll find
+
+2057
+01:08:52,399 --> 01:08:55,439
+you a lead and then you buy it from me,
+
+2058
+01:08:54,000 --> 01:08:56,798
+right? And then that evolved over time,
+
+2059
+01:08:55,439 --> 01:08:59,439
+but that at least got your foot in the
+
+2060
+01:08:56,798 --> 01:09:02,560
+door. And then with Videlia, it was
+
+2061
+01:08:59,439 --> 01:09:04,079
+listen uh like let's just split this and
+
+2062
+01:09:02,560 --> 01:09:05,279
+I'll do all the online stuff. I'll be
+
+2063
+01:09:04,079 --> 01:09:07,359
+the distribution, you be the
+
+2064
+01:09:05,279 --> 01:09:10,159
+fulfillment. And then with Ranchwork, it
+
+2065
+01:09:07,359 --> 01:09:11,759
+was 7525. You take no risk. Keep your
+
+2066
+01:09:10,158 --> 01:09:14,479
+domain name. I don't need it. Point it
+
+2067
+01:09:11,759 --> 01:09:16,238
+here, but keep it. and let's just see if
+
+2068
+01:09:14,479 --> 01:09:18,079
+this works. And you had to find the
+
+2069
+01:09:16,238 --> 01:09:19,599
+right people, but you also had to give
+
+2070
+01:09:18,079 --> 01:09:21,119
+them the right offer and you were able
+
+2071
+01:09:19,600 --> 01:09:23,199
+to do that. So, it worked.
+
+2072
+01:09:21,119 --> 01:09:24,880
+>> Yeah. Yeah. This is accurate. Yeah. What
+
+2073
+01:09:23,198 --> 01:09:26,719
+are the tools in your tool belt that you
+
+2074
+01:09:24,880 --> 01:09:28,640
+can't live without? Like websites, like
+
+2075
+01:09:26,719 --> 01:09:30,480
+for doing research, finding expiring
+
+2076
+01:09:28,640 --> 01:09:33,440
+domains. What's like a rapidfired list
+
+2077
+01:09:30,479 --> 01:09:34,879
+of tools? I love clicky analytics is
+
+2078
+01:09:33,439 --> 01:09:37,439
+what I use to monitor.
+
+2079
+01:09:34,880 --> 01:09:39,039
+>> Clicky. Clicky.com. Okay. It's better
+
+2080
+01:09:37,439 --> 01:09:40,879
+than stupid GA4.
+
+2081
+01:09:39,039 --> 01:09:43,039
+>> Yeah. I've never I got rid of GA
+
+2082
+01:09:40,880 --> 01:09:44,719
+probably five or six years maybe longer
+
+2083
+01:09:43,039 --> 01:09:46,960
+than that. I rely on click for
+
+2084
+01:09:44,719 --> 01:09:49,520
+everything. SEO and paid search were
+
+2085
+01:09:46,960 --> 01:09:52,480
+very beneficial to me. Earn learn the
+
+2086
+01:09:49,520 --> 01:09:54,159
+basics of SEO. It can still ignore what
+
+2087
+01:09:52,479 --> 01:09:55,919
+everybody's saying about you know
+
+2088
+01:09:54,158 --> 01:09:57,359
+artificial intelligence SEO. It all
+
+2089
+01:09:55,920 --> 01:09:58,719
+leans on the same principles in my
+
+2090
+01:09:57,359 --> 01:10:01,599
+opinion. It's still going to rank and
+
+2091
+01:09:58,719 --> 01:10:03,520
+pull up content that matches your niche.
+
+2092
+01:10:01,600 --> 01:10:05,920
+I don't use a ton of me. I have Shopify
+
+2093
+01:10:03,520 --> 01:10:09,520
+for the transaction for Vidilia Ship
+
+2094
+01:10:05,920 --> 01:10:11,520
+Station to manage our tens of thousands
+
+2095
+01:10:09,520 --> 01:10:13,360
+of orders every single year because I
+
+2096
+01:10:11,520 --> 01:10:15,040
+got to make sure these things land and
+
+2097
+01:10:13,359 --> 01:10:17,599
+our customers get it. And I'd like to
+
+2098
+01:10:15,039 --> 01:10:19,519
+find out that the box has been lost
+
+2099
+01:10:17,600 --> 01:10:21,760
+before the customer realizes that the
+
+2100
+01:10:19,520 --> 01:10:23,600
+box has been lost so I can ask UPS or
+
+2101
+01:10:21,760 --> 01:10:25,840
+just ship them a make good before it
+
+2102
+01:10:23,600 --> 01:10:28,239
+even lands and then even recognize that
+
+2103
+01:10:25,840 --> 01:10:31,119
+the original box was lost. What about
+
+2104
+01:10:28,238 --> 01:10:33,359
+like for looking at domain traffic and
+
+2105
+01:10:31,119 --> 01:10:34,479
+expiring domains? Is GoDaddy auctions
+
+2106
+01:10:33,359 --> 01:10:36,479
+your go-to for that?
+
+2107
+01:10:34,479 --> 01:10:38,799
+>> If an old domain that was registered in
+
+2108
+01:10:36,479 --> 01:10:40,718
+95 is failed to renewed, it pops up. It
+
+2109
+01:10:38,800 --> 01:10:42,880
+does not pop up over at GoDaddy. It only
+
+2110
+01:10:40,719 --> 01:10:44,640
+pops up at NameJet or Snapnames. So,
+
+2111
+01:10:42,880 --> 01:10:47,440
+I'll look at GoDaddy, NameJet,
+
+2112
+01:10:44,640 --> 01:10:49,280
+Snapnames. NameCheep created their own
+
+2113
+01:10:47,439 --> 01:10:51,198
+auction platform to auction their own
+
+2114
+01:10:49,279 --> 01:10:54,399
+names. So, they have their own those
+
+2115
+01:10:51,198 --> 01:10:56,719
+three and drop catch. I used Amaze as an
+
+2116
+01:10:54,399 --> 01:10:58,960
+inspiration to build. I tried to build
+
+2117
+01:10:56,719 --> 01:11:01,679
+on ideas first and I never seemed to get
+
+2118
+01:10:58,960 --> 01:11:04,560
+anywhere. When I shifted my perspective
+
+2119
+01:11:01,679 --> 01:11:06,000
+to build and be inspired by domains,
+
+2120
+01:11:04,560 --> 01:11:07,520
+things started working. I was like,
+
+2121
+01:11:06,000 --> 01:11:09,119
+"Okay, I'll just use the trust and
+
+2122
+01:11:07,520 --> 01:11:10,159
+authority from this name, see if I can
+
+2123
+01:11:09,119 --> 01:11:12,238
+build something
+
+2124
+01:11:10,158 --> 01:11:13,839
+>> and let it do some of the heavy lifting
+
+2125
+01:11:12,238 --> 01:11:14,479
+and I can be the dude behind the
+
+2126
+01:11:13,840 --> 01:11:16,079
+keyboard."
+
+2127
+01:11:14,479 --> 01:11:17,519
+>> I like to say the same thing. I like to
+
+2128
+01:11:16,079 --> 01:11:18,960
+start with like a marketing channel and
+
+2129
+01:11:17,520 --> 01:11:20,400
+then work backwards from that. And
+
+2130
+01:11:18,960 --> 01:11:22,560
+that's essentially what you're saying,
+
+2131
+01:11:20,399 --> 01:11:24,158
+right? Your domain name is the the
+
+2132
+01:11:22,560 --> 01:11:25,600
+grandfather of your marketing channel.
+
+2133
+01:11:24,158 --> 01:11:27,039
+You start there and then work backwards.
+
+2134
+01:11:25,600 --> 01:11:28,880
+>> Correct. Other tools. Let's see. So,
+
+2135
+01:11:27,039 --> 01:11:31,039
+it's those are the primary from the
+
+2136
+01:11:28,880 --> 01:11:34,079
+expiration process. There's a site
+
+2137
+01:11:31,039 --> 01:11:35,760
+called expired domains. Is it.net? I'd
+
+2138
+01:11:34,079 --> 01:11:38,000
+use it sometimes, but it's a pretty good
+
+2139
+01:11:35,760 --> 01:11:40,079
+it's a fire hose. Let me pull it up and
+
+2140
+01:11:38,000 --> 01:11:43,279
+make sure I have the domain. It's anet.
+
+2141
+01:11:40,079 --> 01:11:46,399
+Expired domains.net.
+
+2142
+01:11:43,279 --> 01:11:47,920
+And it is just a almost a wall of text
+
+2143
+01:11:46,399 --> 01:11:50,559
+on the website, but you can set up a
+
+2144
+01:11:47,920 --> 01:11:52,960
+free account. There's no cost. And and
+
+2145
+01:11:50,560 --> 01:11:55,199
+they do searches across properties. So
+
+2146
+01:11:52,960 --> 01:11:58,158
+you can do searches across NameJet,
+
+2147
+01:11:55,198 --> 01:12:01,279
+Snapnames, GoDaddy, Namechep, sometimes
+
+2148
+01:11:58,158 --> 01:12:03,198
+Drop Catch, and try to see if a name
+
+2149
+01:12:01,279 --> 01:12:05,119
+pops up through those. I'm kind of old
+
+2150
+01:12:03,198 --> 01:12:06,719
+school. I just go direct. I just go to
+
+2151
+01:12:05,119 --> 01:12:08,719
+Drop Catch, see what's up there. Go to
+
+2152
+01:12:06,719 --> 01:12:10,560
+Goody and see what's up there. Do you
+
+2153
+01:12:08,719 --> 01:12:12,640
+think directory businesses are still
+
+2154
+01:12:10,560 --> 01:12:14,480
+viable today in the age of AI?
+
+2155
+01:12:12,640 --> 01:12:17,360
+>> Yes, Dude Ranch is a good example
+
+2156
+01:12:14,479 --> 01:12:20,718
+because my site's providing photographs,
+
+2157
+01:12:17,359 --> 01:12:22,079
+video, background information. So, the
+
+2158
+01:12:20,719 --> 01:12:23,600
+photographs have been helpful and they
+
+2159
+01:12:22,079 --> 01:12:25,439
+want a kind of a trusted source to look
+
+2160
+01:12:23,600 --> 01:12:29,039
+at. What I'm seeing, I mean, the my
+
+2161
+01:12:25,439 --> 01:12:32,079
+traffic's up almost 40%. It was 39%
+
+2162
+01:12:29,039 --> 01:12:34,719
+year-over-year on that project. My
+
+2163
+01:12:32,079 --> 01:12:38,238
+rebuild helped, but AI is helping as
+
+2164
+01:12:34,719 --> 01:12:40,079
+well because AI is making suggestions on
+
+2165
+01:12:38,238 --> 01:12:41,839
+here are some ranches, but hey, here's
+
+2166
+01:12:40,079 --> 01:12:45,279
+dude ranch.com. It's a pretty trusted
+
+2167
+01:12:41,840 --> 01:12:47,600
+authority. You can also go search on
+
+2168
+01:12:45,279 --> 01:12:51,279
+dude ranches with pickle ball that are
+
+2169
+01:12:47,600 --> 01:12:52,719
+an hour away from a major airport. AI is
+
+2170
+01:12:51,279 --> 01:12:53,599
+kind of the cliffnotes version. They can
+
+2171
+01:12:52,719 --> 01:12:54,880
+kind of point you in the right
+
+2172
+01:12:53,600 --> 01:12:58,239
+direction. I don't know if they'll ever
+
+2173
+01:12:54,880 --> 01:13:01,119
+be I mean yeah if there is if there was
+
+2174
+01:12:58,238 --> 01:13:03,279
+a directory business for sale that was
+
+2175
+01:13:01,119 --> 01:13:04,960
+in my price range. I would seriously
+
+2176
+01:13:03,279 --> 01:13:06,559
+consider acquiring it and looking into
+
+2177
+01:13:04,960 --> 01:13:09,119
+the numbers to see if it might fit into
+
+2178
+01:13:06,560 --> 01:13:11,440
+my portfolio. But I'm pretty happy with
+
+2179
+01:13:09,119 --> 01:13:14,960
+my little three projects. Dude Ranch has
+
+2180
+01:13:11,439 --> 01:13:17,519
+such interesting social media potential
+
+2181
+01:13:14,960 --> 01:13:19,840
+and I'm not doing a very good job
+
+2182
+01:13:17,520 --> 01:13:21,040
+promoting it from that aspect. So I'm
+
+2183
+01:13:19,840 --> 01:13:22,400
+trying to see if there might be an
+
+2184
+01:13:21,039 --> 01:13:24,880
+interesting person to either buy the
+
+2185
+01:13:22,399 --> 01:13:27,519
+whole thing out or or I am it's so low
+
+2186
+01:13:24,880 --> 01:13:29,520
+touch for me. I'm you can tell I can I
+
+2187
+01:13:27,520 --> 01:13:31,840
+love the industry and enamored with it
+
+2188
+01:13:29,520 --> 01:13:34,480
+and I I don't mind keeping it if there's
+
+2189
+01:13:31,840 --> 01:13:36,640
+a good partner who can help either write
+
+2190
+01:13:34,479 --> 01:13:37,839
+content, do great social media that has
+
+2191
+01:13:36,640 --> 01:13:39,360
+experience with that and doesn't mind
+
+2192
+01:13:37,840 --> 01:13:42,319
+going visiting some of the ranches and
+
+2193
+01:13:39,359 --> 01:13:44,399
+and kind of getting feet on the street.
+
+2194
+01:13:42,319 --> 01:13:46,559
+>> You're searchbound on Twitter, deep
+
+2195
+01:13:44,399 --> 01:13:47,359
+south.com for your blog. Where else can
+
+2196
+01:13:46,560 --> 01:13:48,880
+people find you?
+
+2197
+01:13:47,359 --> 01:13:51,359
+>> Asku.org
+
+2198
+01:13:48,880 --> 01:13:54,400
+is kind of ogw.
+
+2199
+01:13:51,359 --> 01:13:56,079
+>> Yeah, askew.org RG is kind of just the
+
+2200
+01:13:54,399 --> 01:13:58,399
+just the little home base. Links to some
+
+2201
+01:13:56,079 --> 01:14:00,319
+of my art my essays that I've written,
+
+2202
+01:13:58,399 --> 01:14:02,079
+links to projects, links to failed
+
+2203
+01:14:00,319 --> 01:14:04,319
+projects that I've built. Most
+
+2204
+01:14:02,079 --> 01:14:06,079
+importantly, things I've tried, domains
+
+2205
+01:14:04,319 --> 01:14:08,238
+I've bought and donated. I bought
+
+2206
+01:14:06,079 --> 01:14:09,039
+miss.com and donated to Miss.
+
+2207
+01:14:08,238 --> 01:14:09,439
+>> That's amazing.
+
+2208
+01:14:09,039 --> 01:14:11,840
+>> Yeah.
+
+2209
+01:14:09,439 --> 01:14:13,359
+>> Roll tide. All right, Peter. Well, thank
+
+2210
+01:14:11,840 --> 01:14:15,039
+you. This was awesome.
+
+2211
+01:14:13,359 --> 01:14:16,238
+>> No, I appreciate the invite. All right.
+
+2212
+01:14:15,039 --> 01:14:17,760
+What' you think? Please share it with a
+
+2213
+01:14:16,238 --> 01:14:20,319
+friend and we'll see you next time on
+
+2214
+01:14:17,760 --> 01:14:20,320
+the Kerner

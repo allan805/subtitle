@@ -583,7 +583,7 @@ end tell
         if auto_paste:
             base += """
 tell application "System Events"
-    delay 0.8
+    delay 1
     keystroke "v" using command down
     delay 0.5
     key code 36
