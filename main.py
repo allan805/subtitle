@@ -1,5 +1,9 @@
 """全平台字幕助手 —— GUI 入口
 
+新增功能（v2.0）:
+- 支持播放列表/频道批量字幕下载
+- 自动识别 YouTube 播放列表、频道、Bilibili 合集/收藏夹/UP主空间
+
 主题逻辑:
 - 背景色: 窗口背景、输入框背景（统一）
 - 按钮背景色: 按钮本身的背景色（可调整）
@@ -72,13 +76,14 @@ class SubtitleAssistant:
         self.root = root
         self.config = load_config()
 
-        self.root.title("全平台字幕助手")
+        self.root.title("全平台字幕助手 v2.0")
         self.root.geometry("1100x800")
         self.root.configure(bg=self.config["bg_color"])
 
         self._setup_ttk_style()
 
         self.last_clipboard = ""
+        self.is_downloading = False  # 防止重复点击
 
         # ========== 顶部 ==========
         top_frame = tk.Frame(root, bg=self.config["bg_color"])
@@ -163,6 +168,18 @@ class SubtitleAssistant:
             setting, "⬇ 开始下载字幕", self.start, font=("Arial", 14, "bold"), width=22, height=2
         )
         self.download_btn.pack(side="right")
+
+        # ========== 进度区（批量下载时显示）==========
+        self.progress_frame = tk.Frame(root, bg=self.config["bg_color"])
+        self.progress_frame.pack(fill="x", padx=15, pady=(0, 0))
+        self.progress_label = tk.Label(
+            self.progress_frame,
+            text="",
+            font=("Arial", 11, "bold"),
+            bg=self.config["bg_color"],
+            fg="#4CAF50",  # 绿色进度文字
+        )
+        self.progress_label.pack(side="left")
 
         # ========== 输出区 ==========
         self.output = scrolledtext.ScrolledText(
@@ -489,11 +506,29 @@ class SubtitleAssistant:
     # 下载线程
     # ==========================
     def start(self):
+        if self.is_downloading:
+            self.log("\n⚠️ 正在下载中，请稍候...\n")
+            return
+        self.is_downloading = True
+        self.download_btn.configure(state="disabled", text="下载中...")
         threading.Thread(target=self.download_flow, daemon=True).start()
+
+    def _finish_download(self):
+        """下载完成后恢复按钮状态"""
+        self.is_downloading = False
+        self.download_btn.configure(state="normal", text="⬇ 开始下载字幕")
+        self.progress_label.configure(text="")
+
+    def _update_progress(self, current, total, url=""):
+        """在主线程更新进度标签（通过 after 调用）"""
+        self.progress_label.configure(
+            text=f"批量下载进度: {current}/{total}"
+        )
 
     def download_flow(self):
         url = self.url_entry.get().strip()
         if not url:
+            self.root.after(0, self._finish_download)
             return
 
         self.output.delete("1.0", tk.END)
@@ -505,23 +540,50 @@ class SubtitleAssistant:
             folder = os.path.join(APP_DIR, folder[2:])
 
         try:
-            result = download_subtitle(
-                url, lang, browser,
-                log_func=self.log,
-            )
+            # 检测是否为播放列表/频道
+            from core.playlist import is_collection_url, download_collection_subtitles
 
-            self.output.insert(tk.END, "\n" + "=" * 50 + "\n")
-            self.output.insert(tk.END, result["text"])
-            self.output.insert(tk.END, "\n" + "=" * 50 + "\n")
+            is_collection, collection_type = is_collection_url(url)
 
-            clipboard.copy(result["text"])
-            self.log("\n✅ 字幕已复制到剪贴板\n")
+            if is_collection:
+                # ========== 批量下载模式 ==========
+                type_name = "播放列表" if collection_type == "playlist" else "频道"
+                self.log(f"\n🎯 检测到{type_name}链接，启动批量下载模式...\n")
 
-            txt_path, srt_path = save_subtitle(result, folder, log_func=self.log)
-            self.back_to_browser()
+                def progress_callback(idx, total, video_url):
+                    self.root.after(0, self._update_progress, idx, total, video_url)
+
+                result = download_collection_subtitles(
+                    url, lang, browser, folder,
+                    log_func=self.log,
+                    progress_callback=progress_callback,
+                )
+
+                self.log(f"\n📦 字幕已保存到: {result['folder']}\n")
+                self.back_to_browser()
+
+            else:
+                # ========== 单个视频下载模式（原有逻辑）==========
+                result = download_subtitle(
+                    url, lang, browser,
+                    log_func=self.log,
+                )
+
+                self.output.insert(tk.END, "\n" + "=" * 50 + "\n")
+                self.output.insert(tk.END, result["text"])
+                self.output.insert(tk.END, "\n" + "=" * 50 + "\n")
+
+                clipboard.copy(result["text"])
+                self.log("\n✅ 字幕已复制到剪贴板\n")
+
+                txt_path, srt_path = save_subtitle(result, folder, log_func=self.log)
+                self.back_to_browser()
 
         except Exception as e:
             self.log(f"\n❌ 错误: {str(e)}\n")
+
+        finally:
+            self.root.after(0, self._finish_download)
 
     # ==========================
     # 切回浏览器
