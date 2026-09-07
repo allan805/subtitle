@@ -53,9 +53,10 @@ DEFAULT_CONFIG = {
     "auto_clipboard": True,
     "auto_whisper_fallback": True,
     "whisper_cpp_path": "/Users/or/gitc/whisper.cpp",
-    "whisper_model": "ggml-medium.bin",
+    "whisper_model": "ggml-small.bin",
     "auto_browser_back": True,
     "browser_tab": 1,
+    "return_browser": "edge",
     "prompt_text": "根据文本详细总结这个字幕文件",
     "theme": "dark",
 }
@@ -218,17 +219,15 @@ class SubtitleWorker(QThread):
                 err_msg = str(e)
                 self.log(f"\n⚠️ 字幕获取失败: {err_msg}\n")
 
-                # 检查是否是"无字幕"错误
-                no_sub_keywords = ["没有字幕", "未能获取到字幕", "NoTranscriptFound",
-                                   "TranscriptsDisabled", "no subtitle"]
-                is_no_sub = any(k in err_msg for k in no_sub_keywords)
-
-                if not (self.whisper_fallback and is_no_sub):
+                # API / yt-dlp 都失败时，只要开启 Whisper fallback 就继续转录。
+                # YouTube 的 JS challenge / 网络错误也可能表现成字幕获取失败，
+                # 不能只依赖“无字幕”几个错误关键词。
+                if not self.whisper_fallback:
                     self.finished_signal.emit(False, err_msg, "")
                     return
 
                 # ====== Fallback: 下载音频 → whisper.cpp 转录 ======
-                self.log("\n🔄 未找到字幕，启动 Whisper 语音转录...\n")
+                self.log("\n🔄 YouTube 字幕获取失败，启动本地 Whisper 语音转录...\n")
                 self._whisper_fallback()
 
         except Exception as e:
@@ -245,6 +244,7 @@ class SubtitleWorker(QThread):
 
             audio_path = audio_dir / "temp_audio.wav"
             ytdlp_args = [
+                "--js-runtimes", "node",
                 "-x", "--audio-format", "wav", "--audio-quality", "0",
                 "-o", str(audio_path).replace(".wav", ".%(ext)s"),
                 "--no-playlist",
@@ -268,20 +268,27 @@ class SubtitleWorker(QThread):
 
             # 2. whisper.cpp 转录
             self.log("🎙 步骤2: Whisper.cpp 语音转文字...\n")
-            whisper_dir = Path(self.whisper_path)
-            model_path = whisper_dir / "models" / self.whisper_model
+            whisper_dir = Path(self.whisper_path).expanduser()
+            configured_model = Path(self.whisper_model).expanduser()
+
+            # 支持完整模型路径、whisper.cpp/models/模型名、whisper.cpp/模型名
+            if configured_model.is_absolute() and configured_model.exists():
+                model_path = configured_model
+            else:
+                model_path = whisper_dir / "models" / self.whisper_model
+                if not model_path.exists():
+                    alt_model = whisper_dir / self.whisper_model
+                    if alt_model.exists():
+                        model_path = alt_model
 
             if not model_path.exists():
-                # 尝试其他位置
-                alt_model = whisper_dir / self.whisper_model
-                if alt_model.exists():
-                    model_path = alt_model
-                else:
-                    self.finished_signal.emit(
-                        False, f"Whisper 模型未找到: {model_path}\n"
-                                f"请先下载模型到 {whisper_dir}/models/ 目录", ""
-                    )
-                    return
+                self.finished_signal.emit(
+                    False, f"Whisper 模型未找到: {model_path}\n"
+                            f"当前模型设置: {self.whisper_model}\n"
+                            f"请将 ggml-small.bin 放到 {whisper_dir}/models/，"
+                            f"或在设置中填写完整模型路径。", ""
+                )
+                return
 
             main_bin = whisper_dir / "main"
             if not main_bin.exists():
@@ -304,10 +311,11 @@ class SubtitleWorker(QThread):
             whisper_args = [
                 str(main_bin), "-m", str(model_path),
                 "-f", str(out_wav),
-                "-l", self.lang if self.lang != "zh-Hans" else "zh",
+                "-l", "zh" if self.lang in ("zh-Hans", "zh-Hant", "zh") else self.lang,
                 "-osrt",  # 输出 SRT
                 "-of", str(audio_dir / "whisper_output"),
             ]
+            self.log(f"🧠 模型: {model_path}\n")
             self.log(f"🚀 运行 Whisper: {' '.join(whisper_args)}\n")
             w_result = run_cmd(whisper_args, log_func=self.log, timeout=600, cwd=str(whisper_dir))
 
@@ -341,9 +349,20 @@ class SubtitleWorker(QThread):
             from core.subtitle import save_subtitle
 
             # 获取视频信息用于文件名
-            info_result = run_ytdlp(["--print", "%(title)s", "--skip-download", self.url], timeout=30)
+            info_args = ["--js-runtimes", "node", "--print", "%(title)s", "--skip-download"]
+            if self.browser and self.browser.lower() != "none":
+                info_args.extend(["--cookies-from-browser", self.browser.lower()])
+            info_args.append(self.url)
+            info_result = run_ytdlp(info_args, timeout=30)
             title = info_result["stdout"].strip() or "unknown"
-            info = {"platform": "whisper", "id": "audio", "title": title}
+            video_id = "audio"
+            id_args = ["--js-runtimes", "node", "--print", "%(id)s", "--skip-download"]
+            if self.browser and self.browser.lower() != "none":
+                id_args.extend(["--cookies-from-browser", self.browser.lower()])
+            id_args.append(self.url)
+            id_result = run_ytdlp(id_args, timeout=30)
+            video_id = id_result["stdout"].strip() or video_id
+            info = {"platform": "youtube", "id": video_id, "title": title}
             filename = make_filename(info)
 
             result_dict = {
@@ -591,7 +610,7 @@ class MainWindow(QMainWindow):
         self.auto_whisper_cb.setChecked(True)
         smart_layout.addWidget(self.auto_whisper_cb)
 
-        self.auto_browser_cb = QCheckBox("🔄 完成后切回浏览器粘贴")
+        self.auto_browser_cb = QCheckBox("🔄 完成后切回指定浏览器")
         self.auto_browser_cb.setChecked(True)
         smart_layout.addWidget(self.auto_browser_cb)
 
@@ -874,44 +893,72 @@ class MainWindow(QMainWindow):
     # ==================== 浏览器回切 ====================
 
     def _browser_back_and_paste(self, subtitle_text: str):
-        """切回 Edge 第1个标签页，粘贴提示词并回车"""
+        """切回用户指定的浏览器和标签页；设置保存在配置中。"""
         try:
-            prompt = self.config.get("prompt_text",
-                                     "根据文本详细总结这个字幕文件")
-            tab_index = self.config.get("browser_tab", 1)
+            browser = self.config.get("return_browser", "edge").lower()
+            tab_index = int(self.config.get("browser_tab", 1))
+            app_names = {
+                "edge": "Microsoft Edge",
+                "chrome": "Google Chrome",
+                "safari": "Safari",
+                "firefox": "Firefox",
+            }
+            app_name = app_names.get(browser)
+            if not app_name:
+                self.log_box.append(f"\n⚠️ 未知返回浏览器: {browser}\n")
+                return
 
-            # 复制字幕文本到剪贴板（用于粘贴）
             if subtitle_text and len(subtitle_text) > 10:
                 from PySide6.QtWidgets import QApplication
                 QApplication.clipboard().setText(subtitle_text)
 
-            # AppleScript 控制 Edge
-            script = f"""
-tell application "Microsoft Edge"
+            if browser in ("edge", "chrome", "safari"):
+                script = f"""
+tell application "{app_name}"
     activate
     delay 0.3
     tell window 1
         set active tab index to {tab_index}
     end tell
 end tell
+"""
+                result = subprocess.run(["osascript", "-e", script],
+                                        capture_output=True, text=True, timeout=10)
+            else:
+                # Firefox：用 Cmd+数字选择 1~8 号标签页。
+                script = f"""
+tell application "Firefox" to activate
+tell application "System Events"
+    delay 0.5
+    keystroke "{min(tab_index, 8)}" using command down
+end tell
+"""
+                result = subprocess.run(["osascript", "-e", script],
+                                        capture_output=True, text=True, timeout=10)
 
+            if result.returncode != 0:
+                self.log_box.append(f"\n⚠️ 浏览器切换失败: {result.stderr}\n")
+                return
+
+            action = f"{app_name} 第 {tab_index} 个标签页"
+            if self.config.get("auto_paste_enter", False):
+                script2 = """
 tell application "System Events"
     delay 0.5
     keystroke "v" using command down
     delay 0.3
     key code 36
-    delay 0.2
 end tell
 """
-            result = subprocess.run(
-                ["osascript", "-e", script],
-                capture_output=True, text=True, timeout=10
-            )
-            if result.returncode == 0:
-                self.log_box.append(f"\n🔄 已切回 Edge 第 {tab_index} 个标签页并粘贴\n")
-                self.statusBar().showMessage(f"🔄 已切回 Edge 并粘贴提示词", 5000)
-            else:
-                self.log_box.append(f"\n⚠️ 浏览器切换失败: {result.stderr}\n")
+                r2 = subprocess.run(["osascript", "-e", script2],
+                                    capture_output=True, text=True, timeout=10)
+                if r2.returncode != 0:
+                    self.log_box.append(f"\n⚠️ 自动粘贴失败: {r2.stderr}\n")
+                else:
+                    action += "并自动粘贴/回车"
+
+            self.log_box.append(f"\n🔄 已切回 {action}\n")
+            self.statusBar().showMessage(f"🔄 已切回 {app_name} 第 {tab_index} 个标签页", 5000)
         except Exception as e:
             self.log_box.append(f"\n⚠️ 浏览器回切失败: {e}\n")
 
@@ -936,11 +983,20 @@ end tell
         self._set_whisper_model = QLineEdit(self.config.get("whisper_model", "ggml-medium.bin"))
         form.addRow("Whisper 模型文件名:", self._set_whisper_model)
 
-        # 浏览器标签页
+        # 完成后返回的浏览器 + 标签页（与 Cookie 浏览器分开）
+        self._set_return_browser = QComboBox()
+        self._set_return_browser.addItems(["edge", "chrome", "safari", "firefox"])
+        self._set_return_browser.setCurrentText(self.config.get("return_browser", "edge"))
+        form.addRow("完成后切回浏览器:", self._set_return_browser)
+
         self._set_browser_tab = QSpinBox()
-        self._set_browser_tab.setRange(1, 20)
+        self._set_browser_tab.setRange(1, 99)
         self._set_browser_tab.setValue(self.config.get("browser_tab", 1))
-        form.addRow("切回浏览器第几个标签页:", self._set_browser_tab)
+        form.addRow("切回第几个标签页:", self._set_browser_tab)
+
+        self._set_auto_paste = QCheckBox("自动粘贴字幕并回车")
+        self._set_auto_paste.setChecked(self.config.get("auto_paste_enter", False))
+        form.addRow("", self._set_auto_paste)
 
         # 提示词
         self._set_prompt = QLineEdit(self.config.get("prompt_text",
@@ -957,7 +1013,9 @@ end tell
     def _save_settings(self, dlg):
         self.config["whisper_cpp_path"] = self._set_whisper_path.text().strip()
         self.config["whisper_model"] = self._set_whisper_model.text().strip()
+        self.config["return_browser"] = self._set_return_browser.currentText()
         self.config["browser_tab"] = self._set_browser_tab.value()
+        self.config["auto_paste_enter"] = self._set_auto_paste.isChecked()
         self.config["prompt_text"] = self._set_prompt.text().strip()
         save_config(self.config)
         dlg.accept()

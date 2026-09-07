@@ -25,6 +25,12 @@ YT_HEADERS = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
 }
 
+def _ytdlp_common_args(browser: str = None) -> list:
+    """YouTube 新版客户端的 JS challenge 使用 Node 求解，并按需读取浏览器 Cookie。"""
+    args = ["--js-runtimes", "node"]
+    args.extend(cookie_args(browser))
+    return args
+
 
 def _extract_video_id(url: str) -> str:
     patterns = [
@@ -75,8 +81,9 @@ def _get_title_from_html(video_id: str) -> str:
 
 
 def _get_title_from_ytdlp(url: str, browser: str) -> str:
-    cmd = ["yt-dlp", "--print", "%(title)s", "--skip-download", url]
-    cmd.extend(cookie_args(browser))
+    cmd = ["yt-dlp", "--print", "%(title)s", "--skip-download"]
+    cmd.extend(_ytdlp_common_args(browser))
+    cmd.append(url)
     try:
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
         title = result.stdout.strip()
@@ -104,15 +111,23 @@ def get_info(url: str, browser: str = None) -> dict:
 
 
 def get_subtitle(url: str, lang: str, browser: str = None, log_func=None) -> dict:
+    if log_func:
+        log_func(f"🔎 YouTube 字幕 API: 尝试 {lang}...\\n")
     api_result = _try_transcript_api(url, lang)
     if api_result:
+        if log_func:
+            log_func(f"✅ 字幕 API 获取成功: {api_result.get('source', '')}\\n")
         return api_result
+    if log_func:
+        log_func("⚠️ 字幕 API 未获取到结果，切换 yt-dlp...\\n")
 
-    ytdlp_result = _ytdlp_subtitle(url, lang, browser)
+    ytdlp_result = _ytdlp_subtitle(url, lang, browser, log_func=log_func)
     if ytdlp_result:
         return ytdlp_result
 
-    ytdlp_result = _ytdlp_subtitle(url, "all", browser)
+    if log_func:
+        log_func("🔎 yt-dlp 再尝试自动检测可用字幕语言...\\n")
+    ytdlp_result = _ytdlp_subtitle(url, "all", browser, log_func=log_func)
     if ytdlp_result:
         return ytdlp_result
 
@@ -151,19 +166,24 @@ def _try_transcript_api(url: str, lang: str) -> dict:
     return None
 
 
-def _ytdlp_subtitle(url: str, lang: str, browser: str) -> dict:
+def _ytdlp_subtitle(url: str, lang: str, browser: str, log_func=None) -> dict:
     with tempfile.TemporaryDirectory() as tmpdir:
         cmd = [
-            "yt-dlp", url,
+            "yt-dlp",
             "--skip-download",
             "--write-subs", "--write-auto-subs",
             "--sub-langs", lang,
             "--convert-subs", "srt",
             "-o", os.path.join(tmpdir, "sub.%(ext)s"),
         ]
-        cmd.extend(cookie_args(browser))
+        cmd.extend(_ytdlp_common_args(browser))
+        cmd.append(url)
 
-        subprocess.run(cmd, capture_output=True, text=True)
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=120)
+        if result.returncode != 0 and log_func:
+            log_func("\n⚠️ yt-dlp 字幕获取失败:\n" + (result.stderr or result.stdout) + "\n")
+        elif log_func:
+            log_func("✅ yt-dlp 字幕获取成功\n")
 
         for ext in [".srt", ".vtt"]:
             for f in os.listdir(tmpdir):

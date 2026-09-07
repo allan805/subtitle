@@ -10,12 +10,13 @@
   "whisper_model": "ggml-small.bin",
   "auto_browser_back": true,
   "browser_tab": 1,
+  "return_browser": "edge",
   "prompt_text": "根据文本详细总结这个字幕文件",
   "theme": "dark",
   "bg_color": "#1a1a1a",
   "btn_bg_color": "#7f7a31",
   "key_color": "#e0e0e0",
   "fg_color": "#b0b0b0",
-  "auto_paste_enter": false,
+  "auto_paste_enter": true,
   "folder": "./subtitle"
 }
