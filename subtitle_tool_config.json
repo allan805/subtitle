@@ -1,4 +1,10 @@
 {
+  "lang": "zh-Hans",
+  "browser": "none",
+  "folder_subtitle": "/Users/or/Downloads/subtitlle/",
+  "folder_video": "/Users/or/gitc/subtitle/video",
+  "resolution": "1080p",
+  "theme": "dark",
   "bg_color": "#1a1a1a",
   "btn_bg_color": "#7f7a31",
   "key_color": "#e0e0e0",
